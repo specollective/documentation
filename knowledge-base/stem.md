@@ -4,6 +4,10 @@
 
 {% embed url="https://www.khanacademy.org/" caption="" %}
 
+## OpenLearn
+
+{% embed url="https://www.open.edu/openlearn/" %}
+
 ## Brilliant.org
 
 {% embed url="https://brilliant.org" caption="" %}

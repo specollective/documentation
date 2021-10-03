@@ -8,8 +8,6 @@
 
 {% embed url="https://academia.edu/12098158/How\_to\_Cultivate\_Cultural\_Openness\_Among\_Adult\_Learners\_Practical\_Examples\_From\_the\_Buffalo\_Project" %}
 
-
-
 ## Report for “Fostering an ‘Open’ Culture at Empire State College: An Ethnographic Study of Niagara Frontier Center Participant Observations” \(AY 2012-2013\)
 
 #### Abstract
