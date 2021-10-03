@@ -38,9 +38,11 @@
 
 ## Knowledge Base
 
+* [Getting Started](knowledge-base/getting-started.md)
 * [Open Education Resources](knowledge-base/oer.md)
 * [Massive Open Online Courses](knowledge-base/stem.md)
-* [Diversity Equity & Inclusion](knowledge-base/diversity-equity-and-inclusion.md)
+* [Diversity Equity & Inclusion](knowledge-base/diversity-equity-and-inclusion/README.md)
+  * [Research Papers](knowledge-base/diversity-equity-and-inclusion/research-papers.md)
 * [Sustainable Agriculture](knowledge-base/sustainable-agriculture/README.md)
   * [The Basics of Botany](knowledge-base/sustainable-agriculture/the-basics-of-botany.md)
   * [Plant Growth Factors](knowledge-base/sustainable-agriculture/plant-growth-factors.md)
