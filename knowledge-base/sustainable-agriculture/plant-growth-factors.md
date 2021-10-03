@@ -1,10 +1,12 @@
 ---
-description: "\U0001F6A7  This page is actively under construction and should be considered incomplete. \U0001F6A7"
+description: "\U0001F6A7   This page is under construction and is considered incomplete. \U0001F6A7"
 ---
 
 # Plant Growth Factors
 
 This guide has been adapted from Oregon State University's guide to [Environmental Factors Affecting Plant Growth](https://extension.oregonstate.edu/gardening/techniques/environmental-factors-affecting-plant-growth).
+
+{% embed url="https://extension.oregonstate.edu/gardening/techniques/environmental-factors-affecting-plant-growth" %}
 
 ## Introduction
 
@@ -98,4 +100,11 @@ Plants are classified as hardy or nonhardy depending on their ability to withsta
 Winter injury to plants generally occurs when temperatures drop too quickly in the fall before a plant has progressed to full dormancy. In other cases, a plant may break dormancy in mid or late winter if the weather is unseasonably warm. If a sudden, severe cold snap follows the warm spell, otherwise hardy plants can be seriously damaged. The tops of hardy plants are much more cold-tolerant than the roots. Plants that normally are hardy to 10°F may be killed if they are in containers and the roots are exposed to 20°F.
 
 Cold temperates may also cause desiccation \(drying out\) of plant tissues. When the soil is frozen, water movement into a plant may become severely restricted. On a windy winter day, broadleaf evergreens can become water-deficient in a few minutes, and the leaves or needles then turn brown. To minimize the risk of this type of injury, make sure your plants go into the winter well watered.
+
+## References
+
+1. Wikipedia, [Plant nutrition](https://en.wikipedia.org/wiki/Plant_nutrition) \(2021\)
+2. [https://greatist.com/connect/beginners-guide-to-gardening\#a-balanced-environment](https://greatist.com/connect/beginners-guide-to-gardening#a-balanced-environment)
+3. [https://ecogardener.com/blogs/news/4-factors-that-affect-plant-growth](https://ecogardener.com/blogs/news/4-factors-that-affect-plant-growth)
+4. OSU, [Environmental Factors Affecting Plant Growth](https://extension.oregonstate.edu/gardening/techniques/environmental-factors-affecting-plant-growth) \(2021\)
 
