@@ -6,11 +6,11 @@ description: "\U0001F6A7   This page is under construction and is considered inc
 
 ## Introduction
 
-> #### "Organizations, companies or individuals without core values are exactly like a boat without an anchor; it can be easy tossed to and fro following any direction the wind blows."
+> #### Organizations, companies or individuals without core values are exactly like a boat without an anchor; it can be easy tossed to and fro following any direction the wind blows.
 >
 > Dr. Lucas D. Shallua
 
-The Sustainable Progress and Equality Collective was founded when two like-minded individuals, with a shared mission of making the world a better place, connected and spontaneously decided to cooperate to respond to the challenges facing their communities. SPEC's founders established the collective based on the core values of sustainability, progress, and equality. They chose these core values, because combined they provide a recipe for building radically transparent and equitable organizations. SPEC's operating principles operationalize the core values, providing a framework for decision-making and organizational development. 
+The Sustainable Progress and Equality Collective was founded when two like-minded individuals, with a shared mission of making the world a better place, connected and spontaneously decided to cooperate to respond to the challenges facing their communities. SPEC's founders established the collective based on the core values of sustainability, progress, and equality. They chose these core values, because combined they provide a recipe for building radically transparent and equitable organizations. SPEC's operating principles operationalize the core values, providing a framework for decision-making and organizational development. SPEC will need continuously change how it operates and evolve over time in order to incorporate the voices and knowledge of our growing network along the way. Likewise our operating principles we be regularly revisited and updated to reflect SPEC's organizational goals, feedback, and contributions from our community.
 
 ## Core Values
 
@@ -28,8 +28,6 @@ In order for progress to deemed successful it will need produce sustainable syst
 
 ## Operating Principles
 
-SPEC's operating principles are intended to expand our shared interpretation and understanding of the core values, inform decision-making, and serve as a framework for organizational development. SPEC is dedicated to building a radically transparent and equitable organization, and helping others do the same. To do so the organization will need continuously change how it operates and evolve over time. It will incorporate the voices and knowledge of our growing network along the way. Likewise our operating principles we be regularly revisited and updated to reflect SPEC's organizational goals, feedback, and contributions from our community.
-
 Each core principle statement starts with a core value followed by the method through which we will achieve the intent of the value. The statements are designed to encapsulate the most fundamental principle employed to serve the core values.
 
 1. **Sustainability Through Critical Systems Thinking**
@@ -40,14 +38,14 @@ The core principles are based an a pluralism of research methodologies that span
 
 ### Sustainability Through Critical Systems Thinking
 
-1. Use critical thinking and awareness when building systems; rigorously examining assumptions and evaluating the conditions which give rise to them.
-2. Seek emancipatory solutions that define improvement locally and temporarily, create balance between economy, equity, and the environment, and account for issues of power
-3. Systematically use a pluralism of research methodologies and technologies, becoming aware of their strengths and weaknesses, to synergistically solve complex problems.
+1. Use critical thinking when building systems; rigorously examining assumptions and evaluating the conditions which give rise to them.
+2. Seek emancipatory solutions that define improvement locally and temporarily, create balance between economy, equity, and environment, and account for issues of power.
+3. Systematically use a pluralism of research and development methodologies, becoming aware of their strengths and weaknesses, to synergistically solve complex problems.
 
 ### **Progress Through Open Collaborative Action Research**
 
 1. Strive for openness in our research, communications, organizational process, and finances.
-2. Seek to understand the world by trying to create transformative change in it, through collaboration, research, and critical reflection.
+2. Seek to understand the world by trying to create transformative change through collaboration, research, and critical reflection.
 3. Create a work environment that provides brave spaces and psychological safety to enable full and fair participation of individuals from all social identity groups in a society.
 
 ### Equality Through Mutual Reciprocity
@@ -58,7 +56,7 @@ The core principles are based an a pluralism of research methodologies that span
 
 ## Theoretical Foundations
 
-#### Complex Adaptive Systems
+### Embracing Complexity
 
 Sustainability is an incredibly complex issue. The Earth's climate, atmosphere, land, ocean, and biosphere, along with human civilization are complex adaptive systems \(CAS\). A CAS is simply a system in which many independent elements or agents interact, leading to emergent outcomes that are often difficult \(or impossible\) to predict simply by looking at the individual interactions. A CAS has three defining characteristics.\[1\]
 
@@ -68,7 +66,7 @@ Sustainability is an incredibly complex issue. The Earth's climate, atmosphere, 
 
 People seek to improve complex adaptive systems, sometimes with disastrous consequences. One choice can lead to a series of cascading events that were completely unanticipated. People really have the best of intentions. But there is no way they can anticipate the ultimate results. Humans are incredibly good at linking cause and effect - sometimes too good.\[1\]
 
-#### Challenges to Systemic Interventions
+### Challenges to Systemic Interventions
 
 Ten thousand years ago most cause and effect was pretty clear. And our brains evolved to deal with that. However, that means that when you see something occur in a complex adaptive system, your mind is going to create a narrative to explain what happened—even though cause and effect are not comprehensible in that kind of system. Hindsight’s a beautiful thing. Also, we have a tendency to think that certain causes will lead to particular effects. We just don’t know. Our uncertainly is our biggest single bias.\[1\]
 
@@ -76,13 +74,13 @@ Faced with uncertainty, we tend to listen to authoritative figures, even when it
 
 We’re also reluctant to share private information, so we aggregate information poorly. Because we choose to talk about shared information and reserve unique information, we can end up making bad decisions. Committees are not optimized to share private information. So even in organizations where the information exists, it’s not being surfaced.\[1\]
 
-#### The Importance of Cognitive Diversity
+### The Importance of Cognitive Diversity
 
 How people think, their training, their experience, their personalities is key to tackling complex problems. Research has shown that diverse groups are better at making predictions and solving problems. Intentionally putting together different points of view that will challenge one another is essential for hiring and for building teams.\[1\]
 
 Even if you have a diverse team, if you’re bowling everybody over with your point of view, that’s not going to be of great value. Leaders have to step back and let those diverse views surface. This doesn’t come naturally to leaders. Often we try to hire smart people. We try to put smart people on teams. But we don’t think enough about how much diversity can contribute. The key is to find smart people who think differently.\[1\] 
 
-#### Critical Systems Thinking
+### Critical Systems Thinking
 
 Critical Systems Thinking \(CST\) is an approach to systemic intervention that combines systems thinking and participatory methods to address the challenges of problems characterized by large scale, complexity, uncertainty, impermanence, and imperfection. It was developed to account for nonlinear relationships, feedback loops, hierarchies, and emergent properties. CST has particularly problematized the issue of boundaries and their consequences for inclusion, exclusion and marginalization. As a research perspective CST is said to embrace three fundamental commitments.
 
@@ -111,4 +109,6 @@ Flood and Jackson suggest that
 1. Tim Sullivan, [Embracing Complexity](https://hbr.org/2011/09/embracing-complexity), Harvard Business Review \(September 2011\)
 2. [https://social-change.co.uk/blog/2019-03-29-equality-and-equity](https://social-change.co.uk/blog/2019-03-29-equality-and-equity)
 3. [https://link.springer.com/chapter/10.1007/978-1-4757-9883-8\_7](https://link.springer.com/chapter/10.1007/978-1-4757-9883-8_7)
+4. [https://kapanjadibeda.files.wordpress.com/2010/08/action-research-princip-and-practice.pdf](https://kapanjadibeda.files.wordpress.com/2010/08/action-research-princip-and-practice.pdf)
+5. Margaret Riel, [Understanding Collaborative Action Research](https://base.socioeco.org/docs/center_for_collaborative_action_research.pdf) \(2019\)
 
