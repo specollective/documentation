@@ -1,16 +1,36 @@
 ---
-description: "\U0001F6A7  This page is actively under construction and should be considered incomplete. \U0001F6A7"
+description: "\U0001F6A7  This page is under construction and is considered incomplete. \U0001F6A7"
 ---
 
 # Software Engineering
 
 ## Introduction
 
-There are many definitions and understandings of Software Engineering. Software engineering can be understood as a formal sub-discipline of computer science, electrical engineering, and computer engineering. It is also seen as a profession, career, vocation, and craft. The ISO/IEC/IEEE Systems and Software Engineering Vocabulary \(SEVOCAB\) define software engineering as "the application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software; that is, the application of engineering to software\)." Software engineers apply the principles of software engineering to design, develop, maintain, test, and evaluate computer software. The term programmer is sometimes used as a synonym, but may also lack connotations of formal education or skills. Software engineering is critical to modern technologies from your alarm clock to rocket flight control systems. Modern society truly runs on computer software. 
+Software engineering is the application of engineering to design, implement, maintain, test, and evaluate computer software. Computer software \(or simply software\) is a set of instructions and that tells a computer how to work. Computer hardware \(or simply hardware\) is a physical system that performs the work defined by software and configuration. Computer software and hardware require each other and neither can be used on their own. Software encompasses all information processed by a computer system, including programs, libraries, and non-executable data such as documentation or media.
 
-## What is Computer Software?
+Software engineers create the programs which turn computers into useful machines. Computer software enables us to send email, search the Internet, make video calls, control industrial manufacturing robots, and fly rockets. Software engineers manage the entire process of designing and developing software, which includes computer programming, gathering requirements, software testing, and maintaining the final product. Software engineers have played a central role in the ongoing digital revolution by making the software which tells computers what to do, Computer software is transforming human civilization and has led to the beginning of the Information Age.
 
-Computer software \(or simply software\) is a set of instructions and that tells a computer how to work. Computer hardware \(or simply hardware\) is a physical system that performs the work defined by software. Computer software and hardware require each other and neither can be used on their own. Software encompasses all information processed by a computer system, including programs, libraries, and non-executable data such as documentation or media.
+There are many formal definitions and understandings of software engineering. The ISO/IEC/IEEE Systems and Software Engineering Vocabulary \(SEVOCAB\) define software engineering as 
+
+> the application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software; that is, the application of engineering to software
+
+Software engineers apply the principles of  engineering to design, develop, maintain, test, and evaluate software. The term programmer is sometimes used as a synonym, but may also lack connotations of formal education or skills. In some circles, there is controversy over over the term software engineer versus programmer and software developer. The activity of computer programming is mainly involved in the implementation phase of software development, thus programmers are considered to only be responsible and able to contribute to a limited problem domain. For more information about about the programmer versus engineer controversy checkout Programmers: Stop Calling Yourselves Engineers, by [Ian Bogost](https://www.theatlantic.com/author/ian-bogost/).
+
+{% embed url="https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/" %}
+
+For the purpose of this guide we will only use the term software engineer, but recognize that software engineer, computer programmer, and software developer have different legal implications and connotations depending on the industry and particular professional context.
+
+## Why learn software engineering?
+
+Software engineering is critical to modern technologies from your alarm clock to rocket flight control systems. Modern society truly runs on computer software. Software engineering is also one of the fastest growing professions today and a career as a software engineer offers variety of benefits.
+
+* Gain great skill-set that's in short supply, opening up a wide range of options.
+* Excellent working conditions - often shorter, flexible hours, with possibility of remote work.
+* In the US, the pay is relatively high, especially early in your career - $100,000+ starting salary is possible.
+
+Software engineering can empower individuals by giving them the financial means to earn to give and build useful skills. To learn more about how to make an impact with a career in software engineering, checkout the article [Software engineering at large tech-firms \(for skill-building & earning to give\)](https://80000hours.org/career-reviews/software-engineering/) published by the organization 80,000 Hours.
+
+{% embed url="https://80000hours.org/career-reviews/software-engineering" %}
 
 ## History of Software Engineering
 
@@ -42,9 +62,11 @@ Today, the [ISO/IEC JTC 1/SC 7 subcommittee](https://www.iso.org/committee/45086
 
 Software engineering is one of the fastest growing professions today. The roles and responsibilities range from industry and technology stack. In 2018, the U.S. Bureau of Labor Statistics\(BLS\) counted 1,365,500 software developers holding jobs in the U.S. Since software engineering is relatively new discipline, formal education is often taught as part of a computer science curriculum. As such, software engineers typically hold computer science, computer engineering, and electrical engineering degrees. The BLS estimates from 2014 to 2024 that the number of software engineers will increase by 17%.
 
+According to Indeed.com, the average salary for a software engineer in the United States is $111,537. A good starting software engineer salary in the US is considered to be $113,211 per year. Competitive starting salaries will vary depending on location and cost of living.
+
 ## Education
 
-Software engineers work on a variety of technologies from websites to flight control systems, require varying education and training in computer science, computer programming, engineering, mathematics, and project management. Open Source Society University offers a free online curriculum that corresponds to 4-year degree in computer science with links to online education resources and courses. It covers a variety of subjects including computer science theory, computer programming, mathematics, engineering tools, operating systems, data structures & algorithms, information security, software engineering, and advanced computer science topics.
+Software engineers work on a variety of technologies from websites to flight control systems, require varying education and training in computer science, computer programming, engineering, mathematics, and project management. Open Source Society University offers a free online curriculum that corresponds to 4-year degree in computer science with links to online education resources and courses. It covers a variety of subjects including computer science theory, computer programming, mathematics, engineering, operating systems, data structures & algorithms, information security, software engineering, and advanced computer science topics.
 
 {% embed url="https://github.com/ossu/computer-science" %}
 
@@ -58,6 +80,8 @@ The Accreditation Board for Engineering and Technology \(ABET\) is a non-governm
 * Cover discrete mathematics, probability, and statistics, with applications appropriate to software engineering
 
 The program's faculty members must also teach core software engineering topics, have an understanding of professional practice in software engineering, and maintain currency in their areas of professional or scholarly specialization.
+
+In practice, most software engineering activities do not need to be performed by software engineerings from ABET accredited bachelor degree programs. However, software engineers in industries such as aerospace, pharmaceuticals, energy, and transportation, who are working on safety/mission critical systems, will typically be required to have an ABET accredited degree in software engineering, computer engineering, computer science, or electrical engineering.
 
 ## Code Bootcamps
 

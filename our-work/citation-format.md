@@ -4,7 +4,7 @@ description: "\U0001F6A7   This page is under construction and is considered inc
 
 # Citation Format
 
-Introduction
+## Introduction
 
 SPEC's documentation site utilizes a simple citation format to encourage contributors to always cite their sources. SPEC citation format leverages Gitbook's functionality.
 
@@ -31,6 +31,4 @@ Wikipedia is one of the largest and most-read reference work in history. Wikiped
 Citing a book is simple. For a book with a single author simply include the authors name, the title as a URL to a sensible source for the book, the publisher name, and the copy right date.
 
 1. Peter A. Gloor, [Swarm Creativity: Competitive Advantage Through Collaborative Innovation Networks](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780195304121.001.0001/acprof-9780195304121), Oxford University Press \(2006\)
-
-## 🚧 Under Construction 🚧
 

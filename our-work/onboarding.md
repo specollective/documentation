@@ -1,18 +1,14 @@
 ---
-description: "��  This page is under construction and should be considered incomplete. \U0001F6A7"
+description: "\U0001F6A7 This page is under construction and is considered incomplete. \U0001F6A7"
 ---
 
 # Onboarding
 
-## Welcome!
-
-> ### Even the greatest was once a beginner. Don't be afraid to take that first step.
+> #### Even the greatest was once a beginner. Don't be afraid to take that first step.
 >
 > Muhammad Ali
 
-We are excited that you have decided to contribute to the Sustainable Progress and Equality Collective \(SPEC\). Whether you are a new researcher or developer, this page will help you learn the ins and outs of getting started at SPEC.
-
-Simply go through each step in the checklist below and you should be able to get up and running at SPEC in no time!
+We are excited that you have decided to contribute to the Sustainable Progress and Equality Collective \(SPEC\). Whether you are a new researcher or developer, this page will help you learn the ins and outs of getting started at SPEC. Simply go through each step in the checklist below and you should be able to get up and running at SPEC in no time!
 
 ## 1. Remember you can always email us.
 

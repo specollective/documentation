@@ -4,7 +4,9 @@ description: "\U0001F6A7   This page is under construction and is considered inc
 
 # The Basics of Botany
 
-This guide is adapted from The New York Botanical Garden's pamphlet Teacher Resources: The Basics of Botany.
+## **Introduction**
+
+The purpose of this guide is to provide information and foundation knowledge for individuals interested in gardening, farming, or horticulture. It provides an outline of botany and core concepts that will help you continue your journey learning about plants and agricultural practices. This guide is adapted from The New York Botanical Garden's pamphlet Teacher Resources: The Basics of Botany.
 
 ## What is a plant?
 

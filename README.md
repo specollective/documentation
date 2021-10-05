@@ -4,7 +4,7 @@ description: "\U0001F6A7  This website hosts SPEC's documentation. It is activel
 
 # Introduction
 
-> ### "make the world work for 100% of humanity, in the shortest possible time, through spontaneous cooperation without ecological offense or disadvantage of anyone."
+> #### "make the world work for 100% of humanity, in the shortest possible time, through spontaneous cooperation without ecological offense or disadvantage of anyone."
 >
 > Richard Buckminster Fuller
 

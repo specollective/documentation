@@ -1,10 +1,10 @@
 ---
-description: "\U0001F6A7  This page is under construction and should be considered incomplete. \U0001F6A7"
+description: "\U0001F6A7  This page under construction and is considered incomplete. \U0001F6A7"
 ---
 
 # Research & Development
 
-> ### "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete."
+> #### "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete."
 >
 > Richard Buckminster Fuller
 

@@ -23,13 +23,6 @@ We are striving to make sustainable careers for our contributors. Currently, all
 **Co-founder**  
 San Francisco, California
 
-### Marcus Steiner
-
-![](../.gitbook/assets/image%20%285%29.png)
-
-**Operations Lead**  
-Noblesville, Indiana
-
 ### Nan Eileen Mead
 
 ![](../.gitbook/assets/image%20%286%29.png)
@@ -37,20 +30,25 @@ Noblesville, Indiana
 **Research Lead**  
 New York City Metropolitan Area
 
+### Marcus Steiner
+
+![](../.gitbook/assets/image%20%285%29.png)
+
+**Operations Lead**  
+Noblesville, Indiana
+
 ### Grant Newland
 
 ![](../.gitbook/assets/12801336_542142815954249_6215724611391571345_n%20%281%29.jpg)
 
-**Research Associate**
-
+**Research Associate**  
 Arlington, TX
 
 ### Matt Moore
 
 ![](../.gitbook/assets/matt-moore.png)
 
-**Research Associate**
-
+**Research Engineer**  
 Raleigh-Durham-Chapel Hill Area
 
 ## Get Involved
