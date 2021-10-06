@@ -38,6 +38,8 @@ The core principles are based an a pluralism of research methodologies that span
 
 ## Theoretical Foundations
 
+🚧This section is very technical, incomplete, and needs more citations  🚧
+
 Sustainability and social justice are incredibly complex challenges. The Earth's climate, atmosphere, land, ocean, and biosphere, along with human civilization are complex adaptive systems \(CAS\). A CAS is simply a system in which many independent elements or agents interact, leading to emergent outcomes that are often difficult \(or impossible\) to predict simply by looking at the individual interactions. A CAS has three defining characteristics.\[1\]
 
 1. The system consists of a number of heterogeneous agents, and each of those agents makes decisions about how to behave, with their decisions will evolving over time.
