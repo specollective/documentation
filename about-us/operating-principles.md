@@ -18,7 +18,7 @@ SPEC will need to continuously evolve over time in order to incorporate the voic
 
 ### Equality
 
-We all want a world where every person can live a happy healthy, and productive life. Discrimination and prejudice, fueled by greed, fear, and confusion, stand as the biggest obstacle to giving everyone an equal chance at flourishing. How can we achieve equality for all in the face these discriminatory forces? We need elevate unheard voices, open boundaries, and learn collectively. If equality is the end goal, diversity, equity, inclusion, and reciprocity are the means to get there. Progress must include individuals from all social identities inclusive of race and ethnicity, sex, gender and gender identity, sexual orientation, neurodiversity, socioeconomic status, language, culture, national origin, religion, age, veteran’s status, and political perspective. Creating last change will not be easy. We will we need to take collective action, share knowledge and resources, and collaboratively innovate to create systemic change.
+We all want a world where every person can live a happy healthy, and productive life. Discrimination and prejudice, fueled by greed, fear, and confusion, stand as the biggest obstacle to giving everyone an equal chance at flourishing. How can we achieve equality for all in the face these discriminatory forces? We need elevate unheard voices, open boundaries, and learn collectively. Progress must include individuals from all social identities inclusive of race and ethnicity, sex, gender and gender identity, sexual orientation, neurodiversity, socioeconomic status, language, culture, national origin, religion, age, veteran’s status, and political perspective. Creating last change will not be easy. We will we need to take collective action, share knowledge and resources, and collaboratively innovate to create systemic change.
 
 ### Progress
 
@@ -52,8 +52,9 @@ The core principles are based an a pluralism of research methodologies that span
 
 ### Equality Through Mutual Reciprocity
 
-1. 2. Prioritize health, mental wellbeing, family, and happiness.
-3. Treat everyone in our communities with compassion, mutual respect, and accountability.
+1. Equality is the end goal, diversity, equity, inclusion, and reciprocity are the means to get there.
+2. Treat everyone in our communities with compassion, mutual respect, and accountability.
+3. Prioritize health, mental wellbeing, family, and happiness.
 
 ## Theoretical Foundations
 
