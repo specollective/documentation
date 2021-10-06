@@ -32,7 +32,7 @@ The core principles are based an a pluralism of research methodologies that span
 
 ### Equality Through Mutual Reciprocity
 
-1. Equality is the end goal, diversity, equity, inclusion, and reciprocity are the means to get there.
+1. Equality is the end goal; diversity, equity, inclusion, and reciprocity are the means to get there.
 2. Treat everyone in our communities with compassion, mutual respect, and accountability.
 3. Prioritize your health, mental wellbeing, family, and happiness.
 
