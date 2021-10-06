@@ -6,9 +6,9 @@
 >
 > Dr. Lucas D. Shallua
 
-The Sustainable Progress and Equality Collective was founded when two like-minded individuals, with a shared mission of making the world a better place, connected and decided to spontaneously cooperate to respond to the challenges facing their communities. SPEC's founders established the collective based on the core values of sustainability, progress, and equality. They chose these values, because combined they provide a recipe for building radically sustainable, equitable, transparent. organizations. SPEC's operating principles operationalize its core values, providing a framework for decision-making and organizational development.
+The Sustainable Progress and Equality Collective was founded when two like-minded individuals, with a shared mission of making the world a better place, connected and decided to spontaneously cooperate to respond to the challenges facing their communities. SPEC's founders established the collective based on the core values of sustainability, progress, and equality. They chose these values, because combined they provide a recipe for building radically sustainable, equitable, transparent. organizations.
 
-SPEC will need to continuously evolve over time in order to incorporate the voices and knowledge of its members along the way. Likewise SPEC's operating principles will be regularly revisited and updated to reflect the organization's goals, feedback, and community contributions. This page should be considered a living document that will transform overtime along with the collective.
+SPEC will need to continuously evolve over time in order to incorporate the voices and knowledge of its members along the way. Likewise SPEC's core values and operating principles will be regularly revisited and updated to reflect the organization's goals, feedback, and community contributions. This page should be considered a living document that will transform overtime along with the collective.
 
 ## Core Values
 
