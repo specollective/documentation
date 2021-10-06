@@ -7,6 +7,7 @@
 * [History](about-us/history.md)
 * [Mission](about-us/mission.md)
 * [Organization](about-us/organization.md)
+* [Core Values](about-us/core-values.md)
 * [Operating Principles](about-us/operating-principles.md)
 * [Our Team](about-us/team.md)
 * [Steering Committee](about-us/steering-committee.md)
