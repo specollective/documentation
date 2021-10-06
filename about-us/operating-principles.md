@@ -10,7 +10,7 @@ description: "\U0001F6A7   This page is under construction and is considered inc
 >
 > Dr. Lucas D. Shallua
 
-The Sustainable Progress and Equality Collective was founded when two like-minded individuals, with a shared mission of making the world a better place, connected and spontaneously decided to cooperate to respond to the challenges facing their communities. SPEC's founders established the collective based on the core values of sustainability, progress, and equality. They chose these core values, because combined they provide a recipe for building radically transparent and equitable organizations. SPEC's operating principles operationalize the core values, providing a framework for decision-making and organizational development.
+The Sustainable Progress and Equality Collective was founded when two like-minded individuals, with a shared mission of making the world a better place, connected and decided to spontaneously cooperate to respond to the challenges facing their communities. SPEC's founders established the collective based on the core values of sustainability, progress, and equality. They chose these values, because combined they provide a recipe for building radically sustainable, equitable, transparent. organizations. SPEC's operating principles operationalize its core values, providing a framework for decision-making and organizational development.
 
 SPEC will need to continuously evolve over time in order to incorporate the voices and knowledge of its members along the way. Likewise SPEC's operating principles will be regularly revisited and updated to reflect the organization's goals, feedback, and community contributions. This page should be considered a living document that will transform overtime along with the collective.
 
@@ -18,13 +18,18 @@ SPEC will need to continuously evolve over time in order to incorporate the voic
 
 ### Equality
 
-We all want a world where every person can live a happy healthy, and productive life. Discrimination and prejudice, fueled by greed, fear, and confusion, stand as the biggest obstacle to giving everyone an equal chance at flourishing.
-
-We must treat each other with mutual respect and accountability; and give voice the oppressed and underserved. We will need to continuously take collective action and share knowledge to innovate and create lasting solutions.
+We all want a world where every person can live a happy healthy, and productive life. Discrimination and prejudice, fueled by greed, fear, and confusion, stand as the biggest obstacle to giving everyone an equal chance at flourishing. How can we achieve equality for all in the face these discriminatory forces? We need elevate unheard voices, open boundaries, and learn collectively. If equality is the end goal, diversity, equity, inclusion, and reciprocity are the means to get there. We must include individuals from all social identities inclusive of race and ethnicity, sex, gender and gender identity, sexual orientation, socioeconomic status, language, culture, national origin, religious commitments, age, \(dis\)ability status, veteran’s status, and perspective.  
+Creating last change will not be easy. We will we need to take collective action, share knowledge and resources, and collaboratively innovate to create systemic change.
 
 ### Progress
 
-Transformative change can be achieved through collective action, research, and critical reflection. We can collaborate openly, sharing our research, knowledge, and resources, to accelerate sustainability and social impact initiatives. However, sustaining progress is a challenge, with many forces impeding on the advancement of humanitarian and environmental causes. Progress that leads to lasting change takes time, resources, and capital.
+Transformative change can be achieved through collaboration, research, and critical reflection. We can can ensure solutions reach those in need by fostering participation and action by the members of the communities affected by initiatives for progress. We can rapidly advance sustainability and social change by openly sharing research, knowledge, and resources. However, sustaining progress will be a challenge, with many factors and forces impeding advancement of humanitarian and environmental causes. 
+
+
+
+Progress that leads to lasting change will take time, resources, and capital. We will need to build public goods and services that support progress 
+
+ emphasizing 
 
 ### Sustainability
 
@@ -54,8 +59,7 @@ The core principles are based an a pluralism of research methodologies that span
 
 ### Equality Through Mutual Reciprocity
 
-1. Equality is the end goal; diversity, equity, and inclusion are the means to get there.
-2. Prioritize your health, mental wellbeing, family, and happiness.
+1. 2. Prioritize health, mental wellbeing, family, and happiness.
 3. Treat everyone in our communities with compassion, mutual respect, and accountability.
 
 ## Theoretical Foundations
