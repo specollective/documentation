@@ -14,7 +14,7 @@ We all want a world where every person can live a happy healthy, and productive 
 
 ## Progress
 
-Transformative change can be achieved through collaboration, research, and critical reflection. We can can ensure solutions reach those in need by fostering participation and action by the members of the communities affected by initiatives for progress. We can rapidly advance sustainability and social change by openly sharing research, knowledge, and resources. However, sustaining progress will be a challenge, with many factors and forces impeding advancement of humanitarian and environmental causes. Progress that leads to lasting change will take time, resources, and capital. We will need to build public goods and services that are effective, efficient, and capable of supporting progress for the long term.
+Transformative change can be achieved through collaboration, research, and critical reflection. We can ensure solutions reach those in need by fostering participation and action by the members of the communities affected by initiatives for progress. We can rapidly advance sustainability and social change by openly sharing research, knowledge, and resources. However, sustaining progress will be a challenge, with many factors and forces impeding advancement of humanitarian and environmental causes. Progress that leads to lasting change will take time, resources, and capital. We will need to build public goods and services that are effective, efficient, and capable of supporting progress for the long term.
 
 ## Sustainability
 
