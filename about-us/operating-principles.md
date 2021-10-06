@@ -54,11 +54,9 @@ The core principles are based an a pluralism of research methodologies that span
 
 1. Equality is the end goal, diversity, equity, inclusion, and reciprocity are the means to get there.
 2. Treat everyone in our communities with compassion, mutual respect, and accountability.
-3. Prioritize health, mental wellbeing, family, and happiness.
+3. Prioritize your health, mental wellbeing, family, and happiness.
 
 ## Theoretical Foundations
-
-### Embracing Complexity
 
 Sustainability and social justice are incredibly complex challenges. The Earth's climate, atmosphere, land, ocean, and biosphere, along with human civilization are complex adaptive systems \(CAS\). A CAS is simply a system in which many independent elements or agents interact, leading to emergent outcomes that are often difficult \(or impossible\) to predict simply by looking at the individual interactions. A CAS has three defining characteristics.\[1\]
 
@@ -98,7 +96,7 @@ The three commitments of CST are derived from the work over Habermas, who claime
 
 1. a 'technical interest' in predicting and controlling our natural and social environment.
 2. a 'practical interest' in pursuing mutual understanding.
-3.  an 'emancipatory interest' in freeing ourselves from constraints imposed by power relations.
+3. an 'emancipatory interest' in freeing ourselves from constraints imposed by power relations.
 
 Flood and Jackson suggest that
 
@@ -106,7 +104,7 @@ Flood and Jackson suggest that
 * "soft" methodologies support practical interest
 * critical systems heuristics support emancipatory interest
 
-To be continued...
+🚧 To be continued... 🚧
 
 ## References
 
