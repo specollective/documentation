@@ -18,22 +18,15 @@ SPEC will need to continuously evolve over time in order to incorporate the voic
 
 ### Equality
 
-We all want a world where every person can live a happy healthy, and productive life. Discrimination and prejudice, fueled by greed, fear, and confusion, stand as the biggest obstacle to giving everyone an equal chance at flourishing. How can we achieve equality for all in the face these discriminatory forces? We need elevate unheard voices, open boundaries, and learn collectively. If equality is the end goal, diversity, equity, inclusion, and reciprocity are the means to get there. We must include individuals from all social identities inclusive of race and ethnicity, sex, gender and gender identity, sexual orientation, socioeconomic status, language, culture, national origin, religious commitments, age, \(dis\)ability status, veteran’s status, and perspective.  
-Creating last change will not be easy. We will we need to take collective action, share knowledge and resources, and collaboratively innovate to create systemic change.
+We all want a world where every person can live a happy healthy, and productive life. Discrimination and prejudice, fueled by greed, fear, and confusion, stand as the biggest obstacle to giving everyone an equal chance at flourishing. How can we achieve equality for all in the face these discriminatory forces? We need elevate unheard voices, open boundaries, and learn collectively. If equality is the end goal, diversity, equity, inclusion, and reciprocity are the means to get there. Progress must include individuals from all social identities inclusive of race and ethnicity, sex, gender and gender identity, sexual orientation, neurodiversity, socioeconomic status, language, culture, national origin, religion, age, veteran’s status, and political perspective. Creating last change will not be easy. We will we need to take collective action, share knowledge and resources, and collaboratively innovate to create systemic change.
 
 ### Progress
 
-Transformative change can be achieved through collaboration, research, and critical reflection. We can can ensure solutions reach those in need by fostering participation and action by the members of the communities affected by initiatives for progress. We can rapidly advance sustainability and social change by openly sharing research, knowledge, and resources. However, sustaining progress will be a challenge, with many factors and forces impeding advancement of humanitarian and environmental causes. 
-
-
-
-Progress that leads to lasting change will take time, resources, and capital. We will need to build public goods and services that support progress 
-
- emphasizing 
+Transformative change can be achieved through collaboration, research, and critical reflection. We can can ensure solutions reach those in need by fostering participation and action by the members of the communities affected by initiatives for progress. We can rapidly advance sustainability and social change by openly sharing research, knowledge, and resources. However, sustaining progress will be a challenge, with many factors and forces impeding advancement of humanitarian and environmental causes. Progress that leads to lasting change will take time, resources, and capital. We will need to build public goods and services that are effective, efficient, and capable of supporting progress for the long term.
 
 ### Sustainability
 
-In order for progress to deemed successful it will need produce sustainable systems of living and working, without disadvantaging anyone or causing offense to the environment. Our projects cannot take forever to complete, become prohibitively expensive, and must be financially sustainable. Our solutions, tools, and processes must efficiently use resources and energy. Above all else our actions must not hurt other people or the environment. Thus, environmental, technological, and financial sustainability is essential to making progress towards lasting change. Sustainable progress means we can maintain continuous collective action towards equality and environmental justice.
+In order for progress to deemed successful it will need produce sustainable and equitable systems of living and working, without disadvantaging anyone or causing offense to the environment. Our projects cannot take forever to complete, become prohibitively expensive, and must be financially sustainable. Our solutions, tools, and processes must efficiently use resources and energy. Above all else our actions must not hurt other people or the environment. So, environmental, technological, and financial sustainability is essential to progress. Sustainable progress means we can continuously take collective action towards equality and environmental justice.
 
 ## Operating Principles
 
@@ -43,7 +36,7 @@ Each core principle statement starts with a core value followed by the method th
 2. **Progress Through Open Collaboration**
 3. **Equality Through Mutual Reciprocity**
 
-The core principles are based an a pluralism of research methodologies that span academic disciplines and problem domains. Each principle is described in detail in the following section.
+The core principles are based an a pluralism of research methodologies that span multiple academic disciplines and knowledge domains. Each principle is described in detail in the following section.
 
 ### Sustainability Through Systems Thinking
 
