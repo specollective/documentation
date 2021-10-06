@@ -1,3 +1,7 @@
+---
+description: "\U0001F6A7   This page is under construction and is considered incomplete. \U0001F6A7"
+---
+
 # Core Values
 
 ## Introduction
