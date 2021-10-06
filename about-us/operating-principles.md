@@ -50,7 +50,7 @@ The core principles are based an a pluralism of research methodologies that span
 
 1. Strive for openness in our research, communications, organizational process, finances, and data.
 2. Seek to understand the world by trying to create transformative change through collaboration, research, and critical reflection.
-3. Cultivate collaborative environments that are brave spaces that facilitate deliberative conversations, provide psychological safety, and enable full and equitable participation of individuals from all social identities and divergent perspectives.
+3. Cultivate collaborative environments that facilitate deliberative conversations, provide psychological safety, and enable full and equitable participation of individuals from all social identities and divergent perspectives.
 
 ### Equality Through Mutual Reciprocity
 
