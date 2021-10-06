@@ -4,7 +4,7 @@ description: "\U0001F6A7   This page is under construction and is considered inc
 
 # Operating Principles
 
-## Operating Principles
+## Introduction
 
 > #### **Our principles are the springs of our actions; our actions, the springs of our happiness or misery. Too much care, therefore, cannot be taken in forming our principles.**
 >
