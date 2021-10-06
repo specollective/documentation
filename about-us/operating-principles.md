@@ -10,7 +10,7 @@ description: "\U0001F6A7   This page is under construction and is considered inc
 >
 > Philip Skelton
 
-SPEC's operating principles operationalize its core values of sustainability, progress, and equality and provide a framework for decision-making and organizational development. Each core principle statement starts with a core value followed by the principle or methodology through which we will achieve that aims the value. The statements are meant to encapsulate the most fundamental principles employed to serve the core values. Each operating principle has 3 subprinciples that outline executable action it
+SPEC's operating principles operationalize its core values of sustainability, progress, and equality to provide a framework for decision-making and organizational development. Each core principle statement starts with a core value followed by the principle or methodology through which we will achieve that aims the value. The statements are meant to encapsulate the most fundamental principles employed to serve the core values. Each operating principle has 3 subprinciples that outline executable action it
 
 1. **Sustainability Through Systems Thinking**
 2. **Progress Through Open Collaboration**
