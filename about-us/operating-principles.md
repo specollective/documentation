@@ -10,13 +10,17 @@ description: "\U0001F6A7   This page is under construction and is considered inc
 >
 > Dr. Lucas D. Shallua
 
-The Sustainable Progress and Equality Collective was founded when two like-minded individuals, with a shared mission of making the world a better place, connected and spontaneously decided to cooperate to respond to the challenges facing their communities. SPEC's founders established the collective based on the core values of sustainability, progress, and equality. They chose these core values, because combined they provide a recipe for building radically transparent and equitable organizations. SPEC's operating principles operationalize the core values, providing a framework for decision-making and organizational development. SPEC will need continuously change how it operates and evolve over time in order to incorporate the voices and knowledge of our growing network along the way. Likewise our operating principles we be regularly revisited and updated to reflect SPEC's organizational goals, feedback, and contributions from our community.
+The Sustainable Progress and Equality Collective was founded when two like-minded individuals, with a shared mission of making the world a better place, connected and spontaneously decided to cooperate to respond to the challenges facing their communities. SPEC's founders established the collective based on the core values of sustainability, progress, and equality. They chose these core values, because combined they provide a recipe for building radically transparent and equitable organizations. SPEC's operating principles operationalize the core values, providing a framework for decision-making and organizational development.
+
+SPEC will need to continuously evolve over time in order to incorporate the voices and knowledge of its members along the way. Likewise SPEC's operating principles will be regularly revisited and updated to reflect the organization's goals, feedback, and community contributions. This page should be considered a living document that will transform overtime along with the collective.
 
 ## Core Values
 
 ### Equality
 
-Most people would agree that we all want a more equal world where every person can live a full, peaceful, happy life. However, systemic and institutional racism, sexism, gender bias, and other forms of discrimination and prejudice still persist in society. Discrimination and prejudice, fueled by greed, fear, and confusion, are a huge obstacle to giving everyone an equal chance at living happy and productive lives. To address discrimination and oppression we will need to treat each other with mutual respect and accountability; and give voice to those are oppressed and underserved. To overcome these challenges, we will need to continuously take collective action and share knowledge to innovate and create lasting solutions.
+We all want a more equal world where every person can live a happy healthy, and productive life. However, discrimination and prejudice, fueled by greed, fear, and confusion, stand as an obstacle to giving everyone an equal chance at seizing opportunities and flourishing.
+
+We must treat each other with mutual respect and accountability; and give voice the oppressed and underserved. We will need to continuously take collective action and share knowledge to innovate and create lasting solutions.
 
 ### Progress
 
@@ -36,23 +40,23 @@ Each core principle statement starts with a core value followed by the method th
 
 The core principles are based an a pluralism of research methodologies that span academic disciplines and problem domains. Each principle is described in detail in the following section.
 
-### Sustainability Through Critical Systems Thinking
+### Sustainability Through Systems Thinking
 
-1. Use critical thinking when building systems; rigorously examining assumptions and evaluating the conditions which give rise to them.
-2. Seek emancipatory solutions that define improvement locally and temporarily, create balance between economy, equity, and environment, and account for issues of power.
-3. Systematically use a pluralism of research and development methodologies, becoming aware of their strengths and weaknesses, to synergistically solve complex problems.
+1. Use critical awareness when building systems, rigorously examining assumptions and evaluating the conditions which give rise to them.
+2. Seek solutions that define improvement locally and temporarily to create balance between economy, equity, and environment.
+3. Apply a variety of research and development methods, in a systematic manner, with awareness of their strengths and weaknesses, to solve complex problems.
 
-### **Progress Through Open Collaborative Action Research**
+### **Progress Through Open Collaboration**
 
 1. Strive for openness in our research, communications, organizational process, and finances.
 2. Seek to understand the world by trying to create transformative change through collaboration, research, and critical reflection.
-3. Create a work environment that provides brave spaces and psychological safety to enable full and fair participation of individuals from all social identity groups in a society.
+3. Foster collaborative environments that provide brave spaces and psychological safety to enable full and fair participation of individuals from all social identity groups in a society.
 
 ### Equality Through Mutual Reciprocity
 
 1. Treat all people, partners, participants, and everyone else in our communities with mutual respect and accountability.
-2. Equality is the end goal; diversity, equity, and inclusion are the means to get there.
-3. Prioritize physical and mental health, family, and happiness before work, career growth, and achievement.
+2. Prioritize physical and mental health, family, and happiness before work, career growth, and achievement.
+3. Equality is the end goal; diversity, equity, and inclusion are the means to get there.
 
 ## Theoretical Foundations
 
