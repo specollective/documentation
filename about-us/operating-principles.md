@@ -34,7 +34,7 @@ Each operating principle has 3 sub-principles that simply and clearly outline ex
 
 ## Theoretical Foundations
 
-🚧This section is very technical, incomplete, and needs more citations  🚧
+🚧 This section is under construction and is considered incomplete. 🚧
 
 Sustainability and social justice are incredibly complex challenges. The Earth's climate, atmosphere, land, ocean, and biosphere, along with human civilization are complex adaptive systems \(CAS\). A CAS is simply a system in which many independent elements or agents interact, leading to emergent outcomes that are often difficult \(or impossible\) to predict simply by looking at the individual interactions. A CAS has three defining characteristics.\[1\]
 
@@ -69,6 +69,8 @@ Critical Systems Thinking \(CST\) is an approach to systemic intervention that c
 The idea that there are three commitments in CST was introduced into the literature by Flood and Jackson \(1991\). The three commitments of CST should be considered an over-simplification of the range of issues considered important by critical systems thinkers. However, they are useful for indicating the general interests pursued by proponents of the perspective.
 
 Many different perspectives on CST are offered in the literature. What they all have in common, however, is an interest in questions about, and surrounding, the nature of the above commitments. ****There is no consensus on their definition. Indeed, different writers have evolved very different understandings, and continue to develop their ideas in communication with others. CST can therefore be seen as an evolving discourse around a set of themes that are considered important by a significant number of systems practitioners. The term 'discourse' is central here as it emphasizes dynamism and continued development rather than the stasis of a final definition.
+
+In consequence of the evolving discourse around CST, SPEC seeks to balance leveraging CST, while gaining new understanding about its strengths and weakness, and finding complementary research methodologies outside of the domain of systems thinking. SPEC's particular conception of CST is heavily influenced by the work of Flood and Jackson. While problems have been identified in Flood and Jackson's approach to CST, that does not fully invalidate all of their ideas nor mean they are unsolvable.  Drawing upon the work of other critical systems thinkers like Churchman and Ulrich, and seeking inspiration from methodologies outside of systems thinking, show promise in addressing underlying problems with Flood and Jackson's theoretical framework. Ultimately, A different vision of CST will emerge from SPEC's application and adaptation of CST.
 
 The three commitments of CST are derived from the work over Habermas, who claimed that all human beings have three fundamental interests:
 
