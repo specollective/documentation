@@ -1,6 +1,6 @@
 # History
 
-> ### "We are not makers of history. We are made by history."
+> #### We are not makers of history. We are made by history.
 >
 > Martin Luther King, Jr.
 
@@ -10,7 +10,7 @@ Dr. Rogers was leading a group of students researching community building during
 
 ## Formation
 
-Joe wondered if he could use the online funding platform Open Collective \(OC\), which is commonly used by open source software developers and mutual aid initiatives, for the purposes of the project. OC provides collaborative groups with tools to raise and share their finances in full transparency. On the platform a collective is collaborative group that has a shared mission, which raises and spends funds transparently to achieve. A collective can submit an application for fiscal sponsorship, which enables it to raise funds and pay for expenses without having to legally incorporate.
+Joe wondered if they could use the online funding platform Open Collective \(OC\), which is commonly used by open source software developers and mutual aid initiatives, for the purposes of the project. OC provides collaborative groups with tools to raise and share their finances in full transparency. On the platform, a collective is collaborative group that has a shared mission, which raises and spends funds transparently to achieve. A collective can submit an application for fiscal sponsorship, which enables it to raise funds and pay for expenses without having to legally incorporate.
 
 The name Sustainable Progress and Equality Collective \_\*\*\_and the acronym SPEC were coined while Joe was creating an account on OC. He wanted to make an easy to remember acronym that captured the goals of the project. While researching different phrasings, Joe came across a report produced by the White House, during President Barack Obama's term. The Advancing Social Progress and Equality report outlined the administration's record of fighting for the rights and protections of LGBT Americans, making the immigration system fairer and safer, tackling poverty, and investing in communities.
 
