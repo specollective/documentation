@@ -78,6 +78,10 @@ The three commitments of CST are derived from the work over Habermas, who claime
 2. a 'practical interest' in pursuing mutual understanding.
 3. an 'emancipatory interest' in freeing ourselves from constraints imposed by power relations.
 
+Here is Jackson's interpretation of Haberma's theory.
+
+> According to Habermas there are two fundamental conditions underpinning the socio-cultural form of life of the human species - 'work' and 'interaction'. 'Work' enables human beings to achieve goals and to bring about material well-being through social labour. The importance of work to the human species leads human beings to have what Habermas calls a 'technical interest' in the prediction and control of natural and social events. The importance of 'interaction' calls forth another 'interest', the 'practical interest'. Its concern is with securing and expanding the possibilities of mutual understanding among all those involved in the reproduction of social life. Disagreement among different groups can be just as much a threat to the reproduction of the socio-cultural form of life as a failure to predict and control natural and social affairs. While work and interaction have for Habermas.. pre-eminent anthropological status, the analysis of power and the way it is exercised is equally essential, Habermas argues, for the understanding of all past and present social arrangements. The exercise of power in the social process can prevent the open and free discussion necessary for the success of interaction. Human beings therefore also have an 'emancipatory interest' in freeing themselves from constraints imposed by power relations and in learning, through a process of genuine participatory democracy. involving discursive will-formation. to control their own destiny.
+
 Flood and Jackson suggest that
 
 * "hard" cybernetic systems approaches support technical interest
