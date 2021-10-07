@@ -1,5 +1,5 @@
 ---
-description: "\U0001F6A7  This page is under construction and should be considered incomplete. \U0001F6A7"
+description: "\U0001F6A7This page is under construction and should be considered incomplete. \U0001F6A7"
 ---
 
 # Expense Policy

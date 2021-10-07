@@ -1,5 +1,5 @@
 ---
-description: "\U0001F6A7  This page under construction and is considered incomplete. \U0001F6A7"
+description: "\U0001F6A7This page under construction and is considered incomplete. \U0001F6A7"
 ---
 
 # Social Impact Incubator
