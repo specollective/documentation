@@ -12,6 +12,7 @@
 * [Our Team](about-us/team.md)
 * [Steering Committee](about-us/steering-committee.md)
 * [Budget](about-us/budget.md)
+* [Theoretical Foundations](about-us/theoretical-foundations.md)
 
 ## Our Work
 
