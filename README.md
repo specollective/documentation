@@ -12,7 +12,7 @@ The Sustainable Progress and Equality Collective \(SPEC\) is an open learning or
 
 ## Background
 
-SPEC was founded in June 2020 in response to the challenges of the COVID19 pandemic and social unrest facing communities across the United States. Its co-founders, Dr. Rhianna Rogers and Joe Torreggiani, connected online when Joe posted an offer to provide mentoring, technical training, and micro-loans to individuals from underrepresented backgrounds, and Dr. Rogers reached out about collaborating. They immediately discovered a shared mission of wanting to make the world work for everyone and deep concern about environmental and social justice. They established SPEC to empower individuals in their communities to learn new skills, build careers, and make an impact during this time of crisis and uncertainty.
+SPEC was founded in June 2020 in response to the challenges of the COVID19 pandemic and social unrest facing communities across the United States. Its co-founders, Dr. Rhianna Rogers and Joe Torreggiani, connected online when Joe posted an offer to provide mentoring, technical training, and give micro-loans to individuals from underrepresented backgrounds online. Dr. Rogers reached out about collaborating, and they immediately discovered a shared mission of wanting to make the world work for everyone and deep concern about environmental and social justice. They established SPEC to support individuals in their communities learn new skills, build careers, and make an impact during this time of crisis and uncertainty.
 
 ## Our Vision
 
