@@ -1,5 +1,5 @@
 ---
-description: "\U0001F6A7  This page is under construction and is considered incomplete. \U0001F6A7"
+description: 🚧  This page is under construction and is considered incomplete. 🚧
 ---
 
 # Mental Health & Neurodiversity
@@ -32,3 +32,4 @@ description: "\U0001F6A7  This page is under construction and is considered inco
 
 {% embed url="https://blogs.scientificamerican.com/observations/clearing-up-some-misconceptions-about-neurodiversity" %}
 
+### References

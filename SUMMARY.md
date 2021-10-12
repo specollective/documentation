@@ -55,7 +55,7 @@
   * [Resources](knowledge-base/sustainable-agriculture/resources.md)
   * [Farmbot](knowledge-base/sustainable-agriculture/farmbot.md)
 * [Software Engineering](knowledge-base/software-engineering/README.md)
-  * [Software Engineering Body of Knowledge \(SWEBOK\)](knowledge-base/software-engineering/software-engineering-body-of-knowledge-swebok.md)
+  * [Software Engineering Body of Knowledge (SWEBOK)](knowledge-base/software-engineering/software-engineering-body-of-knowledge-swebok.md)
   * [Intro to Web Development](knowledge-base/software-engineering/intro-to-web-development.md)
   * [Guide to Code Bootcamps](knowledge-base/software-engineering/code-bootcamps.md)
   * [Resources](knowledge-base/software-engineering/resources.md)
@@ -65,4 +65,4 @@
 
 * [Call for Researchers](contributing/call-for-researchers.md)
 * [Call for Researchers - RAND Partnership](contributing/call-for-researchers-rand-partnership.md)
-
+* [Roles](contributing/roles.md)
