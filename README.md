@@ -8,7 +8,7 @@ The Sustainable Progress and Equality Collective (SPEC) is an open learning orga
 
 ## Background
 
-SPEC was founded in June 2020 in response to the challenges of the COVID19 pandemic and social unrest facing communities across the United States. Its co-founders, Dr. Rhianna Rogers and Joe Torreggiani, connected online when Joe posted on social media, offering mentorship, training, and micro-loans to individuals from underrepresented groups. Dr. Rogers reached out about collaborating, and the two immediately discovered a shared concern and passion for environmental and social justice. They established SPEC to help members of their communities learn new skills, build careers, and make an impact during this time of crisis and uncertainty.
+SPEC was founded in June 2020 in response to the challenges of the COVID19 pandemic and social unrest facing communities across the United States. Its co-founders, Dr. Rhianna Rogers and Joe Torreggiani, connected online when Joe posted an offer to provide mentoring, technical training, and give micro-loans to individuals from underrepresented backgrounds online. Dr. Rogers reached out about collaborating, and they immediately discovered a shared mission of wanting to make the world work for everyone and deep concern about environmental and social justice. They established SPEC to support individuals in their communities learn new skills, build careers, and make an impact during this time of crisis and uncertainty.
 
 ## Our Vision
 
@@ -40,15 +40,17 @@ We will need to adopt a radically transparent and equitable approach to building
 
 ## Our Work
 
-SPEC is a little more than a year old and has already accomplished a lot! Here is a breakdown of our first year.
+SPEC is a little more than a year old and has already done a lot! Here is a breakdown of our first year.
 
-* Provided **credit-bearing internships** or **paid work experiences**
-* Incubated and supported several **community partnerships** focused on addressing issues of **inequity in the US and abroad**
-* Hosted a series of **panel discussions** and **deliberative conversations** designed to provide safe and **brave spaces** to address **critical issues**
-* Launched the **Journal of Engaged Research**
-* Sponsored an **LGBTQIA+ art gallery**
-* Developed the **SPEC Learning platform** to pilot a **free micro-credential course** and build capacity
-* Contributed to **open source software** and **sustainability** **initiatives**
+* Helped over a dozen people find work
+* Provided credit bearing work experience to students
+* Incubated a handful of community initiatives
+* Facilitated many events and deliberative conversations
+* Launched the Journal of Engaged Research
+* Developed the SPEC Learning Platform
+* Piloted and delivered a free microcredential course
+* Sponsored an LGBTQI+ art gallery
+* Contributed to open source software and sustainability
 
 Hear from some of our contributors about their experience working at SPEC.
 
