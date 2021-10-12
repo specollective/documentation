@@ -1,5 +1,5 @@
 ---
-description: "\U0001F6A7   This page is under construction and is considered incomplete. \U0001F6A7"
+description: 🚧   This page is under construction and is considered incomplete. 🚧
 ---
 
 # Farmbot
@@ -12,9 +12,8 @@ SPEC is researching the application of the Farmbot open source CNC farming machi
 
 A farmbot unit consists of a modular tool head mounted onto a frame that enables motion across the Cartesian coordinate system. The tool head is designed to enable automatic mounting of tools including a seeder, soil sensor, and weeder.  Farmbot is controlled by a [Raspberry Pi](https://www.appropedia.org/Raspberry_Pi) microcomputer running the Farmbot operating system and a Farmduino microcontroller. Farmbot is programmable through a web interface that enables remote access. Weeding tasks are aided by a built-in computer vision system.
 
-{% embed url="https://www.youtube.com/watch?time\_continue=1&v=uNkADHZStDE&feature=emb\_logo" %}
+{% embed url="https://www.youtube.com/watch?time_continue=1&v=uNkADHZStDE&feature=emb_logo" %}
 
 ## References
 
-1. Appropedia, [Farmbot](https://www.appropedia.org/Farmbot) \(2021\)
-
+1. Appropedia, [Farmbot](https://www.appropedia.org/Farmbot) (2021)
