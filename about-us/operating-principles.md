@@ -1,7 +1,5 @@
 # Operating Principles
 
-## Introduction
-
 > #### **Our principles are the springs of our actions; our actions, the springs of our happiness or misery. Too much care, therefore, cannot be taken in forming our principles.**
 >
 > Philip Skelton
@@ -31,4 +29,3 @@ Each operating principle has 3 sub-principles that simply and clearly outline ex
 1. Equality is the end goal; diversity, equity, inclusion, and reciprocity are the means to get there.
 2. Treat everyone in our communities with compassion, mutual respect, and accountability.
 3. Prioritize your health, mental wellbeing, family, and happiness.
-

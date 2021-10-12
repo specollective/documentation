@@ -1,12 +1,10 @@
 # Core Values
 
-## Introduction
-
 > #### Organizations, companies or individuals without core values are exactly like a boat without an anchor; it can be easy tossed to and fro following any direction the wind blows.
 >
 > Dr. Lucas D. Shallua
 
-The Sustainable Progress and Equality Collective \(SPEC\) was founded when two like-minded individuals, with a shared mission of making the world a better place, connected and decided to spontaneously cooperate to respond to the challenges facing their communities. SPEC's founders established the collective based on the core values of sustainability, progress, and equality. They chose these values, because combined they provide a recipe for building radically sustainable, equitable, transparent organizations. However, the world is constantly changing. SPEC will need to continuously evolve over time in order to adapt and incorporate the voices and knowledge of its members. Likewise how we interpret and actualize our core values and operating principles will need to be regularly revisited and updated to reflect the organization's goals, user feedback, and community contributions. This page should be considered a living document that will transform overtime along with the collective.
+The Sustainable Progress and Equality Collective (SPEC) was founded when two like-minded individuals, with a shared mission of making the world a better place, connected and decided to spontaneously cooperate to respond to the challenges facing their communities. SPEC's founders established the collective based on the core values of sustainability, progress, and equality. They chose these values, because combined they provide a recipe for building radically sustainable, equitable, transparent organizations. However, the world is constantly changing. SPEC will need to continuously evolve over time in order to adapt and incorporate the voices and knowledge of its members. Likewise how we interpret and actualize our core values and operating principles will need to be regularly revisited and updated to reflect the organization's goals, user feedback, and community contributions. This page should be considered a living document that will transform overtime along with the collective.
 
 ## Equality
 
@@ -19,4 +17,3 @@ Transformative change can be achieved through collaboration, research, and criti
 ## Sustainability
 
 In order for progress to deemed successful it will need produce sustainable and equitable systems of living and working, without disadvantaging anyone or causing offense to the environment. Our projects cannot take forever to complete, become prohibitively expensive, and must be financially sustainable. Our solutions, tools, and processes must efficiently use resources and energy. Above all else our actions must not hurt other people or the environment. So, environmental, technological, and financial sustainability is essential to progress. Sustainable progress means we can continuously take collective action towards equality and environmental justice.
-
