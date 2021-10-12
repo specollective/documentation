@@ -10,19 +10,19 @@ Dr. Rogers was leading a group of students researching community building during
 
 ## Formation
 
-Joe wondered if they could use the online funding platform Open Collective \(OC\), which is commonly used by open source software developers and mutual aid initiatives, for the purposes of the project. OC provides collaborative groups with tools to raise and share their finances in full transparency. On the platform, a collective is collaborative group that has a shared mission, which raises and spends funds transparently to achieve. A collective can submit an application for fiscal sponsorship, which enables it to raise funds and pay for expenses without having to legally incorporate.
+Joe wondered if they could use the online funding platform Open Collective (OC), which is commonly used by open source software developers and mutual aid initiatives, for the purposes of the project. OC provides collaborative groups with tools to raise and share their finances in full transparency. On the platform, a collective is collaborative group that has a shared mission, which raises and spends funds transparently to achieve. A collective can submit an application for fiscal sponsorship, which enables it to raise funds and pay for expenses without having to legally incorporate.
 
 The name Sustainable Progress and Equality Collective \_\*\*\_and the acronym SPEC were coined while Joe was creating an account on OC. He wanted to make an easy to remember acronym that captured the goals of the project. While researching different phrasings, Joe came across a report produced by the White House, during President Barack Obama's term. The Advancing Social Progress and Equality report outlined the administration's record of fighting for the rights and protections of LGBT Americans, making the immigration system fairer and safer, tackling poverty, and investing in communities.
 
-{% embed url="https://obamawhitehouse.archives.gov/the-record/social-progress" caption="" %}
+{% embed url="https://obamawhitehouse.archives.gov/the-record/social-progress" %}
 
-Inspired by the report, Joe worked to combine "Sustainability" and "Advancing Social Progress and Equality" into a phrase / acronym. Eventually he settled on Sustainable Progress & Equality Collective; a collective with the mission of creating sustainable progress & equality.
+Inspired by the report, Joe worked to combine "Sustainability" and "Advancing Social Progress and Equality" into acronym, eventually settling on the Sustainable Progress & Equality Collective; a collective with the mission of creating sustainable progress & equality.
 
-> ### **Sustainable progress means that we can continually make positive change, without hurting other people or the planet, to create a more equitable and equal world.**
+> #### **Sustainable progress means that we can continually take collective action to create a more equal and just world, without hurting other people or the planet.**
 >
 > **Joe Torreggiani**
 
-Dr. Rogers and Joe worked together to outline the SPEC's mission, core values, and operating principles. They submitted an application for SPEC to be fiscally sponsored by the Open Collective Foundation. In less than a week of meeting, SPEC was formed.
+Rogers and Torreggiani worked together to outline the SPEC's mission, core values, and operating principles. They submitted an application for SPEC to be fiscally sponsored by the Open Collective Foundation. In less than a week of meeting, SPEC was formed.
 
 ## Our First Year
 
@@ -33,4 +33,3 @@ SPEC adopted solutions commonly used in the tech industry including Google Works
 Other learners reached out about learning software development, building STEAM skills, and finding work in the tech industry. Joe offered mentorship, training in software engineering, and career guidance to RAs working on SPEC technical projects. Dr. Rogers and Joe called upon their networks to help provide mentorship to learners. Giving RAs facetime with experts and working professionals.
 
 To be continued...
-
