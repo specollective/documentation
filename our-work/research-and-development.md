@@ -4,16 +4,15 @@ description: ðŸš§This page is under construction and is considered incomplete. ð
 
 # Research & Development
 
-> #### "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete."
+> #### You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.
 >
 > Richard Buckminster Fuller
 
-SPEC's research and development methodology is focused on the practical application of participatory action research in the areas of sustainability, social justice, and community development. It encourages researchers to seek to understand the world by working collaboratively to change it, and reflecting critically on their efforts. SPEC develops projects and partnerships with community organizations to create real-world work experiences in research, development, and community building. SPEC's approach is designed to build radically sustainable and equitable systems of living and working. The methodology draws upon many areas and concepts from social science and systems research.
+SPEC's research and development methodology is focused on the practical application of critical systems thinking and participatory action research in the areas of sustainability, social justice, and community development. It encourages researchers to seek to understand the world by working collaboratively to change it, and reflecting critically on their efforts. SPEC develops projects and partnerships with community organizations to create real-world work experiences in research, development, and community building. SPEC's approach is designed to build radically sustainable and equitable systems of living and working. The methodology draws upon many areas and concepts from social science and systems research.
 
 * Systems Thinking
-*   Critical Systems Thinking
-
-    Action Research
+* Critical Systems Thinking
+* Action Research
 * Participatory Action Research
 * Community Based Participatory Research
 * Open Collaboration
@@ -83,8 +82,7 @@ An agile approach to development is intended to improve the effectiveness of sof
 2. Bammer, [Embedding Critical Systems Thinking in the Academy](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.737.5436\&rep=rep1\&type=pdf), National Centre for Epidemiology and Population Health, The Australian National University
 3. Wikipedia, [Action Research](https://en.wikipedia.org/wiki/Action_research)
 4. Indeed Editorial Team, [_How To Demonstrate Collaboration in the Workplace_](https://www.indeed.com/career-advice/career-development/demonstrate-collaboration-in-the-workplace)_, _Indeed.com (2021)
-5.
-6. Eelderink, Vervoort, Van Laerhoven, [_Using participatory action research to operationalize critical systems thinking in social-ecological systems_](https://www.researchgate.net/publication/339461959\_Using_participatory_action_research_to_operationalize_critical_systems_thinking_in_social-ecological_systems)_, _Ecology & Society (2020)
-7. Raymaker, [_Intersections of Critical Systems Thinking and Community Based Participatory Research: A Learning Organization Example with the Autistic Community_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5098939/)_, _Systemic Practice and Action Research (2016)
-8. Minkler, Garcia, Rubin, Wallerstein, [_Community-Based Participatory Research: A Strategy for Building Healthy Communities and Promoting Health through Policy Change_](https://www.policylink.org/sites/default/files/CBPR.pdf)_,_ PolicyLink & UC Berkeley (2012)
-9. Participation Research Cluster, [_Participatory Action Research - Glossary Entry_](https://www.participatorymethods.org/glossary/participatory-action-research,)_,_ Institute of Development Studies 
+5. Eelderink, Vervoort, Van Laerhoven, [_Using participatory action research to operationalize critical systems thinking in social-ecological systems_](https://www.researchgate.net/publication/339461959\_Using_participatory_action_research_to_operationalize_critical_systems_thinking_in_social-ecological_systems)_, _Ecology & Society (2020)
+6. Raymaker, [_Intersections of Critical Systems Thinking and Community Based Participatory Research: A Learning Organization Example with the Autistic Community_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5098939/)_, _Systemic Practice and Action Research (2016)
+7. Minkler, Garcia, Rubin, Wallerstein, [_Community-Based Participatory Research: A Strategy for Building Healthy Communities and Promoting Health through Policy Change_](https://www.policylink.org/sites/default/files/CBPR.pdf)_,_ PolicyLink & UC Berkeley (2012)
+8. Participation Research Cluster, [_Participatory Action Research - Glossary Entry_](https://www.participatorymethods.org/glossary/participatory-action-research,)_,_ Institute of Development Studies 
