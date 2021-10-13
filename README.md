@@ -4,11 +4,11 @@
 >
 > Richard Buckminster Fuller
 
-The Sustainable Progress and Equality Collective (SPEC) is an open learning organization that helps individuals and communities become catalysts for positive change. SPEC's mission is to empower individuals to become globally-minded change agents by helping them learn the essential skills required to build sustainable careers and make a positive impact in their communities. We aim to shape the next generation of leaders who will need to tackle the complex challenges facing society. SPEC achieves this aim through research & development, mentorship, training, service-learning, and hosting events for people from underrepresented backgrounds, underserved communities, non-traditional backgrounds, and allies to the causes of environmental and social justice.
+The Sustainable Progress and Equality Collective (SPEC) is an open learning organization that helps individuals and communities become catalysts for positive change. SPEC's mission is to empower individuals to become globally-minded change agents by helping them learn the essential skills required to build sustainable careers and make a positive impact in their communities. We aim to shape the next generation of leaders who will need to tackle the complex challenges facing society. SPEC achieves this aim through research & development, mentorship, training, service-learning, and hosting events for people from underrepresented backgrounds, underserved communities, non-traditional backgrounds, and allies to the causes of environmental sustainability and social justice.
 
 ## Background
 
-SPEC was founded in June 2020 in response to the challenges of the COVID19 pandemic and social unrest facing communities across the United States. Its co-founders, Dr. Rhianna Rogers and Joe Torreggiani, connected online when Joe posted an offer to provide mentoring, technical training, and give micro-loans to individuals from underrepresented backgrounds online. Dr. Rogers reached out about collaborating, and they immediately discovered a shared mission of wanting to make the world work for everyone and deep concern about environmental and social justice. They established SPEC to support individuals in their communities learn new skills, build careers, and make an impact during this time of crisis and uncertainty.
+SPEC was founded in June 2020 in response to the challenges of the COVID19 pandemic and social unrest facing communities across the United States. Its co-founders, Dr. Rhianna Rogers and Joe Torreggiani, connected online when Joe posted on social media, offering mentorship, training, and micro-loans to individuals from underrepresented groups. Dr. Rogers reached out about collaborating, and the two immediately discovered a shared passion for environmental and social justice. They established SPEC to help members of their communities learn new skills, build careers, and make an impact during this time of crisis and uncertainty.
 
 ## Our Vision
 
@@ -40,17 +40,15 @@ We will need to adopt a radically transparent and equitable approach to building
 
 ## Our Work
 
-SPEC is a little more than a year old and has already done a lot! Here is a breakdown of our first year.
+SPEC is a little more than a year old and has already accomplished a lot! Here is a breakdown of our first year.
 
-* Helped over a dozen people find work
-* Provided credit bearing work experience to students
-* Incubated a handful of community initiatives
-* Facilitated many events and deliberative conversations
-* Launched the Journal of Engaged Research
-* Developed the SPEC Learning Platform
-* Piloted and delivered a free microcredential course
-* Sponsored an LGBTQI+ art gallery
-* Contributed to open source software and sustainability
+* Provided **credit-bearing internships** or **paid work experiences**
+* **Incubated** and supported several **community partnerships** focused on addressing issues of **inequity in the US and abroad**
+* Hosted a series of **panel discussions** and **deliberative conversations** designed to provide **safe and brave spaces** to address **critical issues**
+* Launched the **Journal of Engaged Research**
+* Sponsored an virtual **LGBTQIA+ art gallery**
+* Developed the **SPEC Learning platform** and piloted a **free micro-credential course**
+* Contributed to **open source software** and **sustainability** **initiatives**
 
 Hear from some of our contributors about their experience working at SPEC.
 
@@ -60,9 +58,7 @@ Hear from some of our contributors about their experience working at SPEC.
 
 ## Our Team
 
-SPEC is run by a small dedicated team of part-time contributors and volunteers. We come from diverse backgrounds and have divergent perspectives. Many of us have families, full-time jobs, are going to school, making a career change, or experiencing another major life event. We have all been affected by pandemic and climate crisis in different ways. SPEC strives to create an inclusive and accessible work environment, offering compassion, mutual respect, accountability, and flexibility to our community members.
-
-SPEC's organizational development process is evolving, as we continuously integrate new knowledge, information, technologies, data, and feedback from our community. Our approach to research and development encourages contributors to seek to understand the world by working collaboratively to change it, and reflecting critically on their efforts.
+SPEC is run by a small and dedicated core team of part-time contributors and volunteers. We come from difference social identities, backgrounds, and perspectives. Our team is 100% distributed and composed of part-time contributors and volunteers. SPEC's co-founders and steering committee work entirely on a volunteer basis, have no financial stake in the collective, and do not receive compensation in any form.
 
 {% content-ref url="about-us/team.md" %}
 [team.md](about-us/team.md)
@@ -70,19 +66,15 @@ SPEC's organizational development process is evolving, as we continuously integr
 
 ## Our Collective
 
-SPEC is organized as an open collective, a collaborative group that has a shared mission, which raises and spends funds transparently to achieve goals. SPEC is hosted on [Open Collective](https://opencollective.com), an online funding platform that provides groups with the tools for raising and sharing their finances in full transparency. The platform makes all contributions and expenses visible to the public. SPEC's budget and expenses can be found on its [Open Collective page](https://opencollective.com/spec). For more information about SPEC's budget read the documentation here.
-
-{% content-ref url="about-us/budget.md" %}
-[budget.md](about-us/budget.md)
-{% endcontent-ref %}
-
-## Our Fiscal Sponsor
+SPEC is organized as an open collective, a collaborative group that has a shared mission, which raises and spends funds transparently to achieve goals. SPEC is hosted on [Open Collective](https://opencollective.com), an online funding platform that provides groups with the tools for raising and sharing their finances in full transparency. The platform makes all contributions and expenses visible to the public. SPEC's budget and expenses can be found on its [Open Collective page](https://opencollective.com/spec).
 
 SPEC is fiscally sponsored by the [Open Collective Foundation 501(c)(3)](https://opencollective.foundation) (OCF), which allows it to operate without legally incorporating, and accept tax deductible donations, and pay contributors. OCF's mission is to empower impact-focused groups working on increasing access to educational resources and training, creating a positive social impact, and fostering civic participation within cities and communities.
 
-OCF is creating a legal, financial, and technical commons for a solidarity economy, economic activities that prioritize social profitability instead of purely financial profits. A distinguishing characteristic of solidarity economy entities is the participatory and democratic nature of their governance in decision-making processes. Active participation of all people involved in decision-making contributes to community empowerment. To learn more about OCF and the solidarity economy check out the article below.
+OCF is creating a legal, financial, and technical commons for a solidarity economy, economic activities that prioritize social profitability instead of purely financial profits. A distinguishing characteristic of solidarity economy entities is the participatory and democratic nature of their governance in decision-making processes. Active participation of all people involved in decision-making contributes to community empowerment.
 
-{% embed url="https://blog.opencollective.com/solidarity-as-our-guiding-principle/" %}
+{% content-ref url="about-us/organization.md" %}
+[organization.md](about-us/organization.md)
+{% endcontent-ref %}
 
 ## Become a contributor!
 

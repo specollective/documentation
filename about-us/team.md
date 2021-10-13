@@ -6,15 +6,11 @@
 
 ## Introduction
 
-SPEC is run by a small and dedicated core team of part-time contributors and volunteers. We come from diverse backgrounds and have divergent perspectives. Many of us have families, full-time jobs, are going to school, making a career change, or experiencing another major life event, especially with the current pandemic and climate crisis.
+SPEC is run by a small and dedicated core team of part-time contributors and volunteers. We come from difference social identities, backgrounds, and perspectives. Many of us have families, full-time jobs, are going to school, making a career change, or experiencing another major life event, especially with the current pandemic and climate crisis. 
 
-SPEC's co-founders work on a 100% volunteer basis and openly donate funds to the collective. They have no financial stake in and do not receive compensation from the collective. SPEC is guided by its Steering Committee, which consists of a diverse network of experts across a multitude of disciplines and professions willing to volunteer their time and knowledge to SPEC's mission.
+SPEC's team is 100% distributed and composed of part-time contributors and volunteers. SPEC's co-founders and steering committee work entirely on a volunteer basis, have no financial stake in the collective, and do not receive compensation in any form.
 
-We are striving to make sustainable careers for our contributors. Currently, all of SPEC's researchers and contributors are classified as independent contractors for SPEC and by proxy the Open Collective Foundation (OCF). We are working with the OCF to be able to contributors to be classified as employees and be able to access benefits like health insurance. We won't be able to make the jobs a reality without funding. Please consider donating and helping to create more jobs for people working on making the world a better place! Learn more about donating to SPEC here.
-
-{% content-ref url="../our-work/donate.md" %}
-[donate.md](../our-work/donate.md)
-{% endcontent-ref %}
+We are striving to create sustainable careers for our contributors. Currently, all of SPEC's researchers and contributors are classified as independent contractors for SPEC and by proxy the Open Collective Foundation (OCF). We are working with the OCF to have contributors to be classified as employees and be able to access benefits like health insurance. We won't be able to create these jobs without funding. Please consider donating and helping to create more jobs for people working on making the world a better place! Learn more on our [donation page](../our-work/donate.md).
 
 ## Team Members
 
