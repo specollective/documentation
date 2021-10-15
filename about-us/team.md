@@ -18,7 +18,7 @@ We are striving to create sustainable careers for our contributors. Currently, a
 
 ![](<../.gitbook/assets/image (2).png>)
 
-**Co-founder**\
+**Co-founder & Administrator**\
 San Francisco, California
 
 ### Nan Eileen Mead
