@@ -16,7 +16,7 @@ SPEC leverages a collaborative approach to developing its compensation structure
 2. **Progress Through Open Collaboration**
 3. **Equality Through Mutual Reciprocity**
 
-The CCS embodies SPEC's core values through its application of the operating principles to its compensation structure. When developing the CCS, we bring to mind the following sub-principles.
+The CCS embodies SPEC's core values through its application of the operating principles. When developing the CCS, we bring to mind the following sub-principles, with particular attention to the highlighted terms. 
 
 1. Strive for **openness** in our research, communications, **organizational process**, **finances**, and data.
 2. Use **critical awareness** when building systems,** rigorously examining assumptions** **and evaluating** the conditions which give rise to them.
@@ -24,9 +24,11 @@ The CCS embodies SPEC's core values through its application of the operating pri
 4. Treat everyone in our communities with **compassion, mutual respect, and accountability**.
 5. Cultivate **collaborative** environments that facilitate **deliberative conversations**, provide psychological safety, and enable **full and equitable participation** of individuals from all social identities, backgrounds, and perspectives.
 
-### Core Principles
+These principles are part of the recipe of creating sustainable progress and equality, and must be considered in all parts of organizational development, including compensation.
 
-From these sub-principles we derive the core principles of the CCS:
+### CCS Core Principles
+
+The CCS Core principles operationalize the sub-principles and key concepts from the previous section. Each sub-principle from above has a corresponding CCS Core Principle below.
 
 1. Raise funds, pay contributors, and make financial decisions in full transparency.
 2. Approach compensation with critical awareness, rigorously examining and challenging assumptions about pay structure, performance evaluation, and raises.
