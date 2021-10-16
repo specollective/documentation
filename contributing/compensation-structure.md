@@ -6,27 +6,29 @@ description: 🚧 This page is under construction and is considered in complete 
 
 SPEC's compensation structure is designed to establish fair, equitable, and transparent pay for all contributors in the collective. It gives the collective clear guidelines for assigning initial pay rates and managing raises and distributing bonuses. In order for SPEC's compensation structure to be considered effective, it must dismantle pay practices based on inequitable factors, like past salary history and ineffective negotiation, and on inherent biases like gender or race. \[1]
 
+SPEC's compensation structure has been developed through research, deliberative conversation, open collaboration, and careful evaluation of the collective's current funding, capacities, and ongoing projects. SPEC's pay rates will be regularly revisited and adjusted to ensure fair and equitable compensation of contributors and long-term financial sustainability of SPEC. All decisions and changes related to the compensation structure will be published openly as part of SPEC's release notes.
+
 ### Methodology
 
-SPEC leverages a collaborative approach to developing its compensation structure. This Collaborative Compensation Structure (CCS) is based on SPEC's core values and operating principles.
+SPEC leverages a collaborative approach to developing its compensation structure. This **Collaborative Compensation Structure (CCS)** is based on SPEC's core values and operating principles.
 
 1. **Sustainability Through Systems Thinking**
 2. **Progress Through Open Collaboration**
 3. **Equality Through Mutual Reciprocity**
 
-The CCS embodies SPEC's core values through its application of the operating principles to its compensation structure. When developing the CCS, we bring to mind the following four sub-principles.
+The CCS embodies SPEC's core values through its application of the operating principles to its compensation structure. When developing the CCS, we bring to mind the following sub-principles.
 
-1. Strive for openness in our research, communications, organizational process, finances, and data.
-2. Use critical awareness when building systems, rigorously examining assumptions and evaluating the conditions which give rise to them.
-3. Seek solutions that usher in improvement locally and globally by creating balance between economy, equity, and environment.
-4. Treat everyone in our communities with compassion, mutual respect, and accountability.
-5. Cultivate collaborative environments that facilitate deliberative conversations, provide psychological safety, and enable full and equitable participation of individuals from all social identities, backgrounds, and perspectives.
+1. Strive for **openness** in our research, communications, **organizational process**, **finances**, and data.
+2. Use **critical awareness** when building systems,** rigorously examining assumptions** and evaluating the conditions which give rise to them.
+3. Seek solutions that usher in** improvement locally** and globally by creating **balance between economy, equity**, and environment.
+4. Treat everyone in our communities with **compassion, mutual respect, and accountability**.
+5. Cultivate **collaborative** environments that facilitate **deliberative conversations**, provide psychological safety, and enable **full and equitable participation** of individuals from all social identities, backgrounds, and **perspectives**.
 
 ### Core Principles
 
 From these sub-principles we derive the core principles of the CCS:
 
-1. Make 100% of SPEC's finances transparent to our contributors and community, and the general public.
+1. Make 100% of SPEC's finances **transparent** to our contributors and community, and the general public.
 2. Approach compensation with critical awareness, rigorously examining and challenging assumptions about pay structure, performance evaluation, and raises.
 3. Strive to create balance between organizational success, financial and environmental sustainability, equity, and the welfare of our contributors and communities.
 4. Foster mutual respect with our community members, hold each other with accountable, and fairly and compassionately compensate contributors.
@@ -43,8 +45,6 @@ From these sub-principles we derive the core principles of the CCS:
 | **Associate**      | L1   | Individual contributor responsible for completing assigned tasks, conducting research, project deliverables, providing feedback, and documenting learnings. |
 
 ### Pay Rates
-
-SPEC's pay rates are determined through a collaborative process and careful evaluation of its current funding, capacity, and ongoing projects. These rates will be regularly revisited and adjusted to ensure fair and equitable compensation of contributors and long-term financial sustainability of SPEC. All decisions and changes related to the CCS will be published openly as part of SPEC's release notes.
 
 | Level | Rate (Per Hour) |
 | ----- | --------------- |
