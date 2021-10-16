@@ -65,4 +65,4 @@
 
 * [Call for Researchers](contributing/call-for-researchers.md)
 * [Call for Researchers - RAND Partnership](contributing/call-for-researchers-rand-partnership.md)
-* [Roles](contributing/roles.md)
+* [Compensation Structure](contributing/compensation-structure.md)

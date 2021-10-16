@@ -10,7 +10,7 @@ SPEC's operating principles operationalize its core values of sustainability, pr
 2. **Progress Through Open Collaboration**
 3. **Equality Through Mutual Reciprocity**
 
-Each operating principle has 3 sub-principles that simply and clearly outline executable actions and adoptable mental models. The core principles are based an a pluralism of research methodologies that span multiple academic disciplines and knowledge domains. Each principle is described in detail in the following section.
+Each operating principle has sub-principles that clearly outline strategies and mental models that put their respective operating principle into practice. The core principles are derived from a pluralism of research methodologies and philosophies. Each principle is described in detail in the following section.
 
 ### Sustainability Through Systems Thinking
 
@@ -28,4 +28,4 @@ Each operating principle has 3 sub-principles that simply and clearly outline ex
 
 1. Equality is the end goal; diversity, equity, inclusion, and reciprocity are the means to get there.
 2. Treat everyone in our communities with compassion, mutual respect, and accountability.
-3. Prioritize your health, mental wellbeing, family, and happiness.
+3. Prioritize health, self-care, mental wellbeing, family, and happiness.
