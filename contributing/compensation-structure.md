@@ -19,18 +19,18 @@ SPEC leverages a collaborative approach to developing its compensation structure
 The CCS embodies SPEC's core values through its application of the operating principles to its compensation structure. When developing the CCS, we bring to mind the following sub-principles.
 
 1. Strive for **openness** in our research, communications, **organizational process**, **finances**, and data.
-2. Use **critical awareness** when building systems,** rigorously examining assumptions** and evaluating the conditions which give rise to them.
-3. Seek solutions that usher in** improvement locally** and globally by creating **balance between economy, equity**, and environment.
+2. Use **critical awareness** when building systems,** rigorously examining assumptions** **and evaluating** the conditions which give rise to them.
+3. Seek **solutions** that usher in** **improvement locally and globally by creating **balance between economy, equity**, **and environment**.
 4. Treat everyone in our communities with **compassion, mutual respect, and accountability**.
-5. Cultivate **collaborative** environments that facilitate **deliberative conversations**, provide psychological safety, and enable **full and equitable participation** of individuals from all social identities, backgrounds, and **perspectives**.
+5. Cultivate **collaborative** environments that facilitate **deliberative conversations**, provide psychological safety, and enable **full and equitable participation** of individuals from all social identities, backgrounds, and perspectives.
 
 ### Core Principles
 
 From these sub-principles we derive the core principles of the CCS:
 
-1. Make 100% of SPEC's finances **transparent** to our contributors and community, and the general public.
+1. Raise funds, pay contributors, and make financial decisions in full transparency.
 2. Approach compensation with critical awareness, rigorously examining and challenging assumptions about pay structure, performance evaluation, and raises.
-3. Strive to create balance between organizational success, financial and environmental sustainability, equity, and the welfare of our contributors and communities.
+3. Strive to create balance between organizational success, financial sustainability, equity, and the welfare of our contributors, communities, and planet.
 4. Foster mutual respect with our community members, hold each other with accountable, and fairly and compassionately compensate contributors.
 5. Ensure full and equitable participation of individuals from all social identities, backgrounds, and perspectives in the discourse about compensation and make the decision-making process collaborative.
 
