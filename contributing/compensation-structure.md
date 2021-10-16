@@ -8,7 +8,7 @@ SPEC's compensation structure is designed to establish fair, equitable, and tran
 
 ### Methodology
 
-SPEC leverages a collaborative approach to developing its compensation structure. This Collaborative Compensation Structure (CSS) is based on SPEC's core values and operating principles.
+SPEC leverages a collaborative approach to developing its compensation structure. This Collaborative Compensation Structure (CCS) is based on SPEC's core values and operating principles.
 
 1. **Sustainability Through Systems Thinking**
 2. **Progress Through Open Collaboration**
@@ -34,13 +34,23 @@ From SPEC's operating principles we derive the core principles of the CCS:
 
 ### Contributor Levels
 
-The contributor levels below are a work in progress and are currently being developed collaboratively. 🚧
+🚧 The contributor levels below are a work in progress and are currently being developed collaboratively. 🚧
 
 | Level              | Code | Description                                                                                                                                                 |
 | ------------------ | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Administrator**  | L3   | Supervisor responsible for managing the collective's overall operations, organizational development, strategic vision, and sustainability.                  |
 | **Lead**           | L2   | Leader responsible for overseeing projects, people, processes, budgets, and  execution of the collective's strategic plan.                                  |
 | **Associate**      | L1   | Individual contributor responsible for completing assigned tasks, conducting research, project deliverables, providing feedback, and documenting learnings. |
+
+### Pay Rates
+
+SPEC's pay rates are determined through a collaborative process and careful evaluation of its current funding, capacity, and ongoing projects. These rates will be regularly revisited and adjusted to ensure fair and equitable compensation of contributors and long-term financial sustainability of SPEC. All decisions and changes related to the CCS will be published openly as part of SPEC's release notes.
+
+| Level | Rate (Per Hour) |
+| ----- | --------------- |
+| L3    | $0.00           |
+| L2    | $20.00          |
+| L1    | $20.00          |
 
 ### References
 
