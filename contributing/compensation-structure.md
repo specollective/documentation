@@ -14,7 +14,7 @@ SPEC leverages a collaborative approach to developing its compensation structure
 2. **Progress Through Open Collaboration**
 3. **Equality Through Mutual Reciprocity**
 
-The CCS embodies SPEC's core values through its application of the operating principles to the problem domain of creating a compensation structure. When developing the CCS, we bring to mind the following four sub-principles.
+The CCS embodies SPEC's core values through its application of the operating principles to its compensation structure. When developing the CCS, we bring to mind the following four sub-principles.
 
 1. Strive for openness in our research, communications, organizational process, finances, and data.
 2. Use critical awareness when building systems, rigorously examining assumptions and evaluating the conditions which give rise to them.
@@ -24,13 +24,13 @@ The CCS embodies SPEC's core values through its application of the operating pri
 
 ### Core Principles
 
-From SPEC's operating principles we derive the core principles of the CCS:
+From these sub-principles we derive the core principles of the CCS:
 
-1. Make 100% of SPEC's finances transparent to our contributors and community, and general public.
+1. Make 100% of SPEC's finances transparent to our contributors and community, and the general public.
 2. Approach compensation with critical awareness, rigorously examining and challenging assumptions about pay structure, performance evaluation, and raises.
 3. Strive to create balance between organizational success, financial and environmental sustainability, equity, and the welfare of our contributors and communities.
-4. Foster mutual respect with our community members, hold each other with accountability, and fairly and compassionately compensate contributors.
-5. Ensure full and equitable participation of individuals from all social identities, backgrounds, and perspectives in the discourse about SPEC's compensation structure and collaborative decision-making process.
+4. Foster mutual respect with our community members, hold each other with accountable, and fairly and compassionately compensate contributors.
+5. Ensure full and equitable participation of individuals from all social identities, backgrounds, and perspectives in the discourse about compensation and make the decision-making process collaborative.
 
 ### Contributor Levels
 
