@@ -48,9 +48,11 @@ Please note the contributor levels below are a work in progress. They were devel
 
 ### Pay Bands
 
+#### 2021 - 2022 Fiscal Year
+
 SPEC has made three important decisions for Q4 2021 related to pay bands.
 
-1. Our L3 contributors have volunteered to donate their time and receive no compensation for 
+1. All of our L3 contributors have volunteered to donate their time and receive no compensation. In the future, SPEC may hire L3 contributors that take a salary, at which time the L3 rate will be revisited. All contributors will have the ability to wave compensation and work on a voluntary basis.
 2. For the beginning of Q4, our L2 contributors will work at the same rate as L1s while SPEC operates on initial seed funding provided by donors.
 3. The pay rate for L2s will be adjusted when SPEC's funding reaches a sustainable level determined collaboratively by the co-founders, core team, and steering committee.
 4. The pay rate for L1 will be discussed at the end of Q4 in collaboration with SPEC's current cohort of L1 research associates.

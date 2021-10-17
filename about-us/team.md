@@ -6,11 +6,11 @@
 
 ## Introduction
 
-SPEC is run by a small and dedicated core team of part-time contributors and volunteers. We come from difference social identities, backgrounds, and perspectives. Many of us have families, full-time jobs, are going to school, making a career change, or experiencing another major life event, especially with the current pandemic and climate crisis. 
+SPEC is run by a small and dedicated core team of contributors and volunteers. We come from difference social identities, backgrounds, and perspectives. Many of us have families, full-time jobs, are going to school, making a career change, or experiencing another major life event, especially with the current pandemic and climate crisis. SPEC's co-founders and steering committee work entirely on a voluntary basis, have no financial stake in the organization, and do not receive compensation in any form.
 
-SPEC's team is 100% distributed and composed of part-time contributors and volunteers. SPEC's co-founders and steering committee work entirely on a volunteer basis, have no financial stake in the collective, and do not receive compensation in any form.
+We are striving to create sustainable careers for our contributors. Currently, all of SPEC's researchers and contributors are classified as independent contractors for SPEC and by proxy the Open Collective Foundation (OCF). We are working on being able to have contributors classified as employees and enable access to benefits like health insurance.
 
-We are striving to create sustainable careers for our contributors. Currently, all of SPEC's researchers and contributors are classified as independent contractors for SPEC and by proxy the Open Collective Foundation (OCF). We are working with the OCF to have contributors to be classified as employees and be able to access benefits like health insurance. We won't be able to create these jobs without funding. Please consider donating and helping to create more jobs for people working on making the world a better place! Learn more on our [donation page](../our-work/donate.md).
+We won't be able to create these jobs without funding. Please consider donating and helping to create more jobs for people working on making the world a better place! Learn more on our [donation page](../our-work/donate.md).
 
 ## Team Members
 
@@ -46,7 +46,7 @@ Noblesville, Indiana
 
 ![](../.gitbook/assets/matt-moore.png)
 
-**Research Engineer**\
+**Research Associate (Engineering)**\
 ****Raleigh-Durham-Chapel Hill Area
 
 ## Get Involved
