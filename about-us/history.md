@@ -20,7 +20,7 @@ Inspired by the report, Joe worked to combine merge the concepts of environmenta
 
 > #### **Sustainable progress means that we can continually take collective action to create a more equal and just world, without hurting people or the planet.**
 
-Joe and Rhianna worked together to outline SPEC's mission, core values, and operating principles. They submitted an application to be fiscally sponsored by the Open Collective Foundation. In less than a week of meeting, SPEC was formed. To learn more about SPEC organizational structure check out documentation page below.
+Joe and Rhianna worked together to outline SPEC's mission, core values, and operating principles. They submitted an application to be fiscally sponsored by the Open Collective Foundation. In less than a week of meeting, SPEC was formed. To learn more about SPEC's organizational structure check out documentation page below.
 
 {% content-ref url="organization.md" %}
 [organization.md](organization.md)
@@ -28,11 +28,11 @@ Joe and Rhianna worked together to outline SPEC's mission, core values, and oper
 
 ## Our First Year
 
-Rhianna and Joe started jointly funding the project. SPEC's first research associates (RAs) continued the work they started at The Buffalo Project. Rhianna founded The Buffalo Project as a longitudinal participatory action research project focused on creating action-based diversity initiatives that focus on utilizing participant observations of culture to inform solution-making efforts in college and community environments. Working with Rhianna and Joe, SPEC RAs began to investigate ways that technologies could be used to enhance their research and community work.
+SPEC's first research associates (RAs) continued the work they started at The Buffalo Project. Rhianna founded The Buffalo Project as a longitudinal participatory action research project focused on creating action-based diversity initiatives that focus on utilizing participant observations of culture to inform solution-making efforts in college and community environments. Working with Rhianna and Joe, SPEC RAs began to investigate ways that technologies could be used to enhance their research and community work.
 
-SPEC adopted solutions commonly used in the technology industry including Google Workspace, Slack, and Trello for communication and project management. RAs were trained to use these technologies to become active contributors, helping in many areas including research, social media, organizing events, facilitating break out sessions, sitting on panels, and creating presentations.
+SPEC adopted solutions commonly used in the technology industry including Google Workspace, Slack, and Trello for communication and project management. RAs were trained to use these technologies, becoming active contributors and helping in many areas including research, social media, organizing events, facilitating break out sessions, sitting on panels, and creating presentations.
 
-SPEC began to receive interest from individuals looking to learn software development, build STEAM skills, and find work in the technology industry. Joe offered mentorship, training, and career guidance to RAs working on SPEC technical projects. Rhianna and Joe called upon their networks to provide additional mentorship for learners** **and facetime with working professionals. During this period of collaboration, SPEC's contributors launched many projects and initiatives. Below are some highlights:
+SPEC began to receive interest from individuals looking to learn software development, build STEAM skills, and find work in the technology industry. Joe offered mentorship, training, and career guidance to RAs working on SPEC technical projects. Rhianna and Joe called upon their networks to provide additional mentorship for learners** **and face time with working professionals. During this period of collaboration, SPEC's contributors launched many projects and initiatives. Below are some highlights from our first year.
 
 * Provided **credit-bearing internships** or **paid work experiences**
 * **Incubated** and supported several **community partnerships** focused on addressing issues of **inequity in the US and abroad**
