@@ -4,11 +4,11 @@
 >
 > Richard Buckminster Fuller
 
-The Sustainable Progress and Equality Collective (SPEC) is an open learning organization that helps individuals and communities become catalysts for positive change. SPEC's mission is to empower individuals to become globally-minded change agents by helping them learn the essential skills required to build sustainable careers and make a positive impact in their communities. We aim to shape the next generation of leaders who will need to tackle the complex challenges facing society. SPEC achieves this aim through research & development, mentorship, training, service-learning, and hosting events for people from underrepresented backgrounds, underserved communities, non-traditional backgrounds, and allies to the causes of environmental sustainability and social justice.
+The Sustainable Progress and Equality Collective (SPEC) is an open learning organization that helps individuals and communities become catalysts for positive change. SPEC's mission is to empower individuals to become globally-minded change agents by helping them learn the essential skills required to build sustainable careers and make a positive impact in their communities. We aim to shape the next generation of leaders who will need to tackle the complex challenges facing society. SPEC achieves this aim through research, mentorship, training, work experience, service-learning, and events for people from underrepresented backgrounds, underserved communities, non-traditional backgrounds, and allies to the causes of environmental sustainability and social justice.
 
 ## Background
 
-SPEC was founded in June 2020 in response to the challenges of the COVID19 pandemic and social unrest facing communities across the United States. Its co-founders, Dr. Rhianna Rogers and Joe Torreggiani, connected online when Joe posted on social media, offering mentorship, training, and micro-loans to individuals from underrepresented groups. Dr. Rogers reached out about collaborating, and the two immediately discovered a shared passion for environmental and social justice. They established SPEC to help members of their communities learn new skills, build careers, and make an impact during this time of crisis and uncertainty.
+SPEC was founded in June 2020 in response to the challenges of the COVID19 pandemic and social unrest facing communities across the United States. Its co-founders, Dr. Rhianna Rogers and Joe Torreggiani, connected online when Joe posted on social media, offering mentorship, training, and micro-loans to individuals from underrepresented groups. Dr. Rogers reached out about collaborating, and the two immediately discovered a shared passion for environmental and social justice. They decided to spontaneously cooperate and establish SPEC to help members of their communities learn new skills, build careers, and make an impact during this time of crisis and uncertainty.
 
 ## Our Vision
 
@@ -20,7 +20,7 @@ In the 1960's, Fuller proposed was he called the "World Game", which was a kind 
 
 > #### make the world work for 100% of humanity, in the shortest possible time, through spontaneous cooperation without ecological offense or disadvantage of anyone.
 
-In 1971, Fuller authored a paper titled [The World Game: Integrative Resource Utilization Planning Tool](https://www.bfi.org/sites/default/files/attachments/literature_source/world_game_series_document1.pdf), in which he proposed an alternative to military war games, where groups of players work cooperatively to create peaceful and sustainable solutions to complex problems such as uneven distribution of global resources and overpopulation. The world game required players to replace their nation-state based perspectives with a more holistic view of the world. To Fuller the entire world was the most relevant unit of analysis, not the city, state or nation. Players would analyze information and data collected on all of the world's resources and industries, and use the knowledge they gained to develop solutions to global problems.
+In 1971, Fuller authored a paper titled [The World Game: Integrative Resource Utilization Planning Tool](https://www.bfi.org/sites/default/files/attachments/literature_source/world_game_series_document1.pdf), in which he proposed an alternative to military war games, where groups of players work cooperatively to create peaceful and sustainable solutions to complex problems such as uneven distribution of global resources and overpopulation. The world game required players to replace their nation-state based perspectives with a more holistic worldview. To Fuller the entire world was the most relevant unit of analysis, not the city, state or nation. Players would analyze information and data collected on all of the world's resources and industries, and use the knowledge they gained to develop solutions to global problems.
 
 #### Making The World Game Accessible To Everyone
 
@@ -38,9 +38,27 @@ At SPEC, we believe that the technologies needed to realize Fuller's vision exis
 
 We will need to adopt a radically transparent and equitable approach to building organizations and communities. SPEC must foster participation and action by members of the communities affected by its work. By working alongside underserved communities and uplifting unheard voices, SPEC's collective intelligence and collaborative network will continue grow. Only then will we be able to collaborative innovate to create solutions that truly make the world work for all people and the planet.
 
+## Core Values
+
+> #### Organizations, companies or individuals without core values are exactly like a boat without an anchor; it can be easy tossed to and fro following any direction the wind blows.
+>
+> Dr. Lucas D. Shallua
+
+The Sustainable Progress and Equality Collective (SPEC) was founded when two like-minded individuals, with a shared mission of making the world a better place, connected and decided to spontaneously cooperate to respond to the challenges facing their communities. SPEC's founders established the collective based on the core values of **sustainability, progress, **and** equality**. They chose these values, because combined they provide a recipe for building organizations that are radically transparent, sustainable, and equitable. The world is constantly changing and SPEC will continuously evolve to adapt, incorporating the voices and collective knowledge of its members.
+
+How we interpret and formalize our core values and operating principles will need to be regularly revisited and updated to reflect the organization's goals, user feedback, and community contributions. To learn more about about SPEC's Core Values click the link below.
+
+{% content-ref url="about-us/core-values.md" %}
+[core-values.md](about-us/core-values.md)
+{% endcontent-ref %}
+
 ## Our Work
 
-SPEC is a little more than a year old and has already accomplished a lot! Here is a breakdown of our first year.
+> #### You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.
+>
+> Richard Buckminster Fuller
+
+We are developing a model for building radically transparent, equitable, and sustainable organizations and communities. SPEC is only a year old, but we've already accomplished a lot!
 
 * Provided **credit-bearing internships** or **paid work experiences**
 * **Incubated** and supported several **community partnerships** focused on addressing issues of **inequity in the US and abroad**

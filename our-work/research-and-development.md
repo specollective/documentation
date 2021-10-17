@@ -8,7 +8,9 @@ description: ðŸš§This page is under construction and is considered incomplete. ð
 >
 > Richard Buckminster Fuller
 
-SPEC's research and development methodology is focused on the practical application of critical systems thinking and participatory action research in the areas of sustainability, social justice, and community development. It encourages researchers to seek to understand the world by working collaboratively to change it, and reflecting critically on their efforts. SPEC develops projects and partnerships with community organizations to create real-world work experiences in research, development, and community building. SPEC's approach is designed to build radically sustainable and equitable systems of living and working. The methodology draws upon many areas and concepts from social science and systems research.
+SPEC's research and development methodology is focused on the practical application of critical systems thinking and participatory action research in the areas of sustainability, social justice, and community development. It encourages researchers to seek to understand the world by working collaboratively to change it, and reflecting critically on their efforts.
+
+SPEC develops projects and partnerships with community organizations to create solutions to real-world problems while creating paid work experiences in research, development, and community building. SPEC's approach is designed to build radically transparent, sustainable and, equitable systems of living and working. The methodology draws upon many areas and concepts from social science and systems research.
 
 * Systems Thinking
 * Critical Systems Thinking
@@ -70,11 +72,19 @@ Collaborative Innovation is a process in which multiple contributors work toward
 
 ## Collective Intelligence
 
-Collective intelligence (CI) is shared or group intelligence that emerges from the collaboration, collective efforts, and competition of many individuals and appears in consensus decision making. It may involve consensus, social capital and formalisms such as voting systems, social media and other means of quantifying mass activity.
+Collective intelligence (CI) is shared or group intelligence that emerges from the collaboration, collective efforts, and competition of many individuals. It may involve consensus, decision making, social capital and systems such as voting, polls, social media and other means of quantifying mass activity. The term appears in sociobiology, political science and in context of mass peer review and crowdsourcing applications.
+
+Collective IQ is a measure of collective intelligence, although it is often used interchangeably with the term collective intelligence. Collective intelligence has also been attributed to bacteria and animals.
+
+
+
+
 
 ## Agile Development
 
 An agile approach to development is intended to improve the effectiveness of software development professionals, teams, and organizations. It involves discovering requirements and developing solutions through the collaborative effort of self-organization,  cross-function teams, and their customers.
+
+##
 
 ## References
 
