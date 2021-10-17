@@ -33,8 +33,8 @@ The CCS Core principles operationalize the sub-principles and key concepts from 
 1. Raise funds, pay contributors, and make financial decisions in full transparency.
 2. Approach compensation with critical awareness, rigorously examining and challenging assumptions about pay structure, performance evaluation, and raises.
 3. Strive to create balance between organizational success, financial sustainability, equity, and the welfare of our contributors, communities, and planet.
-4. Foster mutual respect with our community members, hold each other with accountable, and fairly and compassionately compensate contributors.
-5. Ensure full and equitable participation of individuals from all social identities, backgrounds, and perspectives in the discourse about compensation and make the decision-making process collaborative.
+4. Foster mutual respect with our community members, hold each other  accountable, and fairly and compassionately compensate contributors.
+5. Ensure full and equitable participation of all our community members in the collective's financial decision-making process and overall conversation about compensation.
 
 ### Contributor Levels
 
