@@ -10,13 +10,13 @@ The guide provides detailed definitions for each contributor level. A contributo
 
 #### Manager
 
-A managers plays a strategic role in the collective, making decisions, setting goals and overseeing the overall success of the team. \[1]
+A manager plays a strategic role in the collective, making decisions, setting goals and overseeing the overall success of the team. \[1]
 
 #### Supervisor
 
-A Supervisor is responsible for administering tasks and ensuring they are done properly and on time. \[2]
+A supervisor is responsible for administering tasks and ensuring they are done properly and on time. \[1]
 
-#### Individual Contributor (IC)
+#### Individual Contributor
 
 An individual contributor (IC) is a professional without management responsibilities who contributes to an organization independently to help support its goals and mission. While ICs must report to someone within the organization, an IC is not responsible for managing anyone except for themselves. An IC may manage of a process or project that they complete as part of a team or individually, but are not responsible for managing people. \[2]
 
@@ -38,27 +38,27 @@ An individual contributor (IC) is a professional without management responsibili
 
 **Organizational Scope and Impact**
 
-The degree to which a contributor's actions affect the collective as a whole. This factor includes the level of responsibility a contributor performs, including the degree to which the work can create either positive or negative consequences for the collective. The effect of a contributor's actions on the collective through the nature of the work.
+The degree to which a contributor's actions affect the collective as a whole. This factor includes the level of responsibility a contributor performs, including the degree to which the work can create either positive or negative consequences for the collective. The effect of a contributor's actions on the collective through the nature of the work.\[3]
 
 **Influence and Leadership**
 
-The level of supervision, management, or direction provided as part of the contributor's responsibility.
+The level of supervision, management, or direction provided as part of the contributor's responsibility.\[3]
 
 **Knowledge**
 
-The level and application of knowledge needed to perform the position. This factor describes the degree of expertise a contributor has in a field, discipline, or problem domain.
+The level and application of knowledge needed to perform the position. This factor describes the degree of expertise a contributor has in a field, discipline, or problem domain. \[3]
 
 **Problem Solving**
 
-The identification and application of approaches to resolving problems and making decisions. This factor is concerned a contributor's critical thinking / logical reasoning skills, as well as their interpersonal and intercultural competencies.
+The identification and application of approaches to resolving problems and making decisions. This factor is concerned a contributor's critical thinking / logical reasoning skills, as well as their interpersonal and intercultural competencies. \[3]
 
 **Independence of Action**
 
-The latitude the contributor has to make decisions as demonstrated by the level of review and instructions provided.
+The latitude the contributor has to make decisions as demonstrated by the level of review and instructions provided. \[3]
 
 **Education and Experience**
 
-The level of education and experience necessary to effectively contribute. Education is gained by studying and training either through a formalized educational program or self-directed learning. Experience is gained while working in a job.
+The level of education and experience necessary to effectively contribute. Education is gained by studying and training either through a formalized educational program or self-directed learning. Experience is gained while working in a job. \[3]
 
 ### References
 
