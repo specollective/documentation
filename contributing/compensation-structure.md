@@ -4,9 +4,9 @@ description: 🚧 This page is under construction and is considered in complete 
 
 # Compensation Structure
 
-SPEC's compensation structure is designed to establish fair, equitable, and transparent pay for all contributors in the collective. It gives the collective clear guidelines for assigning initial pay rates and managing raises and distributing bonuses. In order for SPEC's compensation structure to be considered effective, it must dismantle pay practices based on inequitable factors, like past salary history and ineffective negotiation, and on inherent biases like gender or race. \[1]
+SPEC's compensation structure is designed to establish fair, equitable, and transparent pay for all contributors in the collective. It gives the collective clear guidelines for assigning initial pay rates, managing raises, and giving bonuses. In order for SPEC's compensation structure to be considered effective, it must dismantle pay practices based on inequitable factors, like past salary history and ineffective negotiation, and on inherent biases like gender or race. \[1]
 
-SPEC's compensation structure has been developed through research, deliberative conversation, open collaboration, and careful evaluation of the collective's current funding, capacities, and ongoing projects. SPEC's pay rates will be regularly revisited and adjusted to ensure fair and equitable compensation of contributors and long-term financial sustainability of SPEC. All decisions and changes related to the compensation structure will be published openly as part of SPEC's release notes.
+SPEC seeks to continuously improve its compensation structure through action research, deliberative conversations, open collaboration, and careful evaluation of its budget, productive capacity, and ongoing projects. SPEC's pay rates will be regularly revisited and adjusted to ensure fair and equitable compensation of contributors and financial sustainability of the collective. All decisions and changes related to the compensation structure will be published openly as part of SPEC's release notes.
 
 ### Methodology
 
@@ -38,21 +38,30 @@ The CCS Core principles operationalize the sub-principles and key concepts from 
 
 ### Contributor Levels
 
-🚧 The contributor levels below are a work in progress and are currently being developed collaboratively. 🚧
+Please note the contributor levels below are a work in progress. They were developed to reflect SPEC's current organizational structure. The contributor  levels will be revisited and expanded as the roles of contributors change and grow over time.
 
-| Level              | Code | Description                                                                                                                                                 |
-| ------------------ | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Administrator**  | L3   | Supervisor responsible for managing the collective's overall operations, organizational development, strategic vision, and sustainability.                  |
-| **Lead**           | L2   | Leader responsible for overseeing projects, people, processes, budgets, and  execution of the collective's strategic plan.                                  |
-| **Associate**      | L1   | Individual contributor responsible for completing assigned tasks, conducting research, project deliverables, providing feedback, and documenting learnings. |
+| Level              | Code | Description                                                                                                                                                     |
+| ------------------ | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Administrator**  | L3   | **Manager** responsible for the collective's overall operations, organizational development, programs, strategic vision, and financial sustainability.          |
+| **Lead**           | L2   | **Supervisor** responsible for overseeing people, projects, processes, and execution of the collective's strategic plan.                                        |
+| **Associate**      | L1   | **Individual contributor** responsible for completing assigned tasks, conducting research, project deliverables, providing feedback, and documenting learnings. |
 
-### Pay Rates
+### Pay Bands
 
-| Level | Rate (Per Hour) |
-| ----- | --------------- |
-| L3    | $0.00           |
-| L2    | $20.00          |
-| L1    | $20.00          |
+SPEC has made three important decisions for Q4 2021 related to pay bands.
+
+1. Our L3 contributors have volunteered to donate their time and receive no compensation for 
+2. For the beginning of Q4, our L2 contributors will work at the same rate as L1s while SPEC operates on initial seed funding provided by donors.
+3. The pay rate for L2s will be adjusted when SPEC's funding reaches a sustainable level determined collaboratively by the co-founders, core team, and steering committee.
+4. The pay rate for L1 will be discussed at the end of Q4 in collaboration with SPEC's current cohort of L1 research associates.
+
+Below are the current pay bands for Q4 2021
+
+| Level  | Rate (Per Hour) |
+| ------ | --------------- |
+| **L3** | $0.00           |
+| **L2** | $20.00          |
+| **L1** | $20.00          |
 
 ### References
 
