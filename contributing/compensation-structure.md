@@ -38,13 +38,22 @@ The CCS Core principles operationalize the sub-principles and key concepts from 
 
 ### Contributor Levels
 
-Please note the contributor levels below are a work in progress. They were developed to reflect SPEC's current organizational structure. The contributor  levels will be revisited and expanded as the roles of contributors change and grow over time.
+Please note the contributor levels below are a work in progress. They were developed to reflect SPEC's current organizational structure. The contributor levels will be revisited and expanded as the roles of contributors change and grow over time.
 
-| Level              | Code | Description                                                                                                                                                     |
-| ------------------ | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Administrator**  | L3   | **Manager** responsible for the collective's overall operations, organizational development, programs, strategic vision, and financial sustainability.          |
-| **Lead**           | L2   | **Supervisor** responsible for overseeing people, projects, processes, and execution of the collective's strategic plan.                                        |
-| **Associate**      | L1   | **Individual contributor** responsible for completing assigned tasks, conducting research, project deliverables, providing feedback, and documenting learnings. |
+| Level              | Code | Description                                                                                                                                                                                                                                                       |
+| ------------------ | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Administrator**  | M3   | **Manager** responsible for the collective's overall operations, organizational development, programs, strategic vision, and financial sustainability.                                                                                                            |
+| **Lead**           | M2   | **Supervisor** responsible for overseeing people, projects, processes, and execution of the collective's strategic plan.                                                                                                                                          |
+| **Support**        | M1   | **Coordinator** responsible for supporting organizational development, ongoing projects, and providing peer support, mentorship, and guidance to junior contributors, new members, and external stakeholders.                                                     |
+| **Producer**       | L3   | A **Leader** responsible for finding and launching a project, arranging financing, hiring contributors, coordinating with core team, and overseeing all elements of pre-production, production and post-production, right up to release of projects and services. |
+| **Specialist**     | L2   | **Expert **responsible for providing subject matter expertise, technical guidance, mentorship, and critical problem solving abilities.                                                                                                                            |
+| **Associate**      | L1   | **Individual contributor** responsible for completing assigned tasks, conducting research, project deliverables, providing feedback, and documenting learnings.                                                                                                   |
+
+For more information about contributor levels click the link below to navigate to the Contributor Levels page.
+
+{% content-ref url="contributor-levels.md" %}
+[contributor-levels.md](contributor-levels.md)
+{% endcontent-ref %}
 
 ### Pay Bands
 
@@ -52,15 +61,18 @@ Please note the contributor levels below are a work in progress. They were devel
 
 SPEC has made three important decisions for Q4 2021 related to pay bands.
 
-1. All of our L3 contributors have volunteered to donate their time and receive no compensation. In the future, SPEC may hire L3 contributors that take a salary, at which time the L3 rate will be revisited. All contributors will have the ability to wave compensation and work on a voluntary basis.
-2. For the beginning of Q4, our L2 contributors will work at the same rate as L1s while SPEC operates on initial seed funding provided by donors.
-3. The pay rate for L2s will be adjusted when SPEC's funding reaches a sustainable level determined collaboratively by the co-founders, core team, and steering committee.
-4. The pay rate for L1 will be discussed at the end of Q4 in collaboration with SPEC's current cohort of L1 research associates.
+1. All of our L3/M3 contributors have volunteered to donate their time and receive no compensation. In the future, SPEC may hire L3/M3 contributors that take a salary, at which time their rate will be revisited. All contributors will have the ability to wave compensation and work on a voluntary basis.
+2. For the beginning of Q4, L2/M2 contributors will work at the same rate as L1s and M1s, while SPEC operates on initial seed funding.
+3. The pay rate for M2s will be adjusted when SPEC's funding reaches a sustainable level determined collaboratively by the co-founders, core team, and steering committee.
+4. The pay rate for level 1 contributors will be discussed at the end of Q4 in collaboration with SPEC's current cohort of level 1 research associates.
 
 Below are the current pay bands for Q4 2021
 
 | Level  | Rate (Per Hour) |
 | ------ | --------------- |
+| **M3** | $0.00           |
+| **M2** | $20.00          |
+| **M1** | $20.00          |
 | **L3** | $0.00           |
 | **L2** | $20.00          |
 | **L1** | $20.00          |
