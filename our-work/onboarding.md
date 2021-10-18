@@ -12,7 +12,7 @@ We are excited that you have decided to contribute to the Sustainable Progress a
 
 ## 1. Remember you can always email us.
 
-For general inquiries or if you need to get in touch with our team please us at [info@specollective.org](mailto:info@specollective.org).
+For general inquiries or if you need to get in touch with our team please email us at [info@specollective.org](mailto:info@specollective.org).
 
 ## 2. Please review and agree to our code of conduct.
 
