@@ -66,11 +66,11 @@ A leader is responsible for getting people to understand and believe in their vi
 
 #### M3 - Administrator
 
-**Manager** responsible for the collective's overall operations, organizational development, programs, strategic vision, and financial sustainability.
+**Manager** responsible for the collective's overall operations, organizational development, programs, strategic vision, and financial sustainability. An administrator** **is the first level responsible for directly managing contributors which includes coaching, mentoring, hiring, interviewing, performing performance reviews, regular feedback meetings, dealing with performance problems and terminations.
 
 **M4 - Principal**
 
-**Strategic planner** responsible for creation of business strategies for the organization.  A **Principal** makes viable recommendations to help the collective reach is goals. They must know the ins and outs of the collective to successfully create and present business strategies to leadership and stakeholders.
+**Strategic planner** responsible for creation of business strategies for the organization.  A principal makes viable recommendations to help the collective reach its goals. They must know the ins and outs of the collective to successfully create and present business strategies to leadership and stakeholders.
 
 ### Factors That Determine Contributor Levels
 
