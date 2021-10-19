@@ -6,7 +6,7 @@ description: 🚧 This page is under construction and is considered in complete 
 
 The guide provides detailed definitions for each contributor level. A contributor must satisfy the criteria specified here to qualify for a particular level. Below are some definitions of key terms that will help in understanding this guide.
 
-### Key Definitions
+## Key Definitions
 
 #### Coordinator
 
@@ -32,7 +32,37 @@ An expert is somebody who has a broad and deep competence in terms of knowledge,
 
 A leader is responsible for getting people to understand and believe in their vision and to work with their team to achieve its goals.
 
-### Level Descriptions
+## Factors That Determine Contributor Levels
+
+**Organizational Scope and Impact**
+
+The degree to which a contributor's actions affect the collective as a whole. This factor includes the level of responsibility a contributor performs, including the degree to which the work can create either positive or negative consequences for the collective. The effect of a contributor's actions on the collective through the nature of the work.\[4]
+
+**Influence and Leadership**
+
+The level of supervision, management, or direction provided as part of the contributor's responsibility.\[4]
+
+**Knowledge**
+
+The level and application of knowledge needed to perform the position. This factor describes the degree of expertise a contributor has in a field, discipline, or problem domain. \[4]
+
+**Problem Solving**
+
+The identification and application of approaches to resolving problems and making decisions. This factor is concerned a contributor's critical thinking / logical reasoning skills, as well as their interpersonal and intercultural competencies. \[4]
+
+**Independence of Action**
+
+The latitude the contributor has to make decisions as demonstrated by the level of review and instructions provided. \[4]
+
+**Education and Experience**
+
+The level of education and experience necessary to effectively contribute. Education is gained by studying and training either through a formalized educational program or self-directed learning. Experience is gained while working in a job. \[4]
+
+## Career Tracks
+
+SPEC has two primary career tracks, the Individual Contributor (IC) Track and the Management Track. The IC Track is for contributors who want to work for the organization independently to help support its goals and mission, but not have to manage people directly. The Management Track is for contributors who are interested directly overseeing people, processes, and projects.
+
+## Level Descriptions
 
 Please note that the title corresponding to the M2 level is **"Lead".** We also use the term **Leader**, to describe the primary role of an L3 contributor. Leadership is skill that is important to both ICs and managers. There is overlap between the responsibilities of leaders and managers, which can result in confusion. For clarity, when we are referring to an individual at the M2 level, for example, **Operations Lead** or **Research Lead**, we understand the term Lead as a modifier and indicator of rank. The term **Leader **should be understood as the general concept of a contributor who has leadership responsibilities.
 
@@ -73,32 +103,6 @@ Contributor levels marked with the under construction emoji ( 🚧), are in deve
 🚧 **M4 - Principal **🚧
 
 **Strategic planner **responsible for the collective's overall operations, organizational development, programs, strategic vision, and financial sustainability. Creates business strategies for the organization. A principal makes viable recommendations to help the collective reach its goals. They must know the ins and outs of the collective to successfully create and present business strategies to leadership and stakeholders.
-
-### Factors That Determine Contributor Levels
-
-**Organizational Scope and Impact**
-
-The degree to which a contributor's actions affect the collective as a whole. This factor includes the level of responsibility a contributor performs, including the degree to which the work can create either positive or negative consequences for the collective. The effect of a contributor's actions on the collective through the nature of the work.\[4]
-
-**Influence and Leadership**
-
-The level of supervision, management, or direction provided as part of the contributor's responsibility.\[4]
-
-**Knowledge**
-
-The level and application of knowledge needed to perform the position. This factor describes the degree of expertise a contributor has in a field, discipline, or problem domain. \[4]
-
-**Problem Solving**
-
-The identification and application of approaches to resolving problems and making decisions. This factor is concerned a contributor's critical thinking / logical reasoning skills, as well as their interpersonal and intercultural competencies. \[4]
-
-**Independence of Action**
-
-The latitude the contributor has to make decisions as demonstrated by the level of review and instructions provided. \[4]
-
-**Education and Experience**
-
-The level of education and experience necessary to effectively contribute. Education is gained by studying and training either through a formalized educational program or self-directed learning. Experience is gained while working in a job. \[4]
 
 ### References
 
