@@ -64,15 +64,15 @@ Contributor levels marked with the under construction emoji ( 🚧), are in deve
 
 #### M2 - Lead
 
-**Supervisor** responsible for overseeing people, projects, processes, and execution of the collective's strategic plan.
+**Supervisor** responsible for overseeing projects, operations, work streams, development processes, and execution of the collective's strategic plan.
 
 #### M3 - Administrator
 
-**Manager** responsible for the collective's overall operations, organizational development, programs, strategic vision, and financial sustainability. An administrator** **is the first level responsible for directly managing contributors which includes coaching, mentoring, hiring, interviewing, performing performance reviews, regular feedback meetings, dealing with performance problems and terminations.
+**Manager** responsible for directly managing contributors which includes coaching, mentoring, hiring, interviewing, performing performance reviews, regular feedback meetings, dealing with performance problems and terminations, and creating a collaborative work environment and psychological safe space for contributors.
 
 🚧 **M4 - Principal **🚧
 
-**Strategic planner** responsible for creation of business strategies for the organization.  A principal makes viable recommendations to help the collective reach its goals. They must know the ins and outs of the collective to successfully create and present business strategies to leadership and stakeholders.
+**Strategic planner **responsible for the collective's overall operations, organizational development, programs, strategic vision, and financial sustainability. Creates business strategies for the organization. A principal makes viable recommendations to help the collective reach its goals. They must know the ins and outs of the collective to successfully create and present business strategies to leadership and stakeholders.
 
 ### Factors That Determine Contributor Levels
 
