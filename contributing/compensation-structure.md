@@ -16,7 +16,7 @@ SPEC leverages a collaborative approach to developing its compensation structure
 2. **Progress Through Open Collaboration**
 3. **Equality Through Mutual Reciprocity**
 
-The CCS embodies SPEC's core values through its application of the operating principles. When developing the CCS, we bring to mind the following sub-principles, with particular attention to the highlighted terms. 
+The CCS embodies SPEC's core values through its application of the operating principles. When developing the CCS, we bring to mind the following sub-principles, with particular attention to the highlighted terms.&#x20;
 
 1. Strive for **openness** in our research, communications, **organizational process**, **finances**, and data.
 2. Use **critical awareness** when building systems,** rigorously examining assumptions** **and evaluating** the conditions which give rise to them.
@@ -40,14 +40,14 @@ The CCS Core principles operationalize the sub-principles and key concepts from 
 
 Please note the contributor levels below are a work in progress. They were developed to reflect SPEC's current organizational structure. The contributor levels will be revisited and expanded as the roles of contributors change and grow over time.
 
-| Level              | Code | Description                                                                                                                                                                                                                                                       |
-| ------------------ | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Administrator**  | M3   | **Manager** responsible for the collective's overall operations, organizational development, programs, strategic vision, and financial sustainability.                                                                                                            |
-| **Lead**           | M2   | **Supervisor** responsible for overseeing people, projects, processes, and execution of the collective's strategic plan.                                                                                                                                          |
-| **Support**        | M1   | **Coordinator** responsible for supporting organizational development, ongoing projects, and providing peer support, mentorship, and guidance to junior contributors, new members, and external stakeholders.                                                     |
-| **Producer**       | L3   | A **Leader** responsible for finding and launching a project, arranging financing, hiring contributors, coordinating with core team, and overseeing all elements of pre-production, production and post-production, right up to release of projects and services. |
-| **Specialist**     | L2   | **Expert **responsible for providing subject matter expertise, technical guidance, mentorship, and critical problem solving abilities.                                                                                                                            |
-| **Associate**      | L1   | **Individual contributor** responsible for completing assigned tasks, conducting research, project deliverables, providing feedback, and documenting learnings.                                                                                                   |
+| Level              | Code | Description                                                                                                                                                                                                                                                     |
+| ------------------ | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Administrator**  | M3   | **Manager** responsible for the collective's overall operations, organizational development, programs, strategic vision, and financial sustainability.                                                                                                          |
+| **Lead**           | M2   | **Supervisor** responsible for overseeing people, projects, processes, and execution of the collective's strategic plan.                                                                                                                                        |
+| **Support**        | M1   | **Coordinator** responsible for supporting organizational development, ongoing projects, and providing peer support, mentorship, and guidance to junior contributors, new members, and external stakeholders.                                                   |
+| **Producer**       | L3   | **Leader** responsible for finding and launching a project, arranging financing, hiring contributors, coordinating with core team, and overseeing all elements of pre-production, production and post-production, right up to release of projects and services. |
+| **Specialist**     | L2   | **Expert **responsible for providing subject matter expertise, technical guidance, mentorship, and critical problem solving abilities.                                                                                                                          |
+| **Associate**      | L1   | **Individual contributor** responsible for completing assigned tasks, conducting research, project deliverables, providing feedback, and documenting learnings.                                                                                                 |
 
 For more information about contributor levels click the link below to navigate to the Contributor Levels page.
 

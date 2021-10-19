@@ -34,19 +34,27 @@ A leader is responsible for getting people to understand and believe in their vi
 
 ### Level Descriptions
 
-⚠️ Please note that the title corresponding the M2 level is **"Lead".** We also use the term **Leader**, to describe the primary role of an L3 contributor. Leadership is skill that is important to both individual contributors and managers. There is overlap between the responsibilities of leaders and managers, which can result in confusion. For clarity, when we are referring to an individual at the M2 level, for example, **Operations Lead** or **Research Lead**, we understand the term Lead as a modifier and indicator of rank. The term **Leader **should be understood as the general concept of an individual who has leadership responsibilities.
+⚠️ Please note that the title corresponding to the M2 level is **"Lead".** We also use the term **Leader**, to describe the primary role of an L3 contributor. Leadership is skill that is important to both ICs and managers. There is overlap between the responsibilities of leaders and managers, which can result in confusion. For clarity, when we are referring to an individual at the M2 level, for example, **Operations Lead** or **Research Lead**, we understand the term Lead as a modifier and indicator of rank. The term **Leader **should be understood as the general concept of a contributor who has leadership responsibilities.
+
+### **Individual Contributor** Track
 
 #### L1 - Associate
 
-An **Individual Contributor** responsible for completing assigned tasks, conducting research, project deliverables, providing feedback, and documenting learnings.
+**Individual Contributor** responsible for completing assigned tasks, conducting research, project deliverables, providing feedback, and documenting learnings.
 
 #### L2 - Specialist
 
-An **Expert **responsible for providing subject matter expertise, technical guidance, mentorship, and critical problem solving abilities.
+**Expert **responsible for providing subject matter expertise, technical guidance, mentorship, and critical problem solving abilities.
 
 **L3 - Producer**
 
-A **Leader** responsible for finding and launching a project, arranging financing, hiring contributors, coordinating with core team, and overseeing all elements of pre-production, production and post-production, right up to release of projects and services.
+**Leader** responsible for finding and launching a project, arranging financing, hiring contributors, coordinating with core team, and overseeing all elements of pre-production, production and post-production, right up to release of projects and services.
+
+**L4 - Integrator**
+
+**Systems thinker **responsible** **for** **managing multiple technical programs and work streams simultaneously. Seeks to optimize processes, detect project risks, identify feedback loops, and develop systematic solutions that manage human and technical factors.
+
+### Management Track
 
 #### M1 - Support
 
@@ -59,6 +67,10 @@ A **Leader** responsible for finding and launching a project, arranging financin
 #### M3 - Administrator
 
 **Manager** responsible for the collective's overall operations, organizational development, programs, strategic vision, and financial sustainability.
+
+**M4 - Principal**
+
+**Strategic planner** responsible for creation of business strategies for the organization.  A **Principal** makes viable recommendations to help the collective reach is goals. They must know the ins and outs of the collective to successfully create and present business strategies to leadership and stakeholders.
 
 ### Factors That Determine Contributor Levels
 
