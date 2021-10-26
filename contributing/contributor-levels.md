@@ -68,7 +68,7 @@ Please note that the title corresponding to the M2 level is **"Lead".** We also 
 
 Contributor levels marked with the under construction emoji ( 🚧), are in development and not currently in use.
 
-### **Individual Contributor** Track
+## **Individual Contributor** Track
 
 #### L1 - Associate
 
@@ -86,7 +86,7 @@ Contributor levels marked with the under construction emoji ( 🚧), are in deve
 
 **Systems thinker **responsible** **for** **managing multiple technical programs and work streams simultaneously. Seeks to optimize processes, detect project risks, identify feedback loops, and develop systematic solutions that manage human and technical factors.
 
-### Management Track
+## Management Track
 
 #### M1 - Support
 
@@ -100,9 +100,21 @@ Contributor levels marked with the under construction emoji ( 🚧), are in deve
 
 **Manager** responsible for directly managing contributors which includes coaching, mentoring, hiring, interviewing, performing performance reviews, regular feedback meetings, dealing with performance problems and terminations, and creating a collaborative work environment and psychological safe space for contributors.
 
-🚧 **M4 - Principal **🚧
+🚧**M4 - Principal **🚧
 
 **Strategic planner **responsible for the collective's overall operations, organizational development, programs, strategic vision, and financial sustainability. Creates business strategies for the organization. A principal makes viable recommendations to help the collective reach its goals. They must know the ins and outs of the collective to successfully create and present business strategies to leadership and stakeholders.
+
+## 🚧 Mixed Track 🚧
+
+We recognize that many people's skills and knowledge don't always fit neatly into the IC and management tracks. For this reason the contributor levels includes the Mixed Track. Each level here combines roles and responsibilities from both tracks. A contributor on the mixed track may lean more towards IC or management, but performs duties in both areas.
+
+#### MX1 - Support Associate
+
+#### MX2 - Lead Specialist
+
+#### MX3 - Administrator Producer
+
+#### MX4 - Principal Integrator
 
 ### References
 
