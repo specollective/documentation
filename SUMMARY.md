@@ -41,7 +41,8 @@
 ## Knowledge Base
 
 * [Getting Started](knowledge-base/getting-started.md)
-* [Open Education Resources](knowledge-base/oer.md)
+* [Open Education Resources](knowledge-base/oer/README.md)
+  * [Moodle](knowledge-base/oer/moodle.md)
 * [Massive Open Online Courses](knowledge-base/stem.md)
 * [Diversity Equity & Inclusion](knowledge-base/diversity-equity-and-inclusion/README.md)
   * [Resources](knowledge-base/diversity-equity-and-inclusion/resources.md)
