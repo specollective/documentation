@@ -1,8 +1,6 @@
----
-description: 🚧  This page under construction and is considered incomplete. 🚧
----
-
 # Moodle
+
+🚧 This page under construction and is considered incomplete. 🚧
 
 Moodle is an open-source learning platform designed to provide educators, administrators and learners with a single robust, secure and integrated system to create personalized learning environments. Moodle is free with no licensing fees. It is provided freely as Open Source software, under the GNU General Public License. Anyone can adapt, extend or modify Moodle for both commercial and non-commercial projects without any licensing fees and benefit from the cost-efficiencies, flexibility and other advantages of using Moodle.\[1]
 
