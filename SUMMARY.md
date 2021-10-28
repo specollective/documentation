@@ -41,7 +41,7 @@
 ## Knowledge Base
 
 * [Getting Started](knowledge-base/getting-started.md)
-* [Open Education Resources](knowledge-base/oer/README.md)
+* [Open Education Resources](knowledge-base/oer.md)
   * [Moodle](knowledge-base/oer/moodle.md)
 * [Massive Open Online Courses](knowledge-base/stem.md)
 * [Diversity Equity & Inclusion](knowledge-base/diversity-equity-and-inclusion/README.md)
@@ -60,6 +60,7 @@
   * [Intro to Web Development](knowledge-base/software-engineering/intro-to-web-development.md)
   * [Guide to Code Bootcamps](knowledge-base/software-engineering/code-bootcamps.md)
   * [Resources](knowledge-base/software-engineering/resources.md)
+* [Project Management](knowledge-base/project-management.md)
 * [Mental Health & Neurodiversity](knowledge-base/mental-health-and-neurodiversity.md)
 
 ## Contributing

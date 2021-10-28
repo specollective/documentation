@@ -1,16 +1,16 @@
 ---
-description: "\U0001F6A7  This page is under construction and is considered incomplete. \U0001F6A7"
+description: 🚧 This page is under construction and is considered incomplete. 🚧
 ---
 
 # Software Engineering
 
 ## Introduction
 
-Software engineering is the application of engineering to design, implement, maintain, test, and evaluate computer software. Computer software \(or simply software\) is a set of instructions and that tells a computer how to work. Computer hardware \(or simply hardware\) is a physical system that performs the work defined by software and configuration. Computer software and hardware require each other and neither can be used on their own. Software encompasses all information processed by a computer system, including programs, libraries, and non-executable data such as documentation or media.
+Software engineering is the application of engineering to design, implement, maintain, test, and evaluate computer software. Computer software (or simply software) is a set of instructions and that tells a computer how to work. Computer hardware (or simply hardware) is a physical system that performs the work defined by software and configuration. Computer software and hardware require each other and neither can be used on their own. Software encompasses all information processed by a computer system, including programs, libraries, and non-executable data such as documentation or media.
 
 Software engineers create the programs which turn computers into useful machines. Computer software enables us to send email, search the Internet, make video calls, control industrial manufacturing robots, and fly rockets. Software engineers manage the entire process of designing and developing software, which includes computer programming, gathering requirements, software testing, and maintaining the final product. Software engineers have played a central role in the ongoing digital revolution by making the software which tells computers what to do, Computer software is transforming human civilization and has led to the beginning of the Information Age.
 
-There are many formal definitions and understandings of software engineering. The ISO/IEC/IEEE Systems and Software Engineering Vocabulary \(SEVOCAB\) define software engineering as 
+There are many formal definitions and understandings of software engineering. The ISO/IEC/IEEE Systems and Software Engineering Vocabulary (SEVOCAB) define software engineering as&#x20;
 
 > the application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software; that is, the application of engineering to software
 
@@ -28,7 +28,7 @@ Software engineering is critical to modern technologies from your alarm clock to
 * Excellent working conditions - often shorter, flexible hours, with possibility of remote work.
 * In the US, the pay is relatively high, especially early in your career - $100,000+ starting salary is possible.
 
-Software engineering can empower individuals by giving them the financial means to earn to give and build useful skills. To learn more about how to make an impact with a career in software engineering, checkout the article [Software engineering at large tech-firms \(for skill-building & earning to give\)](https://80000hours.org/career-reviews/software-engineering/) published by the organization 80,000 Hours.
+Software engineering can empower individuals by giving them the financial means to earn to give and build useful skills. To learn more about how to make an impact with a career in software engineering, checkout the article [Software engineering at large tech-firms (for skill-building & earning to give)](https://80000hours.org/career-reviews/software-engineering/) published by the organization 80,000 Hours.
 
 {% embed url="https://80000hours.org/career-reviews/software-engineering" %}
 
@@ -42,7 +42,7 @@ Software engineering emerged as a sub-discipline of computer science, electrical
 * Software was of low quality
 * Software often did not meet requirements
 * Projects were unmanageable and code difficult to maintain
-*  Software was never delivered
+* &#x20;Software was never delivered
 
 A major cause of the Software Crisis was determined to be that computers were becoming several orders of magnitude more powerful at an exponential rate. As Edsger Dijkstra, the creator of the C++ programming language, put it bluntly "as long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem." Rapid increases in computer power caused an explosion of complexity in the problems that could be tackled. With the increase in the complexity of the software, many software problems arose because existing methods were inadequate.
 
@@ -52,15 +52,15 @@ During the Software Crisis,  term "software engineering" emerged, with its origi
 
 Margaret Hamilton also is credited as independently naming the discipline "software engineering" during the Apollo missions to provide legitimacy to the work her team was doing. The term "engineering" was used to acknowledge that the work should be taken just as seriously as other contributions toward the advancement of technology.
 
-In 1984, the Software Engineering Institute \(SEI\) was established as a federally funded research and development center headquartered on the campus of Carnegie Mellon University in Pittsburgh, Pennsylvania, United States. Watts Humphrey founded the SEI Software Process Program, aimed at understanding and managing the software engineering process. The Capability Maturity Model Integration for Development\(CMMI-DEV\) currently used by US Government to evaluate the abilities of a software development team, was developed through Humphrey's program.
+In 1984, the Software Engineering Institute (SEI) was established as a federally funded research and development center headquartered on the campus of Carnegie Mellon University in Pittsburgh, Pennsylvania, United States. Watts Humphrey founded the SEI Software Process Program, aimed at understanding and managing the software engineering process. The Capability Maturity Model Integration for Development(CMMI-DEV) currently used by US Government to evaluate the abilities of a software development team, was developed through Humphrey's program.
 
-Today, the [ISO/IEC JTC 1/SC 7 subcommittee](https://www.iso.org/committee/45086.html) has collected modern, general accepted best-practices for software engineering which are published as the [Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering) \(SWEBOK\).
+Today, the [ISO/IEC JTC 1/SC 7 subcommittee](https://www.iso.org/committee/45086.html) has collected modern, general accepted best-practices for software engineering which are published as the [Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering) (SWEBOK).
 
 {% embed url="https://www.computer.org/education/bodies-of-knowledge/software-engineering" %}
 
 ## Profession
 
-Software engineering is one of the fastest growing professions today. The roles and responsibilities range from industry and technology stack. In 2018, the U.S. Bureau of Labor Statistics\(BLS\) counted 1,365,500 software developers holding jobs in the U.S. Since software engineering is relatively new discipline, formal education is often taught as part of a computer science curriculum. As such, software engineers typically hold computer science, computer engineering, and electrical engineering degrees. The BLS estimates from 2014 to 2024 that the number of software engineers will increase by 17%.
+Software engineering is one of the fastest growing professions today. The roles and responsibilities range from industry and technology stack. In 2018, the U.S. Bureau of Labor Statistics(BLS) counted 1,365,500 software developers holding jobs in the U.S. Since software engineering is relatively new discipline, formal education is often taught as part of a computer science curriculum. As such, software engineers typically hold computer science, computer engineering, and electrical engineering degrees. The BLS estimates from 2014 to 2024 that the number of software engineers will increase by 17%.
 
 According to Indeed.com, the average salary for a software engineer in the United States is $111,537. A good starting software engineer salary in the US is considered to be $113,211 per year. Competitive starting salaries will vary depending on location and cost of living.
 
@@ -72,7 +72,7 @@ Software engineers work on a variety of technologies from websites to flight con
 
 ## ABET Accreditation
 
-The Accreditation Board for Engineering and Technology \(ABET\) is a non-governmental organization that accredits post-secondary education programs in applied and natural science, computing, engineering and engineering technology. According to the ABET, in addition to the general criteria for all baccalaureate level engineering programs, a college's software engineering program must meeting the following criteria to qualify for accreditation:
+The Accreditation Board for Engineering and Technology (ABET) is a non-governmental organization that accredits post-secondary education programs in applied and natural science, computing, engineering and engineering technology. According to the ABET, in addition to the general criteria for all baccalaureate level engineering programs, a college's software engineering program must meeting the following criteria to qualify for accreditation:
 
 * Provide both breadth and depth across the range of engineering and computer science topics implied by the title and objectives of the program
 * Include computing fundamentals, software design and construction, requirements analysis, security, verification, and validation
@@ -87,10 +87,11 @@ In practice, most software engineering activities do not need to be performed by
 
 The demand for software engineers, especially in the areas of web and mobile application development, has been exploded in recent years. Code bootcamps have emerged to fill the demand to training in software engineering. Bootcamps offer accelerated learning programs that teach digital skills like software engineering, data science, product management, and UX/UI Design. Learn more about code bootcamps on SPEC's Guide to Code Bootcamps.
 
-{% page-ref page="code-bootcamps.md" %}
+{% content-ref url="code-bootcamps.md" %}
+[code-bootcamps.md](code-bootcamps.md)
+{% endcontent-ref %}
 
 ## References
 
-1. IEEE Computer Science, [Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering) \(2021\)
-2. Wikipedia, [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) \(2021\)
-
+1. IEEE Computer Science, [Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering) (2021)
+2. Wikipedia, [Software Engineering](https://en.wikipedia.org/wiki/Software\_engineering) (2021)
