@@ -36,7 +36,8 @@
   * [Plastic Recycling](projects/sustainability-accelerator/plastic-recycling.md)
 * [CITISEN Program](projects/citisen.md)
 * [SPEC Learning](projects/spec-learning-platform.md)
-* [Open Design System](projects/open-design-system.md)
+* [Open Design System](projects/open-design-system/README.md)
+  * [Product Requirements](projects/open-design-system/product-requirements.md)
 
 ## Knowledge Base
 
