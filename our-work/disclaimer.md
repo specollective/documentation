@@ -2,7 +2,7 @@
 
 ## Disclaimer for Sustainable Progress and Equality Collective
 
-If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at jtorreggiani@specollective.org. Our Disclaimer was generated with the help of the [Disclaimer Generator](https://www.disclaimergenerator.net).
+If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at info@specollective.org. Our Disclaimer was generated with the help of the [Disclaimer Generator](https://www.disclaimergenerator.net).
 
 ### Disclaimers for SPEC
 
