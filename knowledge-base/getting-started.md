@@ -6,8 +6,10 @@ SPECs Knowledge Base (KB) is designed to empower its members and curious individ
 
 ## Table of Contents
 
-* Open Education Resources
-* Massive Open Online Courses
-* Diversity, Equity, & Inclusion
-* Sustainable Agriculture
-* Software Engineering
+* [Open Education Resources](oer.md)
+* [Massive Open Online Courses](stem.md)
+* [Diversity, Equity, & Inclusion](diversity-equity-and-inclusion/)
+* [Sustainable Agriculture](sustainable-agriculture/)
+* [Software Engineering](software-engineering/)
+* [Project Management](project-management.md)
+* [Mental Health & Neurodiversity](mental-health-and-neurodiversity.md)

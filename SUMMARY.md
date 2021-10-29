@@ -24,6 +24,7 @@
 * [Testimonials](our-work/testimonials.md)
 * [Peer Review Process](our-work/peer-review-process.md)
 * [Citation Format](our-work/citation-format.md)
+* [Disclaimer](our-work/disclaimer.md)
 
 ## Projects
 
