@@ -2,7 +2,11 @@
 
 ## Introduction
 
-SPEC is exploring accelerating sustainability and social justice focused initiatives by developing an open source design system that provides primitives for building radically transparent, inclusive, and accessible products and services.
+SPEC is exploring accelerating sustainability and social justice focused initiatives by developing an open-source design system that provides primitives for building radically transparent, inclusive, and accessible products and services. SPEC's **Open Design System** (ODS) coherently organizes design patterns and best practices to support design and development of user interfaces that are accessible, inclusive, and ergonomic. ODS will provide pattern libraries, design languages, style guides, coded components, brand languages, and supporting documentation. It will serve as a reference or source of truth that help SPEC and other developers/organizations design and build digital products.
+
+ODS is actively under development. Check out the Github repository for more information about technical progress.
+
+{% embed url="https://github.com/specollective/open-design-system" %}
 
 ## Research
 
