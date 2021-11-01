@@ -64,7 +64,7 @@ SPEC has two primary career tracks, the Individual Contributor (IC) Track and th
 
 ## Level Descriptions
 
-Please note that the title corresponding to the M2 level is **"Lead".** We also use the term **Leader**, to describe the primary role of an L3 contributor. Leadership is skill that is important to both ICs and managers. There is overlap between the responsibilities of leaders and managers, which can result in confusion. For clarity, when we are referring to an individual at the M2 level, for example, **Operations Lead** or **Research Lead**, we understand the term Lead as a modifier and indicator of rank. The term **Leader **should be understood as the general concept of a contributor who has leadership responsibilities.
+Please note that the title corresponding to the M2 level is **"Lead".** We also use the term **Leader**, to describe the primary role of an L3 contributor. Leadership is a skill that is important to both ICs and managers. There is overlap between the responsibilities of leaders and managers, which can result in confusion. For clarity, when we are referring to an individual at the M2 level, for example, **Operations Lead** or **Research Lead**, we understand the term Lead as a modifier and indicator of rank. The term **Leader **should be understood as the general concept of a contributor who has leadership responsibilities.
 
 Contributor levels marked with the under construction emoji ( 🚧), are in development and not currently in use.
 
