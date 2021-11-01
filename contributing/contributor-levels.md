@@ -4,7 +4,7 @@ description: 🚧 This page is under construction and is considered in complete 
 
 # Contributor Levels
 
-The guide provides detailed definitions for each contributor level. A contributor must satisfy the criteria specified here to qualify for a particular level. Below are some definitions of key terms that will help in understanding this guide.
+The guide provides detailed definitions for each contributor level. A contributor must satisfy the criteria specified here to qualify for a particular level. Please note that contributor levels are not reflected in a contributor's official title. For example, a contributor at the **L3 Producer** level, may have the title of **Project Manager** or **Senior Engineer**. Below are some definitions of key terms that will help in understanding this guide.
 
 ## Key Definitions
 
