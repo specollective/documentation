@@ -1,5 +1,5 @@
 ---
-description: 🚧 This page is under construction and is considered in complete 🚧
+description: 🚧 This page is under construction and is considered incomplete 🚧
 ---
 
 # Contributor Levels
