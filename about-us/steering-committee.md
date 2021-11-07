@@ -4,14 +4,13 @@ SPEC's Steering Committee support SPEC by providing expertise and guidance to th
 
 ## Members
 
-* Rhianna C. Rogers, Ph.D. \(Co-Founder & Chair\)
-* James W. Schuetz P.G
 * Alissa Steele
+* Charles Harrison
 * Erik Walter
+* Isaac Fennell
+* James W. Schuetz P.G
+* Karina Loera
 * Leah Harper-Lane
 * Marissa Lee
-* Charles Harrison
-* Dr. Menoukha Robin Case
-* Isaac Fennell
-* Karina Loera
-
+* Menoukha Robin Case
+* Rhianna C. Rogers, Ph.D. (Co-Founder & Chair)

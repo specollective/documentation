@@ -98,7 +98,7 @@ OCF is creating a legal, financial, and technical commons for a solidarity econo
 
 SPEC is always looking for highly dedicated contributors who have an interest in and passion for sustainability, social justice, and community development. Help us build a world that works for everyone and protect the planet! If you are interested in becoming a researcher or contributor at SPEC please email us at [info@specollective.org](mailto:info@specollective.org).&#x20;
 
-The more information about your research interests, areas expertise, and learning objectives the better. Please attach or link any helpful information about you including your resume, CV, cover letter, and portfolio. You can also review on onboarding documentation to familiarize yourself with SPEC processes and procedures.
+The more information about your research interests, areas expertise, and learning objectives the better. Please attach or link any helpful information about you including your resume or CV, cover letter, and portfolio. You can also review our onboarding documentation to familiarize yourself with SPEC processes and procedures.
 
 {% content-ref url="our-work/onboarding.md" %}
 [onboarding.md](our-work/onboarding.md)
