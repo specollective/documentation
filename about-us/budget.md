@@ -4,7 +4,7 @@
 >
 > Dinesh Paliwal
 
-SPEC's budget for 2020 - 2021 has been primarily allocated to paying for research associates and core contributors working on research, organizational development, mentoring, and technical development. As of September 5th 2021, the costs for SPEC's technical infrastructure, i.e Google Workspace, Slack, domain, and website hosting, has been covered by individual donations from SPEC's co-founders. All donations used for paying directly for contributors can be found on SPEC's Open Collective Page.
+SPEC's budget for 2020 - 2021 has been primarily allocated to paying for research associates and core contributors working on research, organizational development, mentoring, and technical development. As of September 5th 2021, the costs for SPEC's technical infrastructure, i.e., Google Workspace, Slack, domain, and website hosting, has been covered by individual donations from SPEC's co-founders. All donations used for paying directly for contributors can be found on SPEC's Open Collective Page.
 
 ## The Numbers
 
@@ -17,4 +17,4 @@ SPEC's budget for 2020 - 2021 has been primarily allocated to paying for researc
 
 ## The Future
 
-SPEC is exploring getting single-service debit cards from its fiscal sponsor the Open Collective Foundation. The debit cards would allow SPEC to transparently pay for platform from its Open Collective Account.
+SPEC is exploring single-service debit cards from its fiscal sponsor the Open Collective Foundation. The debit cards would allow SPEC to transparently pay for technical infrastructure from its Open Collective Account.
