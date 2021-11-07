@@ -1,10 +1,10 @@
 # Testimonials
 
-We measure our success based on the health and happiness of our contributors as well as their productivity and positive impact in their communities and the world. We cherish the feedback we receive from our members and excited to share some of their kind words about their experiences at SPEC.
+We measure our success based on the health and happiness of our contributors as well as their productivity and positive impact in their communities and the world. We cherish the feedback we receive from our members and are excited to share some of their kind words about their experiences at SPEC.
 
 ### Hear Their Voices
 
-> #### I transitioned into tech in an effort to implement change for social good - I was ecstatic to stumble upon SPEC! The mentorship I received through SPEC was integral in developing the confidence and skills I needed to land my first coding role. 
+> #### I transitioned into tech in an effort to implement change for social good - I was ecstatic to stumble upon SPEC! The mentorship I received through SPEC was integral in developing the confidence and skills I needed to land my first coding role.&#x20;
 >
 > Julia Catalano
 

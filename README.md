@@ -16,27 +16,27 @@ SPEC takes inspiration from the work of the renowned 20th century inventor and v
 
 #### The World Game: Integrative Resource Utilization Planning Tool
 
-In the 1960's, Fuller proposed was he called the "World Game", which was a kind of logistics training exercise and simulation intended to facilitate a "comprehensive, anticipatory, design science approach to the problems of the world." \[1] Fuller envisioned the world game as a place where individuals or teams of people cooperated to:
+In the 1960's, Fuller proposed what he called the "World Game", which was a kind of logistics training exercise and simulation intended to facilitate a "comprehensive, anticipatory, design science approach to the problems of the world." \[1] Fuller envisioned the world game as a place where individuals or teams of people cooperated to:
 
 > #### make the world work for 100% of humanity, in the shortest possible time, through spontaneous cooperation without ecological offense or disadvantage of anyone.
 
-In 1971, Fuller authored a paper titled [The World Game: Integrative Resource Utilization Planning Tool](https://www.bfi.org/sites/default/files/attachments/literature_source/world_game_series_document1.pdf), in which he proposed an alternative to military war games, where groups of players work cooperatively to create peaceful and sustainable solutions to complex problems such as uneven distribution of global resources and overpopulation. The world game required players to replace their nation-state based perspectives with a more holistic worldview. To Fuller the entire world was the most relevant unit of analysis, not the city, state or nation. Players would analyze information and data collected on all of the world's resources and industries, and use the knowledge they gained to develop solutions to global problems.
+In 1971, Fuller authored a paper titled [The World Game: Integrative Resource Utilization Planning Tool](https://www.bfi.org/sites/default/files/attachments/literature\_source/world\_game\_series\_document1.pdf), in which he proposed an alternative to military war games, where groups of players work cooperatively to create peaceful and sustainable solutions to complex problems such as uneven distribution of global resources and overpopulation. The world game required players to replace their nation-state based perspectives with a more holistic worldview. To Fuller the entire world was the most relevant unit of analysis, not the city, state or nation. Players would analyze information and data collected on all of the world's resources and industries, and use the knowledge they gained to develop solutions to global problems.
 
-#### Making The World Game Accessible To Everyone
+#### Making the World Game Accessible to Everyone
 
-The use of the word "game" says a lot about Fuller's approach to governance and social problem solving. Fuller chose to call his vision a "game" because he wanted it to be accessible to everyone. The world game was intended to be a serious tool for change, but Fuller didn't want it to only benefit the elite few who he believed were "running the show." \[1] In this sense, Fuller's vision for the world game was profoundly emancipatory. 
+The use of the word "game" says a lot about Fuller's approach to governance and social problem solving. Fuller chose to call his vision a "game" because he wanted it to be accessible to everyone. The world game was intended to be a serious tool for change, but Fuller didn't want it to only benefit the elite few who he believed were "running the show." \[1] In this sense, Fuller's vision for the world game was profoundly emancipatory.&#x20;
 
 Making the world game accessible to everyone meant widely disseminating its findings to the masses through a free press. Fuller believed this would lead to a "ground-swell" of public review and acceptance of sustainable solutions to challenges facing society. This movement would ultimately lead to governments adopting the democratic values and open solutions developed by the world game. \[1] During Fuller's time, many considered his visions of change to be naive and untenable. However, they were constrained by only seeing the world as it was when Fuller was proposing his ideas (in the 1960s).
 
-#### Ahead Of Its Time
+#### Ahead of Its Time
 
 The world game needed a comprehensive database that could provide players with better information and data than their political counterparts. This inventory of the world's vital statistics would give players knowledge of where everything was located and all relevant quantities and qualities. From "minerals to manufactured goods and services, to humans and their unmet needs as well as capabilities," the world game required critical information about the current state of the world to be continuously monitored and streamed into a "game room" in real-time. \[1] Unfortunately, none of these technologies existed when Fuller began talking about the world game. He didn't live long enough to see the advent of personal computers, 24-hour news cycle, the Internet, supercomputers, and the zettabytes of data being generated by society today.
 
 #### The Future is Now
 
-At SPEC, we believe that the technologies needed to realize Fuller's vision exist today. Modern computers enable distributed collaboration, information processing, and data analysis capabilities Bucky only could have dreamed of. We can use these technologies to build sustainable systems of living and working. However, advanced technologies alone won't make Fuller's vision for the world a reality.
+At SPEC, we believe that the technologies needed to realize Fuller's vision exist today. Modern computers enable distributed collaboration, information processing, and data analysis capabilities that Fuller only could have dreamed of. We can use these technologies to build sustainable systems of living and working. However, advanced technologies alone won't make Fuller's vision for the world a reality.
 
-We will need to adopt a radically transparent and equitable approach to building organizations and communities. SPEC must foster participation and action by members of the communities affected by its work. By working alongside underserved communities and uplifting unheard voices, SPEC's collective intelligence and collaborative network will continue grow. Only then will we be able to collaborative innovate to create solutions that truly make the world work for all people and the planet.
+We will need to adopt a radically transparent and equitable approach to building organizations and communities. SPEC must foster participation and action by members of the communities affected by its work. By working alongside underserved communities and uplifting unheard voices, SPEC's collective intelligence and collaborative network will continue to grow. Only then will we be able to collaborative innovate to create solutions that truly make the world work for all people and the planet.
 
 ## Core Values
 
@@ -76,7 +76,7 @@ Hear from some of our contributors about their experience working at SPEC.
 
 ## Our Team
 
-SPEC is run by a small and dedicated core team of part-time contributors and volunteers. We come from difference social identities, backgrounds, and perspectives. Our team is 100% distributed and composed of part-time contributors and volunteers. SPEC's co-founders and steering committee work entirely on a volunteer basis, have no financial stake in the collective, and do not receive compensation in any form.
+SPEC is run by a small and dedicated team of contributors and volunteers. We come from difference social identities, backgrounds, and perspectives. SPEC's co-founders and steering committee work entirely on a volunteer basis, have no financial stake in the collective, and do not receive compensation in any form.
 
 {% content-ref url="about-us/team.md" %}
 [team.md](about-us/team.md)
@@ -96,7 +96,7 @@ OCF is creating a legal, financial, and technical commons for a solidarity econo
 
 ## Become a contributor!
 
-SPEC is always looking for highly dedicated contributors who have an interest in and passion for sustainability, social justice, and community development. Help us build a world that works for everyone and protect the planet! If you are interested in becoming a researcher or contributor at SPEC please email us at [info@specollective.org](mailto:info@specollective.org). 
+SPEC is always looking for highly dedicated contributors who have an interest in and passion for sustainability, social justice, and community development. Help us build a world that works for everyone and protect the planet! If you are interested in becoming a researcher or contributor at SPEC please email us at [info@specollective.org](mailto:info@specollective.org).&#x20;
 
 The more information about your research interests, areas expertise, and learning objectives the better. Please attach or link any helpful information about you including your resume, CV, cover letter, and portfolio. You can also review on onboarding documentation to familiarize yourself with SPEC processes and procedures.
 
