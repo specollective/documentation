@@ -50,7 +50,7 @@
   * [Videos & Presenations](knowledge-base/diversity-equity-and-inclusion/videos-and-presenations.md)
   * [Research Papers](knowledge-base/diversity-equity-and-inclusion/research-papers.md)
   * [Mental Health & Neurodiversity](knowledge-base/diversity-equity-and-inclusion/mental-health-and-neurodiversity.md)
-* [🚧 Science, Technology, Engineering, Arts, & Mathematics](knowledge-base/science-technology-engineering-arts-and-mathematics/README.md)
+* [Science, Technology, Engineering, Arts, & Mathematics](knowledge-base/science-technology-engineering-arts-and-mathematics/README.md)
   * [Sustainable Agriculture](knowledge-base/science-technology-engineering-arts-and-mathematics/sustainable-agriculture/README.md)
     * [The Basics of Botany](knowledge-base/science-technology-engineering-arts-and-mathematics/sustainable-agriculture/the-basics-of-botany.md)
     * [Plant Growth Factors](knowledge-base/science-technology-engineering-arts-and-mathematics/sustainable-agriculture/plant-growth-factors.md)
