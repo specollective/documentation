@@ -31,6 +31,7 @@
 * [Social Impact Incubator](projects/social-impact-incubator/README.md)
   * [Journal of Engaged Research](projects/social-impact-incubator/journal-of-engaged-research.md)
   * [The Black & Brown Collective](projects/social-impact-incubator/the-black-and-brown-collective.md)
+  * [Advocates Creating Equality (ACE)](projects/social-impact-incubator/advocates-creating-equality-ace.md)
 * [Sustainability Accelerator](projects/sustainability-accelerator/README.md)
   * [Modular Greenhouses](projects/sustainability-accelerator/modular-greenhouses.md)
   * [Juniper Garden](projects/sustainability-accelerator/juniper-garden.md)
