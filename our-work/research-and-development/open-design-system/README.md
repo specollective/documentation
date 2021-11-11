@@ -38,8 +38,8 @@ SPEC plans on developing the project open source with a focus on create opportun
 
 We are currently hiring research associates and contributors. Checkout our call for researchers to learn more about opportunities currently available at SPEC.&#x20;
 
-{% content-ref url="../../contributing/call-for-researchers.md" %}
-[call-for-researchers.md](../../contributing/call-for-researchers.md)
+{% content-ref url="../../../contributing/call-for-researchers.md" %}
+[call-for-researchers.md](../../../contributing/call-for-researchers.md)
 {% endcontent-ref %}
 
 ## References

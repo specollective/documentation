@@ -10,9 +10,9 @@ Rhianna was leading a group of students researching community building during ti
 
 ## Formation
 
-Joe wondered if they could use the online platform Open Collective (OC) for the project. OC provides collaborative groups with tools to raise and share their finances in full transparency. On the OC platform, a collective is defined as "collaborative group that has a shared mission, which raises and spends funds transparently to achieve." A collective can submit an application for fiscal sponsorship, which enables it to raise funds and pay for expenses without having to legally incorporate. In order to create a collective on the platform, you give your collective a name and provide a mission statement.  
+Joe wondered if they could use the online platform Open Collective (OC) for the project. OC provides collaborative groups with tools to raise and share their finances in full transparency. On the OC platform, a collective is defined as "collaborative group that has a shared mission, which raises and spends funds transparently to achieve." A collective can submit an application for fiscal sponsorship, which enables it to raise funds and pay for expenses without having to legally incorporate. In order to create a collective on the platform, you give your collective a name and provide a mission statement. &#x20;
 
-Joe wanted the collective's name to be an easy to remember acronym that captured the goals of the project. While researching different words and phrases to express the project's focus on environmental and social justice, Joe came across the The Advancing Social Progress and Equality report, published by the White House during President Barack Obama's time in office. The report outlined the administration's record of "fighting for the rights and protections of LGBT Americans, making the immigration system fairer and safer, tackling poverty, and investing in communities." 
+Joe wanted the collective's name to be an easy to remember acronym that captured the goals of the project. While researching different words and phrases to express the project's focus on environmental and social justice, Joe came across the The Advancing Social Progress and Equality report, published by the White House during President Barack Obama's time in office. The report outlined the administration's record of "fighting for the rights and protections of LGBT Americans, making the immigration system fairer and safer, tackling poverty, and investing in communities."&#x20;
 
 {% embed url="https://obamawhitehouse.archives.gov/the-record/social-progress" %}
 
@@ -22,8 +22,8 @@ Inspired by the report, Joe worked to combine merge the concepts of environmenta
 
 Joe and Rhianna worked together to outline SPEC's mission, core values, and operating principles. They submitted an application to be fiscally sponsored by the Open Collective Foundation. In less than a week of meeting, SPEC was formed. To learn more about SPEC's organizational structure check out documentation page below.
 
-{% content-ref url="organization.md" %}
-[organization.md](organization.md)
+{% content-ref url="organization/" %}
+[organization](organization/)
 {% endcontent-ref %}
 
 ## Our First Year

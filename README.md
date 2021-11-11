@@ -48,8 +48,8 @@ The Sustainable Progress and Equality Collective (SPEC) was founded when two lik
 
 How we interpret and formalize our core values and operating principles will need to be regularly revisited and updated to reflect the organization's goals, user feedback, and community contributions. To learn more about about SPEC's Core Values click the link below.
 
-{% content-ref url="about-us/core-values.md" %}
-[core-values.md](about-us/core-values.md)
+{% content-ref url="about-us/mission/core-values.md" %}
+[core-values.md](about-us/mission/core-values.md)
 {% endcontent-ref %}
 
 ## Our Work
@@ -78,8 +78,8 @@ Hear from some of our contributors about their experience working at SPEC.
 
 SPEC is run by a small and dedicated team of contributors and volunteers. We come from difference social identities, backgrounds, and perspectives. SPEC's co-founders and steering committee work entirely on a volunteer basis, have no financial stake in the collective, and do not receive compensation in any form.
 
-{% content-ref url="about-us/team.md" %}
-[team.md](about-us/team.md)
+{% content-ref url="about-us/organization/team.md" %}
+[team.md](about-us/organization/team.md)
 {% endcontent-ref %}
 
 ## Our Collective
@@ -90,8 +90,8 @@ SPEC is fiscally sponsored by the [Open Collective Foundation 501(c)(3)](https:/
 
 OCF is creating a legal, financial, and technical commons for a solidarity economy, economic activities that prioritize social profitability instead of purely financial profits. A distinguishing characteristic of solidarity economy entities is the participatory and democratic nature of their governance in decision-making processes. Active participation of all people involved in decision-making contributes to community empowerment.
 
-{% content-ref url="about-us/organization.md" %}
-[organization.md](about-us/organization.md)
+{% content-ref url="about-us/organization/" %}
+[organization](about-us/organization/)
 {% endcontent-ref %}
 
 ## Become a contributor!
@@ -100,8 +100,8 @@ SPEC is always looking for highly dedicated contributors who have an interest in
 
 The more information about your research interests, areas expertise, and learning objectives the better. Please attach or link any helpful information about you including your resume or CV, cover letter, and portfolio. You can also review our onboarding documentation to familiarize yourself with SPEC processes and procedures.
 
-{% content-ref url="our-work/onboarding.md" %}
-[onboarding.md](our-work/onboarding.md)
+{% content-ref url="about-us/organization/onboarding/" %}
+[onboarding](about-us/organization/onboarding/)
 {% endcontent-ref %}
 
 ## References

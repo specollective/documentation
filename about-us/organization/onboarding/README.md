@@ -54,10 +54,10 @@ Google Drive is a file storage and synchronization service developed by Google, 
 
 ## 9. Read SPEC's expense policy
 
-Before you start working on a paid project for SPEC, make sure you read the collective's [expense policy](expense-policy.md). You should know what times of work and activities are considered billable and non-billable. If you have any questions about whether a task is billable please reach our to your manager, mentor, or email us at [info@specollective.org](mailto:info@specollective.org).
+Before you start working on a paid project for SPEC, make sure you read the collective's [expense policy](../expense-policy.md). You should know what times of work and activities are considered billable and non-billable. If you have any questions about whether a task is billable please reach our to your manager, mentor, or email us at [info@specollective.org](mailto:info@specollective.org).
 
-{% content-ref url="expense-policy.md" %}
-[expense-policy.md](expense-policy.md)
+{% content-ref url="../expense-policy.md" %}
+[expense-policy.md](../expense-policy.md)
 {% endcontent-ref %}
 
 ## 10. Sign up for Toggl Track

@@ -10,41 +10,41 @@ SPEC is run by a small and dedicated core team of contributors and volunteers. W
 
 We are striving to create sustainable careers for our contributors. Currently, all of SPEC's researchers and contributors are classified as independent contractors for SPEC and by proxy the Open Collective Foundation (OCF). We are working on being able to have contributors classified as employees and enable access to benefits like health insurance.
 
-We won't be able to create these jobs without funding. Please consider donating and helping to create more jobs for people working on making the world a better place! Learn more on our [donation page](../our-work/donate.md).
+We won't be able to create these jobs without funding. Please consider donating and helping to create more jobs for people working on making the world a better place! Learn more on our [donation page](../../contributing/donate.md).
 
 ## Team Members
 
 ### Joe Torreggiani
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 **Co-founder & Administrator**\
 San Francisco, California
 
 ### Nan Eileen Mead
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 **Research Lead**\
 New York City Metropolitan Area
 
 ### Marcus Steiner
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 **Operations Lead**\
 Noblesville, Indiana
 
 ### Grant Newland
 
-![](<../.gitbook/assets/12801336\_542142815954249\_6215724611391571345\_n (1).jpg>)
+![](<../../.gitbook/assets/12801336\_542142815954249\_6215724611391571345\_n (1).jpg>)
 
 **Research Associate**\
 ****Arlington, TX
 
 ### Matt Moore
 
-![](../.gitbook/assets/matt-moore.png)
+![](../../.gitbook/assets/matt-moore.png)
 
 **Research Associate (Engineering)**\
 ****Raleigh-Durham-Chapel Hill Area
