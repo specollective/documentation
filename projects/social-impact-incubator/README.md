@@ -1,5 +1,5 @@
 ---
-description: "\U0001F6A7This page under construction and is considered incomplete. \U0001F6A7"
+description: 🚧This page under construction and is considered incomplete. 🚧
 ---
 
 # Social Impact Incubator
@@ -11,7 +11,7 @@ SPEC's Social Impact Incubator provides mentorship, organizational guidance, and
 ### Focus Areas
 
 * Diversity, Equity, & Inclusion
-* Intercultural Competencies and Cross-Cultural Communication 
+* Intercultural Competencies and Cross-Cultural Communication&#x20;
 * Community Building
 * Mental Health & Neurodiversity
 * LGBTQI+ Social Protection & Human Rights
@@ -21,6 +21,7 @@ SPEC's Social Impact Incubator provides mentorship, organizational guidance, and
 
 * Journal of Engaged Research
 * SUNY Black Student Union
+* Advocates Creating Change (ACE)
 
 ### Future Initiatives
 
@@ -30,4 +31,3 @@ SPEC's Social Impact Incubator provides mentorship, organizational guidance, and
 * Living vehicles & temporary housing
 
 Have an idea for a social impact focused project or organization? Interested in receiving mentorship and resources about how to get up and running? Send us an email at [info@specollective.org](mailto:@info@specollective.org) about your project. We would love to hear from you and find ways to help!
-
