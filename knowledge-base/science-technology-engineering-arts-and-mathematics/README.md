@@ -1,2 +1,2 @@
-# 🚧 Science, Technology, Engineering, Arts, & Mathematics
+# Science, Technology, Engineering, Arts, & Mathematics
 

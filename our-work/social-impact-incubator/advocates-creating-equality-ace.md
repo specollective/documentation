@@ -12,11 +12,11 @@ We seek to build the courage in young people to become change agents in our soci
 
 ### Core Values
 
-**Celebrate: **The knowledge, creativity, and identities of our members and partners.
+**Celebrate:** The knowledge, creativity, and identities of our members and partners.
 
-**Recognize: **That with clarity, learning, and growth we can have an impact on normalizing cultural competency.
+**Recognize:** That with clarity, learning, and growth we can have an impact on normalizing cultural competency.
 
-**Embrace: **The challenges and oppositions in creating racial equity.
+**Embrace:** The challenges and oppositions in creating racial equity.
 
 ### Executive Director & Board
 

@@ -26,7 +26,7 @@ An individual contributor (IC) is a professional without management responsibili
 
 **Expert**
 
-An expert is somebody who has a broad and deep competence in terms of knowledge, skill and experience through practice and education in a particular field.** **\[3]
+An expert is somebody who has a broad and deep competence in terms of knowledge, skill and experience through practice and education in a particular field. **** \[3]
 
 #### **Leader**
 
@@ -64,7 +64,7 @@ SPEC has two primary career tracks, the Individual Contributor (IC) Track and th
 
 ## Level Descriptions
 
-Please note that the title corresponding to the M2 level is **"Lead".** We also use the term **Leader**, to describe the primary role of an L3 contributor. Leadership is a skill that is important to both ICs and managers. There is overlap between the responsibilities of leaders and managers, which can result in confusion. For clarity, when we are referring to an individual at the M2 level, for example, **Operations Lead** or **Research Lead**, we understand the term Lead as a modifier and indicator of rank. The term **Leader **should be understood as the general concept of a contributor who has leadership responsibilities.
+Please note that the title corresponding to the M2 level is **"Lead".** We also use the term **Leader**, to describe the primary role of an L3 contributor. Leadership is a skill that is important to both ICs and managers. There is overlap between the responsibilities of leaders and managers, which can result in confusion. For clarity, when we are referring to an individual at the M2 level, for example, **Operations Lead** or **Research Lead**, we understand the term Lead as a modifier and indicator of rank. The term **Leader** should be understood as the general concept of a contributor who has leadership responsibilities.
 
 Contributor levels marked with the under construction emoji ( 🚧), are in development and not currently in use.
 
@@ -76,15 +76,15 @@ Contributor levels marked with the under construction emoji ( 🚧), are in deve
 
 #### L2 - Specialist
 
-**Expert **responsible for providing subject matter expertise, technical guidance, mentorship, and critical problem solving abilities.
+**Expert** responsible for providing subject matter expertise, technical guidance, mentorship, and critical problem solving abilities.
 
 **L3 - Producer**
 
 **Leader** responsible for finding and launching a project, arranging financing, hiring contributors, coordinating with core team, and overseeing all elements of pre-production, production and post-production, right up to release of projects and services.
 
-** **🚧**L4 - Integrator **🚧
+&#x20;**** 🚧**L4 - Integrator** 🚧
 
-**Systems thinker **responsible** **for** **managing multiple technical programs and work streams simultaneously. Seeks to optimize processes, detect project risks, identify feedback loops, and develop systematic solutions that manage human and technical factors.
+**Systems thinker** responsible **** for **** managing multiple technical programs and work streams simultaneously. Seeks to optimize processes, detect project risks, identify feedback loops, and develop systematic solutions that manage human and technical factors.
 
 ## Management Track
 
@@ -100,9 +100,9 @@ Contributor levels marked with the under construction emoji ( 🚧), are in deve
 
 **Manager** responsible for directly managing contributors which includes coaching, mentoring, hiring, interviewing, performing performance reviews, regular feedback meetings, dealing with performance problems and terminations, and creating a collaborative work environment and psychological safe space for contributors.
 
-🚧**M4 - Principal **🚧
+🚧**M4 - Principal** 🚧
 
-**Strategic planner **responsible for the collective's overall operations, organizational development, programs, strategic vision, and financial sustainability. Creates business strategies for the organization. A principal makes viable recommendations to help the collective reach its goals. They must know the ins and outs of the collective to successfully create and present business strategies to leadership and stakeholders.
+**Strategic planner** responsible for the collective's overall operations, organizational development, programs, strategic vision, and financial sustainability. Creates business strategies for the organization. A principal makes viable recommendations to help the collective reach its goals. They must know the ins and outs of the collective to successfully create and present business strategies to leadership and stakeholders.
 
 ## 🚧 Mixed Track 🚧
 

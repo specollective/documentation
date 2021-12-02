@@ -88,11 +88,11 @@ An agile approach to development is intended to improve the effectiveness of sof
 
 ## References
 
-1. Michael Goodman, [_Systems Thinking What, Why, When, and Where_](https://thesystemsthinker.com/systems-thinking-what-why-when-where-and-how/)_, _The_ _Systems Thinker
+1. Michael Goodman, [_Systems Thinking What, Why, When, and Where_](https://thesystemsthinker.com/systems-thinking-what-why-when-where-and-how/)_,_ The __ Systems Thinker
 2. Bammer, [Embedding Critical Systems Thinking in the Academy](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.737.5436\&rep=rep1\&type=pdf), National Centre for Epidemiology and Population Health, The Australian National University
 3. Wikipedia, [Action Research](https://en.wikipedia.org/wiki/Action\_research)
-4. Indeed Editorial Team, [_How To Demonstrate Collaboration in the Workplace_](https://www.indeed.com/career-advice/career-development/demonstrate-collaboration-in-the-workplace)_, _Indeed.com (2021)
-5. Eelderink, Vervoort, Van Laerhoven, [_Using participatory action research to operationalize critical systems thinking in social-ecological systems_](https://www.researchgate.net/publication/339461959\_Using\_participatory\_action\_research\_to\_operationalize\_critical\_systems\_thinking\_in\_social-ecological\_systems)_, _Ecology & Society (2020)
-6. Raymaker, [_Intersections of Critical Systems Thinking and Community Based Participatory Research: A Learning Organization Example with the Autistic Community_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5098939/)_, _Systemic Practice and Action Research (2016)
+4. Indeed Editorial Team, [_How To Demonstrate Collaboration in the Workplace_](https://www.indeed.com/career-advice/career-development/demonstrate-collaboration-in-the-workplace)_,_ Indeed.com (2021)
+5. Eelderink, Vervoort, Van Laerhoven, [_Using participatory action research to operationalize critical systems thinking in social-ecological systems_](https://www.researchgate.net/publication/339461959\_Using\_participatory\_action\_research\_to\_operationalize\_critical\_systems\_thinking\_in\_social-ecological\_systems)_,_ Ecology & Society (2020)
+6. Raymaker, [_Intersections of Critical Systems Thinking and Community Based Participatory Research: A Learning Organization Example with the Autistic Community_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5098939/)_,_ Systemic Practice and Action Research (2016)
 7. Minkler, Garcia, Rubin, Wallerstein, [_Community-Based Participatory Research: A Strategy for Building Healthy Communities and Promoting Health through Policy Change_](https://www.policylink.org/sites/default/files/CBPR.pdf)_,_ PolicyLink & UC Berkeley (2012)
 8. Participation Research Cluster, [_Participatory Action Research - Glossary Entry_](https://www.participatorymethods.org/glossary/participatory-action-research,)_,_ Institute of Development Studies&#x20;

@@ -32,7 +32,7 @@ SPEC's first research associates (RAs) continued the work they started at The Bu
 
 SPEC adopted solutions commonly used in the technology industry including Google Workspace, Slack, and Trello for communication and project management. RAs were trained to use these technologies, becoming active contributors and helping in many areas including research, social media, organizing events, facilitating break out sessions, sitting on panels, and creating presentations.
 
-SPEC began to receive interest from individuals looking to learn software development, build STEAM skills, and find work in the technology industry. Joe offered mentorship, training, and career guidance to RAs working on SPEC technical projects. Rhianna and Joe called upon their networks to provide additional mentorship for learners** **and face time with working professionals. During this period of collaboration, SPEC's contributors launched many projects and initiatives. Below are some highlights from our first year.
+SPEC began to receive interest from individuals looking to learn software development, build STEAM skills, and find work in the technology industry. Joe offered mentorship, training, and career guidance to RAs working on SPEC technical projects. Rhianna and Joe called upon their networks to provide additional mentorship for learners **** and face time with working professionals. During this period of collaboration, SPEC's contributors launched many projects and initiatives. Below are some highlights from our first year.
 
 * Provided **credit-bearing internships** or **paid work experiences**
 * **Incubated** and supported several **community partnerships** focused on addressing issues of **inequity in the US and abroad**

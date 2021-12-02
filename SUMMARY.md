@@ -30,7 +30,6 @@
   * [Tech Empowerment Program](our-work/citisen/tech-empowerment-program.md)
 * [Social Impact Incubator](our-work/social-impact-incubator/README.md)
   * [Journal of Engaged Research](our-work/social-impact-incubator/journal-of-engaged-research.md)
-  * [The Black & Brown Collective](our-work/social-impact-incubator/the-black-and-brown-collective.md)
   * [Advocates Creating Equality (ACE)](our-work/social-impact-incubator/advocates-creating-equality-ace.md)
 * [Sustainability Accelerator](our-work/sustainability-accelerator/README.md)
   * [Modular Greenhouses](our-work/sustainability-accelerator/modular-greenhouses.md)

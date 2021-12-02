@@ -22,9 +22,9 @@ Temperature influences most plant processes, including photosynthesis, transpira
 
 ### Germination
 
-![Wikipedia, Germination](https://upload.wikimedia.org/wikipedia/commons/7/75/Sunflower_seedlings.jpg)
+![Wikipedia, Germination](https://upload.wikimedia.org/wikipedia/commons/7/75/Sunflower\_seedlings.jpg)
 
-Germination is the process by which an organism grows from a seed or spore. The term is applied to the sprouting of a seedling from a seed of an angiosperm or gymnosperm, the growth of a sporeling from a spore, such as the spores of fungi, ferns, bacteria, and the growth of the pollen tube from the pollen grain of a seed plant. 
+Germination is the process by which an organism grows from a seed or spore. The term is applied to the sprouting of a seedling from a seed of an angiosperm or gymnosperm, the growth of a sporeling from a spore, such as the spores of fungi, ferns, bacteria, and the growth of the pollen tube from the pollen grain of a seed plant.&#x20;
 
 The temperature required for germination varies by species. Generally, cool-season crops (e.g., spinach, radish, and lettuce) germinate best at 55° to 65°F, while warm-season crops (e.g., tomato, petunia, and lobelia) germinate best at 65° to 75°F.
 
@@ -75,7 +75,7 @@ Most growing plants contain about 90% water. Water plays many roles in plants in
 Plants harness energy from the sun and, through photosynthesis, convert that energy into building tissue. Because plants need the sun to grow, many of them, including most fruits and veggies, need a good amount of direct sun during the day. Research has shown some plants prefer shady conditions if you have less light available. Three principal characteristics of light affect plant growth: quantity, quality, and duration.
 
 * **Light quantity** refers to the intensity, or concentration, of sunlight.
-* **Light quality **refers to the color (wavelength) of light.
+* **Light quality** refers to the color (wavelength) of light.
 * **Duration**, or photoperiod, refers to the amount of time a plant is exposed to light.
 
 ### Quantity
@@ -128,7 +128,7 @@ Hot, dry conditions generally occur during the summer, which partially explains 
 
 ## Nutrients
 
-Plant nutrition is the study of the chemical elements and compounds necessary for plant growth, plant metabolism and their external supply. Plant nutrition often is confused with fertilization. Plant nutrition refers to a plant's need for and use of basic chemical elements. Fertilization is the term used when these materials are added to the environment around a plant. A lot must happen before a chemical element in a fertilizer can be used by a plant. In its absence the plant is unable to complete a normal life cycle, or that the element is part of some essential plant constituent or metabolite. 
+Plant nutrition is the study of the chemical elements and compounds necessary for plant growth, plant metabolism and their external supply. Plant nutrition often is confused with fertilization. Plant nutrition refers to a plant's need for and use of basic chemical elements. Fertilization is the term used when these materials are added to the environment around a plant. A lot must happen before a chemical element in a fertilizer can be used by a plant. In its absence the plant is unable to complete a normal life cycle, or that the element is part of some essential plant constituent or metabolite.&#x20;
 
 Plants need 17 elements for normal growth. Three of them--carbon, hydrogen, and oxygen--are found in air and water. The rest are found in the soil. Six soil elements are called macronutrients because they are used in relatively large amounts by plants. They are nitrogen, potassium, magnesium, calcium, phosphorus, and sulfur. Carbon, oxygen and hydrogen are absorbed from the air, whereas other nutrients including nitrogen are typically obtained from the soil (exceptions include some parasitic or carnivorous plants). Plants must obtain the following mineral nutrients from their growing medium:
 
@@ -145,7 +145,7 @@ Plants need 17 elements for normal growth. Three of them--carbon, hydrogen, and 
 
 ## References
 
-1. Wikipedia, [Plant nutrition](https://en.wikipedia.org/wiki/Plant_nutrition) (2021)
+1. Wikipedia, [Plant nutrition](https://en.wikipedia.org/wiki/Plant\_nutrition) (2021)
 2. [https://greatist.com/connect/beginners-guide-to-gardening#a-balanced-environment](https://greatist.com/connect/beginners-guide-to-gardening#a-balanced-environment)
 3. [https://ecogardener.com/blogs/news/4-factors-that-affect-plant-growth](https://ecogardener.com/blogs/news/4-factors-that-affect-plant-growth)
 4. OSU, [Environmental Factors Affecting Plant Growth](https://extension.oregonstate.edu/gardening/techniques/environmental-factors-affecting-plant-growth) (2021)
