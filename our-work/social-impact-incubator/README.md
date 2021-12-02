@@ -20,7 +20,6 @@ SPEC's Social Impact Incubator provides mentorship, organizational guidance, and
 ### Current Initiatives
 
 * Journal of Engaged Research
-* SUNY Black Student Union
 * Advocates Creating Change (ACE)
 
 ### Future Initiatives
