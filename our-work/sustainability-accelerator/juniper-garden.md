@@ -24,7 +24,7 @@ You can donate to Juniper Garden on their open Collective Page.
 
 {% embed url="https://opencollective.com/juniper-garden" %}
 
-## Active Projects
+### Active Projects
 
 {% embed url="https://github.com/juniper-garden/juniper-ingestion-stack" %}
 Juniper IOT Ingestion Stack
