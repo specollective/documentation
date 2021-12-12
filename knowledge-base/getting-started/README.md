@@ -1,8 +1,6 @@
 # Getting Started
 
-SPEC's Knowledge Base (KB) is designed to support its community members to learn new skills and advanced their education and career development. It is a work in progress and is actively under construction.&#x20;
-
-**NOTE**: You may find incomplete sections as we are in the process of filling out the KB.
+SPEC's Knowledge Base (KB) is designed to help its community members learn new skills and advance their educations and careers. It is a work in progress and is actively under construction. Please note you may find incomplete sections as we are in the process of filling out the KB.
 
 ### Table of Contents
 
