@@ -7,9 +7,17 @@ Engineering is the application of scientific principles and mathematics to solve
 * [Brittanica Engineering](https://www.britannica.com/technology/engineering)
 * [Study.com What is Engineering?](https://study.com/academy/lesson/what-is-engineering-definition-types.html)
 
+**Books**
+
+* [Oklahoma University - Online Engineering EBooks](https://ecourses.ou.edu/home.htm)
+
 **Courses**
 
 * [MIT High School Engineering Courses](https://ocw.mit.edu/high-school/engineering/)
+
+**Software**
+
+* [Appropedia - Open source engineering software](https://www.appropedia.org/Open\_source\_engineering\_software)
 
 **Branches**
 
