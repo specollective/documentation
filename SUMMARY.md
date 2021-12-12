@@ -34,7 +34,7 @@
   * [Advocates Creating Equality (ACE)](our-work/social-impact-incubator/advocates-creating-equality-ace.md)
 * [Sustainability Accelerator](our-work/sustainability-accelerator/README.md)
   * [Juniper Garden](our-work/sustainability-accelerator/juniper-garden.md)
-  * [Modular Greenhouses](our-work/sustainability-accelerator/modular-greenhouses.md)
+  * [Modular Greenhouses](knowledge-base/applied-sciences/sustainable-agriculture/modular-greenhouses.md)
 * [Testimonials](our-work/testimonials.md)
 
 ## Knowledge Base
