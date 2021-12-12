@@ -75,7 +75,7 @@
 * [Humanities](knowledge-base/humanities/README.md)
   * [History](knowledge-base/humanities/history.md)
   * [Languages](knowledge-base/humanities/languages.md)
-  * [Philosophy](knowledge-base/humanities/philosophy.md)
+  * [Philosophy](knowledge-base/humanities/philosophy/README.md)
 * [Natural Sciences](knowledge-base/natural-sciences/README.md)
   * [Biology](knowledge-base/natural-sciences/biology/README.md)
     * [Botany](knowledge-base/natural-sciences/biology/botany/README.md)
