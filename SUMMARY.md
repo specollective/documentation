@@ -39,10 +39,7 @@
 
 ## Knowledge Base
 
-* [Getting Started](knowledge-base/getting-started/README.md)
-  * [Open Education Resources](knowledge-base/getting-started/oer/README.md)
-    * [Moodle](knowledge-base/getting-started/oer/moodle.md)
-    * [Massive Open Online Courses](knowledge-base/getting-started/oer/stem.md)
+* [Getting Started](knowledge-base/getting-started.md)
 * [Applied Sciences](knowledge-base/applied-sciences/README.md)
   * [Agriculture](knowledge-base/applied-sciences/sustainable-agriculture/README.md)
     * [Sustainable Agriculture](knowledge-base/applied-sciences/sustainable-agriculture/sustainable-agriculture.md)
@@ -51,7 +48,10 @@
     * [Resources](knowledge-base/applied-sciences/sustainable-agriculture/resources.md)
   * [Business](knowledge-base/applied-sciences/business.md)
   * [Communication](knowledge-base/applied-sciences/communication.md)
-  * [Education](knowledge-base/applied-sciences/education.md)
+  * [Education](knowledge-base/applied-sciences/education/README.md)
+    * [Open Education Resources](knowledge-base/applied-sciences/education/oer.md)
+    * [MOOCs](knowledge-base/applied-sciences/education/stem.md)
+    * [Moodle](knowledge-base/applied-sciences/education/moodle.md)
   * [Engineering](knowledge-base/applied-sciences/engineering/README.md)
     * [Civil Engineering](knowledge-base/applied-sciences/engineering/civil-engineering.md)
     * [Mechanical Engineering](knowledge-base/applied-sciences/engineering/mechanical-engineering.md)
