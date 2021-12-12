@@ -1,5 +1,7 @@
 # Business
 
+Business is the activity of making one's living or making money by producing or buying and selling goods and services.
+
 **Books**
 
 * [OpenStax Introduction to Business](https://openstax.org/details/books/introduction-business)

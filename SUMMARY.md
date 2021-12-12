@@ -34,6 +34,7 @@
   * [Advocates Creating Equality (ACE)](our-work/social-impact-incubator/advocates-creating-equality-ace.md)
 * [Sustainability Accelerator](our-work/sustainability-accelerator/README.md)
   * [Juniper Garden](our-work/sustainability-accelerator/juniper-garden.md)
+  * [Modular Greenhouses](our-work/sustainability-accelerator/modular-greenhouses.md)
 * [Testimonials](our-work/testimonials.md)
 
 ## Knowledge Base
@@ -48,8 +49,6 @@
     * [Soil Health](knowledge-base/applied-sciences/sustainable-agriculture/soil-health.md)
     * [Hydroponics](knowledge-base/applied-sciences/sustainable-agriculture/hydroponics.md)
     * [Resources](knowledge-base/applied-sciences/sustainable-agriculture/resources.md)
-    * [Farmbot](knowledge-base/applied-sciences/sustainable-agriculture/farmbot.md)
-    * [Modular Greenhouses](knowledge-base/applied-sciences/sustainable-agriculture/modular-greenhouses.md)
   * [Business](knowledge-base/applied-sciences/business.md)
   * [Communication](knowledge-base/applied-sciences/communication.md)
   * [Education](knowledge-base/applied-sciences/education/README.md)
