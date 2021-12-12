@@ -51,11 +51,9 @@
     * [Resources](knowledge-base/applied-sciences/sustainable-agriculture/resources.md)
   * [Business](knowledge-base/applied-sciences/business.md)
   * [Communication](knowledge-base/applied-sciences/communication.md)
-  * [Education](knowledge-base/applied-sciences/education/README.md)
-    * [Page 1](knowledge-base/applied-sciences/education/page-1.md)
-    * [Videos & Presenations](knowledge-base/applied-sciences/education/videos-and-presenations.md)
-    * [Resources](knowledge-base/applied-sciences/education/resources.md)
+  * [Education](knowledge-base/applied-sciences/education.md)
   * [Engineering](knowledge-base/applied-sciences/engineering/README.md)
+    * [Civil Engineering](knowledge-base/applied-sciences/engineering/civil-engineering.md)
     * [Mechanical Engineering](knowledge-base/applied-sciences/engineering/mechanical-engineering.md)
     * [Electrical Engineering](knowledge-base/applied-sciences/engineering/electrical-engineering.md)
     * [Computer Engineering](knowledge-base/applied-sciences/engineering/computer-engineering.md)
@@ -87,6 +85,9 @@
   * [Psychology](knowledge-base/diversity-equity-and-inclusion/psychology/README.md)
     * [Mental Health & Neurodiversity](knowledge-base/diversity-equity-and-inclusion/psychology/mental-health-and-neurodiversity.md)
   * [Sociology](knowledge-base/diversity-equity-and-inclusion/sociology.md)
+  * [Cultural Studies](knowledge-base/diversity-equity-and-inclusion/cultural-studies/README.md)
+    * [Resources](knowledge-base/diversity-equity-and-inclusion/cultural-studies/resources.md)
+    * [Videos & Presenations](knowledge-base/diversity-equity-and-inclusion/cultural-studies/videos-and-presenations.md)
 
 ## Contributing
 
