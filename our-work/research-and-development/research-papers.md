@@ -1,14 +1,14 @@
-# Research Papers
+# Buffalo Project Papers
 
-## **Effectively Facilitating Cross-Cultural Learning: Lessons Learned from the Buffalo Project**
+#### **Effectively Facilitating Cross-Cultural Learning: Lessons Learned from the Buffalo Project**
 
 {% embed url="https://www.academia.edu/39191480/Effectively_Facilitating_Cross-Cultural_Learning_Lessons_Learned_from_the_Buffalo_Project" %}
 
-## How to Cultivate “Cultural Openness” Among Adult Learners: Practical Examples From the Buffalo Project
+#### **How to Cultivate “Cultural Openness” Among Adult Learners: Practical Examples From the Buffalo Project**
 
 {% embed url="https://academia.edu/12098158/How_to_Cultivate_Cultural_Openness_Among_Adult_Learners_Practical_Examples_From_the_Buffalo_Project" %}
 
-## Report for “Fostering an ‘Open’ Culture at Empire State College: An Ethnographic Study of Niagara Frontier Center Participant Observations” (AY 2012-2013)
+#### Report for “Fostering an ‘Open’ Culture at Empire State College: An Ethnographic Study of Niagara Frontier Center Participant Observations” (AY 2012-2013)
 
 #### Abstract
 
@@ -16,7 +16,7 @@ This research project grew out of a paper presented at the 2011 All-College Conf
 
 URL: [https://rrogers.sunyempirefaculty.net/wp-content/uploads/2012/10/AY-2012-2013-Report-for-IRB.pdf](https://rrogers.sunyempirefaculty.net/wp-content/uploads/2012/10/AY-2012-2013-Report-for-IRB.pdf)
 
-## Report for “Fostering an ‘Open’ Culture at Empire State College: An Ethnographic Study of Niagara Frontier Center Participant Observations” (AY 2013-2014)
+#### Report for “Fostering an ‘Open’ Culture at Empire State College: An Ethnographic Study of Niagara Frontier Center Participant Observations” (AY 2013-2014)
 
 #### Abstract
 

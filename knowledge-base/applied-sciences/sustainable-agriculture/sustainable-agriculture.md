@@ -1,8 +1,6 @@
----
-description: "\U0001F6A7 This page is under construction and should be considered incomplete. \U0001F6A7"
----
-
 # Sustainable Agriculture
+
+
 
 ## Introduction
 
@@ -16,11 +14,11 @@ Agriculture is the practice of cultivating plants and livestock. Agriculture was
 
 Industrial agriculture arose hand in hand with the Industrial Revolution in general. Industrial agriculture based on large-scale monoculture in the twentieth century came to dominate agricultural output, though about 2 billion people still depend on subsistence agriculture today. Advances in organic chemistry, plant nutrition, and discovery of vitamins and their role in animal nutrition were key factors in the rapid expansion of Industrial agriculture.
 
-Organic chemistry enabled scientists to identify the elements nitrogen, potassium, and phosphorus \(referred by the acronym NPK\) as critical factors in plant growth. This led to the manufacturing of synthetic fertilizers, making possible more intensive types of agriculture. The discovery of vitamins for animal nutrition, in the first two decades of the 20th century, led to vitamin supplements, which allowed certain livestock to be raised indoors, reducing their exposure to adverse natural elements. The discovery of antibiotics and vaccines facilitated raising livestock in concentrated, controlled animal feed operations by reducing diseases caused by crowding. Chemicals developed for use in World War II gave rise to synthetic pesticides. Developments in shipping networks and technology have made long-distance distribution of agricultural produce feasible.
+Organic chemistry enabled scientists to identify the elements nitrogen, potassium, and phosphorus (referred by the acronym NPK) as critical factors in plant growth. This led to the manufacturing of synthetic fertilizers, making possible more intensive types of agriculture. The discovery of vitamins for animal nutrition, in the first two decades of the 20th century, led to vitamin supplements, which allowed certain livestock to be raised indoors, reducing their exposure to adverse natural elements. The discovery of antibiotics and vaccines facilitated raising livestock in concentrated, controlled animal feed operations by reducing diseases caused by crowding. Chemicals developed for use in World War II gave rise to synthetic pesticides. Developments in shipping networks and technology have made long-distance distribution of agricultural produce feasible.
 
 Agricultural production across the world doubled four times between 1820 and 1975 to feed a global population of one billion human beings in 1800 and 6.5 billion in 2002. During the same period, the number of people involved in farming dropped as the process became more automated. In the 1930s, 24 percent of the American population worked in agriculture compared to 1.5 percent in 2002. In 1940, each farm worker supplied 11 consumers, whereas in 2002, each worker supplied 90 consumers. The number of farms has also decreased, and their ownership is more concentrated. In the U.S., four companies produce 81 percent of cows, 73 percent of sheep, 57 percent of pigs, and produce 50 percent of chickens, cited as an example of "vertical integration" by the president of the U.S. National Farmers' Union.
 
-In 1967, there were one million pig farms in America; as of 2002, there were 114,000, with 80 million pigs \(out of 95 million\) produced each year on factory farms, according to the U.S. National Pork Producers Council. According to the World Watch Institute, 74 percent of the world's poultry, 43 percent of beef, and 68 percent of eggs are produced this way.
+In 1967, there were one million pig farms in America; as of 2002, there were 114,000, with 80 million pigs (out of 95 million) produced each year on factory farms, according to the U.S. National Pork Producers Council. According to the World Watch Institute, 74 percent of the world's poultry, 43 percent of beef, and 68 percent of eggs are produced this way.
 
 ## Environmental Impact of Industrial Agriculture
 
@@ -30,7 +28,7 @@ For example, nitrogen compounds from the Midwest travel down the Mississippi to 
 
 ## Carbon Footprint of Industrial Agriculture
 
-The Environmental Protection Agency \(EPA\) provides annual estimates of man-made greenhouse gas emissions in the U.S. by emissions source. These reports highlight U.S. agriculture’s minimal contribution to total U.S. emissions, making up about 10% of total emissions. Current research shows how productivity gains in crop and livestock production help agriculture reduce per-unit emissions. Another takeaway from the EPA's report is how increased investment in agricultural research is helping farmers and ranchers play a direct role in capturing more carbon in the soils with voluntary and incentive-based practices and markets.
+The Environmental Protection Agency (EPA) provides annual estimates of man-made greenhouse gas emissions in the U.S. by emissions source. These reports highlight U.S. agriculture’s minimal contribution to total U.S. emissions, making up about 10% of total emissions. Current research shows how productivity gains in crop and livestock production help agriculture reduce per-unit emissions. Another takeaway from the EPA's report is how increased investment in agricultural research is helping farmers and ranchers play a direct role in capturing more carbon in the soils with voluntary and incentive-based practices and markets.
 
 ## Sustainable Agriculture
 
@@ -40,6 +38,5 @@ To be continued...
 
 ## References
 
-1. Wikipedia, Sustainable Agriculture \(2021\)
-2. American Farm Bureau Federation, [Previewing Agriculture Emissions in 2019](https://www.fb.org/market-intel/previewing-2019-agricultural-emissions), \(2021\)
-
+1. Wikipedia, Sustainable Agriculture (2021)
+2. American Farm Bureau Federation, [Previewing Agriculture Emissions in 2019](https://www.fb.org/market-intel/previewing-2019-agricultural-emissions), (2021)

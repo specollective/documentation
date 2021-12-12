@@ -10,13 +10,10 @@ Microcredentials show promise in delivering shorter programs of study that are f
 
 ### Moodle Learning Management System
 
-SPEC Learning is built on top of Moodle Learning Management System \(LMS\). Moodle is an online LMS that has been adopted by educational institutions and learning communities across the globe, with over 277,000,000 users in over 247 countries.
+SPEC Learning is built on top of Moodle Learning Management System (LMS). Moodle is an online LMS that has been adopted by educational institutions and learning communities across the globe, with over 277,000,000 users in over 247 countries.
 
 The Moodle platform is built by a distributed community collaborating openly, making their designs, documentation, and source code freely available for possible modification and redistribution. This practice of decentralized development and open collaboration is known as the open-source model of software development. The open-source model has increasingly been applied in other fields including education, science, engineering, manufacturing, and publishing.
 
 ### Platform Development
 
-The SPEC Learning Platform is being built from the ground up with diversity, equity, and inclusion \(DEI\) in mind. We are investigating existing tools and patterns for building accessible learning experiences. The platform is also being developed in way to contribute back to open source and other aligned DEI initiatives like [Open Source Diversity](https://opensourcediversity.org).
-
-{% embed url="https://opensourcediversity.org" caption="" %}
-
+The SPEC Learning Platform is being built from the ground up with diversity, equity, and inclusion (DEI) in mind. We are investigating existing tools and patterns for building accessible learning experiences. The platform is also being developed in way to contribute back to open source and other aligned DEI initiatives.

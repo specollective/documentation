@@ -18,7 +18,7 @@ Our goal is increase access to sustainable controlled environment agriculture te
 
 We purchased an 8' wide X 12' long modular greenhouse. The greenhouse cost $3,749.00. We have assembled the greenhouse backyard of our co-founder Joe Torreggiani in San Francisco, CA.
 
-![](../../.gitbook/assets/Greenhouse.png)
+![](../../../.gitbook/assets/Greenhouse.png)
 
 [🚧](https://emojipedia.org/construction/) Under Construction [🚧](https://emojipedia.org/construction/)
 
@@ -26,7 +26,7 @@ We purchased an 8' wide X 12' long modular greenhouse. The greenhouse cost $3,74
 
 [🚧](https://emojipedia.org/construction/) Under Construction [🚧](https://emojipedia.org/construction/)
 
-![](<../../.gitbook/assets/Raised Bed.jpeg>)
+![](<../../../.gitbook/assets/Raised Bed.jpeg>)
 
 ## Environmental Control System
 
