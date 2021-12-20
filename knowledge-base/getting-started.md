@@ -8,13 +8,13 @@ SPEC's Knowledge Base (KB) is designed to help its community members learn new s
 
 **Applied Sciences**
 
-* [Agriculture](applied-science/sustainable-agriculture/)
-* [Business](applied-science/business.md)
-* [Communication Studies](applied-science/communication-studies.md)
+* [Agriculture](applied-sciences/sustainable-agriculture/)
+* [Business](applied-sciences/business.md)
+* [Communication Studies](applied-sciences/communication.md)
 * Design
-* [Education](applied-science/education/)
-* [Engineering](applied-science/engineering/)
-* [Project Management](applied-science/project-management.md)
+* [Education](applied-sciences/education/)
+* [Engineering](applied-sciences/engineering/)
+* [Project Management](applied-sciences/project-management.md)
 
 **Humanities**
 
@@ -24,15 +24,15 @@ SPEC's Knowledge Base (KB) is designed to help its community members learn new s
 
 **Formal Sciences**
 
-* [Computer Science](formal-science/computer-science.md)
-* [Logic](formal-science/logic.md)
-* [Mathematics](formal-science/mathematics.md)
+* [Computer Science](formal-sciences/computer-science.md)
+* [Logic](formal-sciences/logic.md)
+* [Mathematics](formal-sciences/mathematics.md)
 
 **Natural Sciences**
 
-* [Biology](natural-science/biology/)
-* [Chemistry](natural-science/chemistry.md)
-* [Physics](natural-science/physics.md)
+* [Biology](natural-sciences/biology/)
+* [Chemistry](natural-sciences/chemistry.md)
+* [Physics](natural-sciences/physics.md)
 
 **Social Sciences**
 

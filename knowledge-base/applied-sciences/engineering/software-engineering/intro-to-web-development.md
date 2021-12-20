@@ -12,7 +12,7 @@ Web development is the work involved in developing a website for the Internet (W
 
 The Web is one of the fastest-growing communication and technology platforms. In just 25 years, over 5082 million users have started using the internet. Since the commercialization of the Web, Web development has been a growing industry. The growth of this industry has been driven by businesses aiming to use their websites to advertise and sell products and services to customers.
 
-With advancements in programming languages, web browsers like Google Chrome, Firefox, Internet Explorer, and Safari have started to support several features which were previously available only to native application developers. In the past, a significant disadvantage of web development was the unavailability of operating specific features, for example — being able to access a webpage directly from the home screen, work offline or send push notifications. 
+With advancements in programming languages, web browsers like Google Chrome, Firefox, Internet Explorer, and Safari have started to support several features which were previously available only to native application developers. In the past, a significant disadvantage of web development was the unavailability of operating specific features, for example — being able to access a webpage directly from the home screen, work offline or send push notifications.&#x20;
 
 ### 1. Job Growth
 
@@ -38,7 +38,7 @@ Web development can be a stepping stone to a career in software engineering, dat
 
 ### Web Browser
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Chromium_\(web_browser\).png/440px-Chromium_\(web_browser\).png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Chromium\_\(web\_browser\).png/440px-Chromium\_\(web\_browser\).png)
 
 A web browser (commonly referred to as a browser) is application software for accessing the World Wide Web. When a user follows the URL of a web page from a particular website, the web browser retrieves the necessary content from the website's web server and then displays the page on the user's device. If you are reading this paragraph, then you are using a web browser right now!
 
@@ -52,7 +52,7 @@ Web browsers are used on a range of devices, including desktops, laptops, tablet
 
 ### **Hypertext**
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sistema_hipertextual.jpg/440px-Sistema_hipertextual.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sistema\_hipertextual.jpg/440px-Sistema\_hipertextual.jpg)
 
 
 
@@ -62,7 +62,7 @@ Hypertext is text displayed on a computer display or other electronic device wit
 
 ### Web Server
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Wikimedia_Foundation_Servers-8055\_35.jpg/1920px-Wikimedia_Foundation_Servers-8055\_35.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Wikimedia\_Foundation\_Servers-8055\_35.jpg/1920px-Wikimedia\_Foundation\_Servers-8055\_35.jpg)
 
 A web server is computer software and underlying hardware that accepts requests from a web browser and responds with the content of that resource or an error message. The server can also accept and store resources sent from the user agent if configured to do so. This of your favorite block or social media account. When you send a Tweet or a post an update on Facebook, you are sending a request to web server somewhere that handles that task and updates a database to store that information.
 
@@ -70,7 +70,7 @@ A web server is computer software and underlying hardware that accepts requests 
 
 ### HTTP
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/440px-HTTP_logo.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP\_logo.svg/440px-HTTP\_logo.svg.png)
 
 Hypertext Transfer Protocol (HTTP) is a protocol for communication between computers. HTTP enables the development of distributed, collaborative, hypermedia information systems. It is what enables Web browsers and Web servers to communicate with each other. The protocol serves as the foundation of communication for the World Wide Web. HTTP is what allows hypertext documents to include hyperlinks to other resources that the user can easily access, for example by a mouse click or by tapping the screen in a web browser.
 
@@ -84,7 +84,7 @@ The client–server model is a software architecture that partitions tasks or wo
 
 ### HTML
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5\_logo_and_wordmark.svg/240px-HTML5\_logo_and_wordmark.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5\_logo\_and\_wordmark.svg/240px-HTML5\_logo\_and\_wordmark.svg.png)
 
 HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
 
@@ -92,7 +92,7 @@ HyperText Markup Language, or HTML is the standard markup language for documents
 
 ### CSS
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3\_logo_and_wordmark.svg/240px-CSS3\_logo_and_wordmark.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3\_logo\_and\_wordmark.svg/240px-CSS3\_logo\_and\_wordmark.svg.png)
 
 
 
@@ -108,13 +108,13 @@ JavaScript, often abbreviated as JS, is a is high-level programming language, of
 
 ### Backend (Server-side)
 
-Most large-scale websites use server-side code to dynamically display different data when needed, generally pulled out of a database stored on a server and sent to the client to be displayed via some code (e.g. HTML and JavaScript). 
+Most large-scale websites use server-side code to dynamically display different data when needed, generally pulled out of a database stored on a server and sent to the client to be displayed via some code (e.g. HTML and JavaScript).&#x20;
 
 Web browsers communicate with web servers using HTTP. When you click a link on a web page, submit a form, or run a search, an HTTP request is sent from your browser to the target server.
 
-The request includes a URL identifying the affected resource, a method that defines the required action (for example to get, delete, or post the resource), and may include additional information encoded in URL parameters (the field-value pairs sent via a [query string](https://en.wikipedia.org/wiki/Query_string)), as POST data (data sent by the [HTTP POST method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)), or in associated [cookies](https://developer.mozilla.org/en-US/docs/Glossary/Cookie).
+The request includes a URL identifying the affected resource, a method that defines the required action (for example to get, delete, or post the resource), and may include additional information encoded in URL parameters (the field-value pairs sent via a [query string](https://en.wikipedia.org/wiki/Query\_string)), as POST data (data sent by the [HTTP POST method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)), or in associated [cookies](https://developer.mozilla.org/en-US/docs/Glossary/Cookie).
 
-Web servers wait for client request messages, process them when they arrive, and reply to the web browser with an HTTP response message. The response contains a status line indicating whether or not the request succeeded (e.g. "HTTP/1.1 200 OK" for success). 
+Web servers wait for client request messages, process them when they arrive, and reply to the web browser with an HTTP response message. The response contains a status line indicating whether or not the request succeeded (e.g. "HTTP/1.1 200 OK" for success).&#x20;
 
 The body of a successful response to a request would contain the requested resource (e.g. a new HTML page, or an image, etc...), which could then be displayed by the web browser.
 
@@ -122,15 +122,15 @@ The body of a successful response to a request would contain the requested resou
 
 ### Static Sites
 
-![](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction/basic_static_app_server.png)
+![](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First\_steps/Introduction/basic\_static\_app\_server.png)
 
 The diagram above shows a basic web server architecture for a _static site_ (a static site is one that returns the same hard-coded content from the server whenever a particular resource is requested). When a user wants to navigate to a page, the browser sends an HTTP "GET" request specifying its URL.
 
-The server retrieves the requested document from its file system and returns an HTTP response containing the document and a [success status](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#successful_responses) (usually 200 OK). If the file cannot be retrieved for some reason, an error status is returned (see [client error responses](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#client_error_responses) and [server error responses](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#server_error_responses)).
+The server retrieves the requested document from its file system and returns an HTTP response containing the document and a [success status](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#successful\_responses) (usually 200 OK). If the file cannot be retrieved for some reason, an error status is returned (see [client error responses](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#client\_error\_responses) and [server error responses](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#server\_error\_responses)).
 
 ### Dynamic Sites
 
-A dynamic website is one where some of the response content is generated _dynamically_, only when needed. On a dynamic website HTML pages are normally created by inserting data from a database into placeholders in HTML templates (this is a much more efficient way of storing large amounts of content than using static websites). 
+A dynamic website is one where some of the response content is generated _dynamically_, only when needed. On a dynamic website HTML pages are normally created by inserting data from a database into placeholders in HTML templates (this is a much more efficient way of storing large amounts of content than using static websites).&#x20;
 
 A dynamic site can return different data for a URL based on information provided by the user or stored preferences and can perform other operations as part of returning a response (e.g. sending notifications).
 
@@ -138,9 +138,9 @@ Most of the code to support a dynamic website must run on the server. Creating t
 
 The diagram below shows a simple architecture for a _dynamic website_. As in the previous diagram, browsers send HTTP requests to the server, then the server processes the requests and returns appropriate HTTP responses.
 
-![](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction/web_application_with_html_and_steps.png)
+![](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First\_steps/Introduction/web\_application\_with\_html\_and\_steps.png)
 
-Requests for _static_ resources are handled in the same way as for static sites (static resources are any files that don't change —typically: CSS, JavaScript, Images, pre-created PDF files etc). 
+Requests for _static_ resources are handled in the same way as for static sites (static resources are any files that don't change —typically: CSS, JavaScript, Images, pre-created PDF files etc).&#x20;
 
 ## References
 
