@@ -47,7 +47,7 @@
     * [Hydroponics](knowledge-base/applied-sciences/sustainable-agriculture/hydroponics.md)
     * [Resources](knowledge-base/applied-sciences/sustainable-agriculture/resources.md)
   * [Business](knowledge-base/applied-sciences/business.md)
-  * [Communication](knowledge-base/applied-sciences/communication.md)
+  * [Communication Studies](knowledge-base/applied-sciences/communication-studies.md)
   * [Education](knowledge-base/applied-sciences/education/README.md)
     * [Open Education Resources](knowledge-base/applied-sciences/education/oer.md)
     * [MOOCs](knowledge-base/applied-sciences/education/stem.md)
