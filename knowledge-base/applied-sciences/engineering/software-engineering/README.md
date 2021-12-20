@@ -22,15 +22,17 @@ For the purpose of this guide we will only use the term software engineer, but r
 
 ## Contents
 
-1. [Why Learn Software Engineering?](./#why-learn-software-engineering)
-2. [History of Software Engineering](./#history-of-software-engineering)
-3. [Profession](./#profession)
-4. [Education](./#education)
-5. [Accreditation](./#abet-accreditation)
-6. [Code Bootcamps](./#code-bootcamps)
-7. [Books](./#books)
-8. [Courses](./#courses)
-9. [References](./#references)
+1. [Introduction](./#introduction)
+2. [Contents](./#contents)
+3. [Why Learn Software Engineering?](./#why-learn-software-engineering)
+4. [History of Software Engineering](./#history-of-software-engineering)
+5. [Profession](./#profession)
+6. [Education](./#education)
+7. [Accreditation](./#abet-accreditation)
+8. [Code Bootcamps](./#code-bootcamps)
+9. [Books](./#books)
+10. [Courses](./#courses)
+11. [References](./#references)
 
 ### Why Learn Software Engineering?
 
