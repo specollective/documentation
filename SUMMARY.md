@@ -85,12 +85,12 @@
   * [Earth Science](knowledge-base/natural-sciences/earth-science.md)
 * [Social Science](knowledge-base/diversity-equity-and-inclusion/README.md)
   * [Anthropology](knowledge-base/diversity-equity-and-inclusion/anthropology.md)
-  * [Psychology](knowledge-base/diversity-equity-and-inclusion/psychology/README.md)
-    * [Mental Health & Neurodiversity](knowledge-base/diversity-equity-and-inclusion/psychology/mental-health-and-neurodiversity.md)
-  * [Sociology](knowledge-base/diversity-equity-and-inclusion/sociology.md)
   * [Cultural Studies](knowledge-base/diversity-equity-and-inclusion/cultural-studies/README.md)
     * [Resources](knowledge-base/diversity-equity-and-inclusion/cultural-studies/resources.md)
     * [Videos & Presenations](knowledge-base/diversity-equity-and-inclusion/cultural-studies/videos-and-presenations.md)
+  * [Psychology](knowledge-base/diversity-equity-and-inclusion/psychology/README.md)
+    * [Mental Health & Neurodiversity](knowledge-base/diversity-equity-and-inclusion/psychology/mental-health-and-neurodiversity.md)
+  * [Sociology](knowledge-base/diversity-equity-and-inclusion/sociology.md)
 
 ## Contributing
 
