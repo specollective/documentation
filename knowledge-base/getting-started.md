@@ -10,7 +10,8 @@ SPEC's Knowledge Base (KB) is designed to help its community members learn new s
 
 * [Agriculture](applied-sciences/sustainable-agriculture/)
 * [Business](applied-sciences/business.md)
-* [Communications](applied-sciences/communication-studies.md)
+* [Communication Studies](applied-sciences/communication.md)
+* Design
 * [Education](applied-sciences/education/)
 * [Engineering](applied-sciences/engineering/)
 * [Project Management](applied-sciences/project-management.md)
