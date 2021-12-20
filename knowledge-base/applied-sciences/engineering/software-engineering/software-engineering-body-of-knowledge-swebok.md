@@ -1,10 +1,10 @@
 ---
-description: 🚧   This page is under construction and is considered incomplete. 🚧
+description: "\U0001F6A7   This page is under construction and is considered incomplete. \U0001F6A7"
 ---
 
-# Software Engineering Body of Knowledge (SWEBOK)
+# Software Engineering Body of Knowledge \(SWEBOK\)
 
-The Software Engineering Body of Knowledge (SWEBOK) is an international standard ISO/IEC TR 19759:2005 that specifies a guide to the generally accepted software engineering body of knowledge. SWEBOK outlines the knowledge required to be a software engineer and includes information about the following Knowledge Areas (KA).
+The Software Engineering Body of Knowledge \(SWEBOK\) is an international standard ISO/IEC TR 19759:2005 that specifies a guide to the generally accepted software engineering body of knowledge. SWEBOK outlines the knowledge required to be a software engineer and includes information about the following Knowledge Areas \(KA\).
 
 * Engineering foundations
 * Mathematical foundations
@@ -25,3 +25,4 @@ The Software Engineering Body of Knowledge (SWEBOK) is an international standard
 To learn about SWEBOK download a free version from the IEEE Computer Society website by click the link below.
 
 {% embed url="https://www.computer.org/education/bodies-of-knowledge/software-engineering" %}
+

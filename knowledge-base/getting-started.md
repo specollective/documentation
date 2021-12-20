@@ -4,9 +4,9 @@ SPEC's Knowledge Base (KB) is designed to help its community members learn new s
 
 ⚠️ KB is work in progress and is actively under construction. You may find incomplete sections as we are in the process of filling out the KB.
 
-### Contents
+## Contents
 
-**Applied Sciences**
+### **Applied Science**
 
 * [Agriculture](applied-sciences/sustainable-agriculture/)
 * [Business](applied-sciences/business.md)
@@ -16,25 +16,26 @@ SPEC's Knowledge Base (KB) is designed to help its community members learn new s
 * [Engineering](applied-sciences/engineering/)
 * [Project Management](applied-sciences/project-management.md)
 
-**Humanities**
+### **Humanities**
 
 * [History](../about-us/history.md)
 * [Languages](humanities/languages.md)
 * [Philosophy](humanities/philosophy/)
 
-**Formal Sciences**
+### **Formal Sciences**
 
 * [Computer Science](formal-sciences/computer-science.md)
 * [Logic](formal-sciences/logic.md)
 * [Mathematics](formal-sciences/mathematics.md)
 
-**Natural Sciences**
+### **Natural Science**
 
 * [Biology](natural-sciences/biology/)
 * [Chemistry](natural-sciences/chemistry.md)
 * [Physics](natural-sciences/physics.md)
+* [Earth Science](natural-sciences/earth-science.md)
 
-**Social Sciences**
+### **Social Science**
 
 * Anthropology
 * [Psychology](diversity-equity-and-inclusion/psychology/)

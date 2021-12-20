@@ -2,6 +2,7 @@
 
 ## Existing Work
 
-* Recyclebot&#x20;
+* Recyclebot 
 * Precious Plastic
 * Filastruder
+
