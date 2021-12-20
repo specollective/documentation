@@ -84,6 +84,7 @@
   * [Chemistry](knowledge-base/natural-sciences/chemistry.md)
   * [Earth Science](knowledge-base/natural-sciences/earth-science.md)
 * [Social Science](knowledge-base/diversity-equity-and-inclusion/README.md)
+  * [Anthropology](knowledge-base/diversity-equity-and-inclusion/anthropology.md)
   * [Psychology](knowledge-base/diversity-equity-and-inclusion/psychology/README.md)
     * [Mental Health & Neurodiversity](knowledge-base/diversity-equity-and-inclusion/psychology/mental-health-and-neurodiversity.md)
   * [Sociology](knowledge-base/diversity-equity-and-inclusion/sociology.md)
