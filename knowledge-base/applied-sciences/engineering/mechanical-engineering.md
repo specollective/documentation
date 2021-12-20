@@ -4,6 +4,7 @@ Mechanical engineering is the study and application of engineering physics, math
 
 **Books**
 
+* [Libretexts Mechanical Engineering Textbooks](https://eng.libretexts.org/Bookshelves/Mechanical\_Engineering)
 * [Fundamentals of Applied Dynamics](https://mitpress.mit.edu/books/fundamentals-applied-dynamics)
 
 **Collections**
