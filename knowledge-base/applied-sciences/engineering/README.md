@@ -23,6 +23,7 @@ Engineering is the application of scientific principles and mathematics to solve
 
 * [Appropedia - Open source engineering software](https://www.appropedia.org/Open\_source\_engineering\_software)
 * [MIT CommKit](https://mitcommlab.mit.edu/meche/use-commkit/)
+* [Engineering Computations with Python Github Repository](https://github.com/engineersCode/EngComp)
 
 **Presentations**
 
