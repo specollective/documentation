@@ -1,6 +1,6 @@
 # Biology
 
-Biology is the study of life. The subject matter of biology includes cell biology, microbiology, genetics, evolution, reproduction, biodiversity, and ecology.
+Biology is the study of life. The subject matter of biology includes cell biology, microbiology, genetics, evolution, anatomy, physiology, plant science, reproduction, biodiversity, and ecology.
 
 ### Books
 
