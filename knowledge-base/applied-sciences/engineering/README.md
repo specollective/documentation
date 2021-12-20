@@ -7,6 +7,7 @@ Engineering is the application of scientific principles and mathematics to solve
 * [Engineering: An Introduction for High School](https://ufdcimages.uflib.ufl.edu/AA/00/01/17/19/00001/Engineering\_\_An\_Introduction\_for\_High\_School.pdf)
 * [Brittanica Engineering](https://www.britannica.com/technology/engineering)
 * [Study.com What is Engineering?](https://study.com/academy/lesson/what-is-engineering-definition-types.html)
+* [Hitting the Reset Button on Intro to Engineering](https://now.tufts.edu/articles/hitting-reset-button-intro-engineering)
 
 **Books**
 
@@ -16,11 +17,16 @@ Engineering is the application of scientific principles and mathematics to solve
 **Courses**
 
 * [MIT High School Engineering Courses](https://ocw.mit.edu/high-school/engineering/)
+* [Edx Introduction to Engineering](https://www.edx.org/course/introduction-to-engineering)
 
 **Tools & Software**
 
 * [Appropedia - Open source engineering software](https://www.appropedia.org/Open\_source\_engineering\_software)
 * [MIT CommKit](https://mitcommlab.mit.edu/meche/use-commkit/)
+
+**Presentations**
+
+* [MIT Student Presentation - Introduction to Engineering ](http://web.mit.edu/wi/files/WI%20presentation\_MelodyJanice.pdf)
 
 **Branches**
 
