@@ -1,8 +1,10 @@
 # Getting Started
 
-SPEC's Knowledge Base (KB) is designed to help its community members learn new skills and advance their educations and careers. To make this knowledge base accessible we have strived to focus on free and open source education resources (OER). The KB does also provide information about lower cost educational programs that can be used for supplementary learning. The KB is work in progress and is actively under construction. Please note you may find incomplete sections as we are in the process of filling out the KB.
+SPEC's Knowledge Base (KB) is designed to help its community members learn new skills and advance their educations and careers. To make this knowledge base accessible to as many people as possible we have strived to primarily list free and open education resources (OER). The KB does also provide information about lower cost educational programs that can be used for supplementary learning.
 
-### Table of Contents
+⚠️ KB is work in progress and is actively under construction. You may find incomplete sections as we are in the process of filling out the KB.
+
+### Contents
 
 **Applied Sciences**
 
