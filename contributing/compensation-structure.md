@@ -62,19 +62,17 @@ For more information about contributor levels click the link below to navigate t
 SPEC has made three important decisions for Q4 2021 related to pay bands.
 
 1. All of our L3/M3 contributors have volunteered to donate their time and receive no compensation. In the future, SPEC may hire L3/M3 contributors that take a salary, at which time their rate will be revisited. All contributors will have the ability to wave compensation and work on a voluntary basis.
-2. For the beginning of Q4, L2/M2 contributors will work at the same rate as L1s and M1s, while SPEC operates on initial seed funding.
-3. The pay rate for M2s will be adjusted when SPEC's funding reaches a sustainable level determined collaboratively by the co-founders, core team, and steering committee.
-4. The pay rate for level 1 contributors will be discussed at the end of Q4 in collaboration with SPEC's current cohort of level 1 research associates.
+2. The pay rate for level 1 contributors will be discussed at the end of Q4 in collaboration with SPEC's current cohort of level 1 research associates.
 
 Below are the current pay bands for Q4 2021
 
 | Level  | Rate (Per Hour) |
 | ------ | --------------- |
 | **M3** | $0.00           |
-| **M2** | $20.00          |
+| **M2** | $24.04          |
 | **M1** | $20.00          |
 | **L3** | $0.00           |
-| **L2** | $20.00          |
+| **L2** | $24.04          |
 | **L1** | $20.00          |
 
 ### References
