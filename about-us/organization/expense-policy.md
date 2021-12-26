@@ -18,6 +18,4 @@ Visit SPEC's Open Collective "Submit Expense" page by clicking the following lin
 * Confirmed tracked expenses with your Project Lead
 * Accounted for each hour for which you are billing
 * SPEC recommends using Toggl Track to generate timesheets to submit their expenses
-* If you are an independent contractor that and have a preferred tool to generate timesheets and invoices, you must get the format approved by a Collective Administrator before submitting expenses.
-
-**Last Updated:** September 5th, 2021
+* If you are an independent contractor and have a preferred tool to generate timesheets and invoices, you must get the format approved by a Collective Administrator before submitting expenses.
