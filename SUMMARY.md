@@ -23,6 +23,7 @@
 * [Research & Development](our-work/research-and-development/README.md)
   * [Open Design System](our-work/research-and-development/open-design-system/README.md)
     * [Product Requirements](our-work/research-and-development/open-design-system/product-requirements.md)
+  * [Open Source Recycling](our-work/research-and-development/open-source-recycling.md)
   * [SPEC Learning](our-work/research-and-development/spec-learning-platform.md)
   * [Buffalo Project Papers](our-work/research-and-development/research-papers.md)
   * [Peer Review Process](our-work/research-and-development/peer-review-process.md)
