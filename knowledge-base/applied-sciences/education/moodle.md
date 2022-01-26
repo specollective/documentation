@@ -20,6 +20,47 @@ Docker Image that can be used for deploying to Cloud-based container orchestrati
 
 {% embed url="https://github.com/bitnami/bitnami-docker-moodle" %}
 
+### Setup Bitnami-Moodle-Docker Image
+
+Refer to the url below for more info. It points to the TL;DR
+
+[GitHub - bitnami/bitnami-docker-moodle: Bitnami Docker Image for Moodle](https://github.com/bitnami/bitnami-docker-moodle#tldr)
+
+
+
+#### open the terminal/command-line and navigate to the root user folder or the folder where you want to hold the moodle-bitnami container data.
+
+Either go to your root user directory or choose a different directory. See the link below for the pros and cons of each choice.
+
+[Work With Non-Root Containers for Bitnami Applications](https://docs.bitnami.com/tutorials/work-with-non-root-containers/)
+
+## Run the two commands below.
+
+```bash
+$ curl -sSL <https://raw.githubusercontent.com/bitnami/bitnami-docker-moodle/master/docker-compose.yml> > docker-compose.yml
+$ docker-compose up -d
+```
+
+\<aside> 💡 **Warning**: This quick setup is only intended for development environments. You are encouraged to change the insecure default credentials and check out the available configuration options in the [Environment Variables](https://github.com/bitnami/bitnami-docker-moodle#environment-variables) section for a more secure deployment.
+
+\</aside>
+
+
+
+#### move the moodle folder into the directory where you ran `docker compose`.
+
+
+
+#### Open a browser and navigate to localhost
+
+#### or&#x20;
+
+#### Use the docker desktop app (see image)
+
+![](../../../.gitbook/assets/docker-moodle.png)
+
+#### Login using username: `user` and password: `bitnami`
+
 ### References
 
 1. [https://docs.moodle.org/311/en/About\_Moodle](https://docs.moodle.org/311/en/About\_Moodle)
