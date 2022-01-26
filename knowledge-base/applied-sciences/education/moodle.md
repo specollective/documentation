@@ -37,7 +37,7 @@ Either go to your root user directory or choose a different directory. See the l
 ## Run the two commands below.
 
 ```bash
-$ curl -sSL <https://raw.githubusercontent.com/bitnami/bitnami-docker-moodle/master/docker-compose.yml> > docker-compose.yml
+$ curl -sSL https://raw.githubusercontent.com/bitnami/bitnami-docker-moodle/master/docker-compose.yml > docker-compose.yml
 $ docker-compose up -d
 ```
 
