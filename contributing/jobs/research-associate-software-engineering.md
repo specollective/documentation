@@ -38,7 +38,7 @@ The Sustainable Progress and Equality Collective (SPEC) is seeking to hire part-
 
 ### **Compensation**
 
-The compensation for the Research Associate (Software Engineering) position pays $20 per hour. The hourly rate is based on SPEC's compensation structure and contributor levels. As a collective under the fiscal sponsorship of Open Collective Foundation (OCF), SPEC RAs are legally classified as 1099 independent contractors rendering services for OCF. SPEC contributors receive compensation by submitting expenses through [SPEC's Open Collective portal](https://opencollective.com/spec/expenses/new). Expenses submitted to SPEC must follow its expense policy and approved one of SPEC's administrators. SPEC contributors receive their payments from the OCF and are paid out the bank account of their choice.
+The currently pay rate for Software Engineering RAs is $20 per hour. This pay rate is based on SPEC's compensation structure and contributor levels. As a collective under the fiscal sponsorship of Open Collective Foundation (OCF), SPEC RAs are legally classified as 1099 independent contractors rendering services for OCF. SPEC contributors receive compensation by submitting expenses through [SPEC's Open Collective portal](https://opencollective.com/spec/expenses/new). Expenses submitted must follow SPEC's expense policy and be approved one of SPEC's administrators. SPEC contributors receive their payments from OCF and are paid out the bank account of their choice.
 
 ### **Application Process**
 
