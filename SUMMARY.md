@@ -20,14 +20,6 @@
 
 ## Our Work
 
-* [Research & Development](our-work/research-and-development/README.md)
-  * [Open Design System](our-work/research-and-development/open-design-system/README.md)
-    * [Product Requirements](our-work/research-and-development/open-design-system/product-requirements.md)
-  * [Open Source Recycling](our-work/research-and-development/open-source-recycling.md)
-  * [SPEC Learning](our-work/research-and-development/spec-learning-platform.md)
-  * [Buffalo Project Papers](our-work/research-and-development/research-papers.md)
-  * [Peer Review Process](our-work/research-and-development/peer-review-process.md)
-  * [Citation Format](our-work/research-and-development/citation-format.md)
 * [CITISEN Program](our-work/citisen/README.md)
   * [Tech Empowerment Program](our-work/citisen/tech-empowerment-program.md)
 * [Social Impact Incubator](our-work/social-impact-incubator/README.md)
@@ -36,6 +28,14 @@
 * [Sustainability Accelerator](our-work/sustainability-accelerator/README.md)
   * [Juniper Garden](our-work/sustainability-accelerator/juniper-garden.md)
   * [Modular Greenhouses](knowledge-base/applied-sciences/sustainable-agriculture/modular-greenhouses.md)
+* [Research & Development](our-work/research-and-development/README.md)
+  * [Open Design System](our-work/research-and-development/open-design-system/README.md)
+    * [Product Requirements](our-work/research-and-development/open-design-system/product-requirements.md)
+  * [Open Source Recycling](our-work/research-and-development/open-source-recycling.md)
+  * [SPEC Learning](our-work/research-and-development/spec-learning-platform.md)
+  * [Buffalo Project Papers](our-work/research-and-development/research-papers.md)
+  * [Peer Review Process](our-work/research-and-development/peer-review-process.md)
+  * [Citation Format](our-work/research-and-development/citation-format.md)
 * [Testimonials](our-work/testimonials.md)
 
 ## Knowledge Base
@@ -100,3 +100,5 @@
 * [Call for Researchers - RAND Partnership](contributing/call-for-researchers-rand-partnership.md)
 * [Contributor Levels](contributing/contributor-levels.md)
 * [Compensation Structure](contributing/compensation-structure.md)
+* [Jobs](contributing/jobs/README.md)
+  * [Research Associate (Software Engineering)](contributing/jobs/research-associate-software-engineering.md)
