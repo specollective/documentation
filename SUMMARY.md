@@ -102,3 +102,4 @@
 * [Compensation Structure](contributing/compensation-structure.md)
 * [Jobs](contributing/jobs/README.md)
   * [Research Associate (Software Engineering)](contributing/jobs/research-associate-software-engineering.md)
+  * [Project Manager (part-time)](contributing/jobs/project-manager-part-time.md)
