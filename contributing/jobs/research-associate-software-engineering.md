@@ -44,7 +44,9 @@ The currently pay rate for Software Engineering RAs is $20 per hour. This pay ra
 
 Please send a cover letter and your resume to [info@specollective.org](mailto:info@specollective.org). Your information will be reviewed by our core team and co-founders. We will contact you to let you know if you have been selected for an interview.
 
-### **About SPEC**
+### Additional Information
 
-SPEC was founded in June 2020 in response to the challenges of the pandemic and social injustice and unrest facing communities across the US. SPEC’s mission is to empower individuals to become globally-minded change agents by helping them learn the essential skills required to build sustainable careers and make a positive impact in their communities. SPEC was established as an open collective, a collaborative group that has a shared mission, which raises and spends funds transparently to achieve. SPEC provides mentoring, training, internships, R\&D services, and hosts events to achieve its strategic objectives. SPEC expands the reach of social and environmental justice initiatives through the use of participatory action research, open collaboration, and critical systems thinking.
+SPEC is proud to be an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws.
+
+This policy applies to all employment practices within our organization, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship SPEC makes hiring decisions based solely on qualifications, merit, and business needs at the time.
 
