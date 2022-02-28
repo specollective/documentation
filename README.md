@@ -76,7 +76,7 @@ Hear from some of our contributors about their experience working at SPEC.
 
 ## Our Team
 
-SPEC is run by a small and dedicated team of contributors and volunteers. We come from difference social identities, backgrounds, and perspectives. SPEC's co-founders and steering committee work entirely on a volunteer basis, have no financial stake in the collective, and do not receive compensation in any form.
+SPEC is run by a small and dedicated team of contributors and volunteers. We come from different social identities, backgrounds, and perspectives. SPEC's co-founders and steering committee work entirely on a volunteer basis, have no financial stake in the collective, and do not receive compensation in any form.
 
 {% content-ref url="about-us/organization/team.md" %}
 [team.md](about-us/organization/team.md)
