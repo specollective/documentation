@@ -30,7 +30,7 @@ We're looking for part-time project manager(s) to help lead research and develop
 
 **Required**
 
-* 2+ years of project management experience, ideally in the digital or creative media
+* Experience in project management ideally in the digital, creative media, or educational spaces
 * A solid understanding of fundamental project management tools and process
 * Experience developing and documenting new processes and workflows
 * Experience with project management tools (like Trello or Jira) or building and managing projects with spreadsheets and documents
