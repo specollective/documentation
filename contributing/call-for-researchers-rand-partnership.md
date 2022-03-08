@@ -22,7 +22,7 @@ This special RA program will allow participants to take part in a partnership be
 
 #### **Required**
 
-* Strong interest in sustainability, social justice, community development, and education
+* Strong interest in social justice, education, and community development
 * Willingness to develop and/or further refine intercultural competencies and other soft skills
 * Ability to work professionally with members of diverse communities, including (but not limited) to 1st-generation immigrants, BIPOC, LGBTQ+, and neurodivergent individuals.
 * Proficiency and/or willingness to learn and apply research methods
