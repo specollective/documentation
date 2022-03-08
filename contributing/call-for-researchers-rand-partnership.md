@@ -1,8 +1,10 @@
 # Call for Researchers - RAND Partnership
 
-The Sustainable Progress & Equality Collective (SPEC) is accepting applications for Research Associates (RA) to assist in a unique, year-long project beginning Fall 2021 and Spring 2022. We are looking for highly dedicated contributors who have an interest in social justice, education, and community development, and a capacity to learn new skills, collaborate, and communicate effectively to support SPEC’s research and development projects and community building initiatives.
+### **Overview**
 
-### **Job Description**
+The Sustainable Progress & Equality Collective (SPEC) is accepting applications for Research Associates (RA) to assist in a unique, year-long project beginning Fall 2021 and Spring 2022. SPEC is seeking for highly dedicated contributors who have an interest in social justice, education, and community development, and a capacity to learn new skills, collaborate, and communicate effectively to support SPEC’s research and development projects and community building initiatives.
+
+### Job Description
 
 This special RA program will allow participants to take part in a partnership between SPEC and the newly-founded Center to Advance Racial Equity Policy housed within RAND Corporation. A position as a SPEC RA is an opportunity for contributors to gain in-depth experience in research, educational technology, and organizational development. RAs work on projects that they can show future employers to demonstrate the skills they developed during their work experience. RAs will be expected to contribute up to 10 **** - 20 hours per week depending on project needs. Each RA will be expected to participate in training to develop their ability to work with diverse individuals across organizations. RAs can expect to interact with senior-level decision makers from both SPEC and CAREP. This is a temporary position with end dates varying based on specific job duties.
 
@@ -57,7 +59,3 @@ Against the backdrop of a pandemic that was already inflicting disproportionate 
 SPEC is proud to be an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws.
 
 This policy applies to all employment practices within our organization, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and internships. SPEC makes hiring decisions based solely on qualifications, merit, and business needs at the time.
-
-
-
-\
