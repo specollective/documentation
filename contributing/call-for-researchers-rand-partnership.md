@@ -1,31 +1,31 @@
 # Call for Researchers - RAND Partnership
 
-The Sustainable Progress & Equality Collective (SPEC) is accepting applications for Research Associates to assist in a unique, year-long project beginning Fall 2021 and Spring 2022. We are looking for highly dedicated contributors who have an interest in sustainability, social justice, and community development, and have the ability to learn new skills, conduct research, collaborate, and communicate effectively. All Research Associates (RAs) will contribute to SPEC’s research and development projects and community building initiatives.
+The Sustainable Progress & Equality Collective (SPEC) is accepting applications for Research Associates (RA) to assist in a unique, year-long project beginning Fall 2021 and Spring 2022. We are looking for highly dedicated contributors who have an interest in social justice, education, and community development, and a capacity to learn new skills, collaborate, and communicate effectively to support SPEC’s research and development projects and community building initiatives.
 
 ### **Job Description**
 
-This RA program will allow participants to take part in a partnership between SPEC and the newly-founded Center to Advance Racial Equity Policy housed within RAND Corporation. In general, a RA position is an opportunity for contributors to gain in-depth experience in open research, organizational development, and scholarly publishing. RAs work on projects they can show future employers and demonstrate the skills they developed related to their areas of interest. RAs will be expected to contribute as much as 10 **** - 20 hours per week depending on project needs. Each RA will be expected to complete training demonstrating an ability to work with diverse individuals across organizations. RAs can expect to interact with senior-level decision makers from both SPEC and CAREP. This is a temporary position with end dates varying based on specific job duties.
+This special RA program will allow participants to take part in a partnership between SPEC and the newly-founded Center to Advance Racial Equity Policy housed within RAND Corporation. A position as a SPEC RA is an opportunity for contributors to gain in-depth experience in research, educational technology, and organizational development. RAs work on projects that they can show future employers to demonstrate the skills they developed during their work experience. RAs will be expected to contribute up to 10 **** - 20 hours per week depending on project needs. Each RA will be expected to participate in training to develop their ability to work with diverse individuals across organizations. RAs can expect to interact with senior-level decision makers from both SPEC and CAREP. This is a temporary position with end dates varying based on specific job duties.
 
-### Responsibilities
+### Potential Job Responsibilities
 
 * Reviewing research literature and apply findings to support SPEC initiatives
 * Performing data analysis and creating graphs, tables, and reports to explain and synthesize experimental results
-* Developing innovative approaches to collaboration, learning, and fundraising
+* Supporting development of educational courses and instructional technologies
 * Assisting with grant proposals, writing articles, and course development
 * Contributing to open source software, open research, and open learning initiatives
 * Moderating discussions; conducting interviews; creating surveys, polls, and experiments to collect data and gain insight
-* Proficiency and/or willingness to learn to use software for documentation, data analysis, and project management
+* Learning to use software for documentation, data analysis, and project management
 
 ### **Qualifications**
 
 #### **Required**
 
-* Strong interest in sustainability, social justice, and community development
+* Strong interest in sustainability, social justice, community development, and education
 * Willingness to develop and/or further refine intercultural competencies and other soft skills
-* Ability to work professionally with members of diverse communities, including (but not limited) to 1st-generation immigrants, BIPOC, LGBTQ+, and neurodiverse individuals.
+* Ability to work professionally with members of diverse communities, including (but not limited) to 1st-generation immigrants, BIPOC, LGBTQ+, and neurodivergent individuals.
 * Proficiency and/or willingness to learn and apply research methods
 * Strong written and verbal communication skills
-* Ability to work within a team to meet deadlines.
+* Ability to work within a team to meet deadlines
 * Receptive to receiving regular feedback
 
 #### **Preferred**
