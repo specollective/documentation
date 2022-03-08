@@ -44,7 +44,7 @@ This will be a paid RA position. Hourly pay will range between $15 - $20 per hou
 
 ### **Application Process**
 
-Please send a cover letter and your resume to [info@specollective.org](mailto:info@specollective.org). Your information will be reviewed by our core team and co-founders. We will contact you to let you know if you have been selected for an interview. Applications are due by October 13, 2021 and will start October 18, 2021.
+Please send a cover letter and your resume to [info@specollective.org](mailto:info@specollective.org). Your information will be reviewed by our core team and co-founders. We will contact you to let you know if you have been selected for an interview.
 
 ### **About SPEC**
 
