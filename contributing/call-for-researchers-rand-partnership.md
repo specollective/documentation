@@ -2,7 +2,7 @@
 
 ### **Overview**
 
-The Sustainable Progress & Equality Collective (SPEC) is accepting applications for Research Associates (RA) to assist in a unique, year-long project beginning Fall 2021 and Spring 2022. SPEC is seeking for highly dedicated contributors who have an interest in social justice, education, and community development, and a capacity to learn new skills, collaborate, and communicate effectively to support SPEC’s research and development projects and community building initiatives.
+The Sustainable Progress & Equality Collective (SPEC) is accepting applications for Research Associates (RA) to assist in a unique, year-long project beginning Fall 2021 and Spring 2022. SPEC is seeking highly dedicated contributors who have an interest in social justice, education, and community development, and a capacity to learn new skills, collaborate, and communicate effectively to support SPEC’s research and development projects and community building initiatives.
 
 ### Job Description
 
