@@ -8,7 +8,7 @@ The Sustainable Progress & Equality Collective (SPEC) is accepting applications 
 
 This special RA program will allow participants to take part in a partnership between SPEC and the newly-founded Center to Advance Racial Equity Policy housed within RAND Corporation. A position as a SPEC RA is an opportunity for contributors to gain in-depth experience in research, educational technology, and organizational development. RAs work on projects that they can show future employers to demonstrate the skills they developed during their work experience. RAs will be expected to contribute up to 10 **** - 20 hours per week depending on project needs. Each RA will be expected to participate in training to develop their ability to work with diverse individuals across organizations. RAs can expect to interact with senior-level decision makers from both SPEC and CAREP. This is a temporary position with end dates varying based on specific job duties.
 
-### Potential Job Responsibilities
+### Potential Job Duties
 
 * Reviewing research literature and apply findings to support SPEC initiatives
 * Performing data analysis and creating graphs, tables, and reports to explain and synthesize experimental results
