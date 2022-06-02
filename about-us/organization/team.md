@@ -18,7 +18,7 @@ We won't be able to create these jobs without funding. Please consider donating 
 
 ![](<../../.gitbook/assets/image (2).png>)
 
-**Co-founder & Administrator**\
+**Co-founder & Collective Administrator**\
 San Francisco, California
 
 ### Nan Eileen Mead
