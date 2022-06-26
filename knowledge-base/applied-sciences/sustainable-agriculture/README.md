@@ -1,7 +1,3 @@
----
-description: 🚧 This page is under construction and is considered incomplete. 🚧
----
-
 # Agriculture
 
 Agriculture is the science or practice of farming, including cultivation of the soil for the growing of crops and the rearing of animals to provide food, wool, and other products.
@@ -12,7 +8,7 @@ Agriculture is the science or practice of farming, including cultivation of the 
 
 **Courses**
 
-* [Cornell Small Farms Program](https://smallfarms.cornell.edu)
+* [Cornell Small Farms Program](https://smallfarms.cornell.edu/)
 
 **Branches**
 

@@ -25,7 +25,7 @@ SPEC's Knowledge Base (KB) is designed to help its community members learn new s
 
 ### **Formal Science**
 
-* [Computer Science](formal-sciences/computer-science.md)
+* [Computer Science](formal-science/computer-science/)
 * [Logic](formal-sciences/logic.md)
 * [Mathematics](formal-sciences/mathematics.md)
 * Statistics

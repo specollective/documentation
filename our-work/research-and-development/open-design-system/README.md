@@ -45,7 +45,7 @@ We are currently hiring research associates and contributors. Checkout our call 
 ## References
 
 1. [https://www.designsystems.com/the-case-for-an-open-design-system/](https://www.designsystems.com/the-case-for-an-open-design-system/)
-2. [https://designsystemsrepo.com](https://designsystemsrepo.com)
+2. [https://designsystemsrepo.com](https://designsystemsrepo.com/)
 3. [https://stenciljs.com/docs/introduction](https://stenciljs.com/docs/introduction)
 
 

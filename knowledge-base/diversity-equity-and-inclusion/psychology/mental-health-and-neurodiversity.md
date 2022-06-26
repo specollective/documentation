@@ -8,7 +8,7 @@ This page provides links to resources on mental health and neurodiversity.&#x20;
 
 ## Mental Health
 
-### Get Immediate Help in a Crisis <a href="part_2383" id="part_2383"></a>
+### Get Immediate Help in a Crisis <a href="#part_2383" id="part_2383"></a>
 
 **Call 911** if you or someone you know is in immediate danger or go to the nearest emergency room.
 
@@ -48,4 +48,4 @@ SAMHSA’s National Helpline is a free, confidential, 24/7, 365-day-a-year treat
 
 ### References
 
-1. National Suicide Prevention Hotline, [https://suicidepreventionlifeline.org](https://suicidepreventionlifeline.org) (2020)
+1. National Suicide Prevention Hotline, [https://suicidepreventionlifeline.org](https://suicidepreventionlifeline.org/) (2020)

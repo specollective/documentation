@@ -1,7 +1,3 @@
----
-description: 🚧This page is under construction and should be considered incomplete. 🚧
----
-
 # Peer Review Process
 
 ## Introduction

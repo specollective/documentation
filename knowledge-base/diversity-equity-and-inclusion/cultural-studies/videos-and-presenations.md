@@ -1,7 +1,3 @@
----
-description: 🚧  This page under construction and is considered incomplete. 🚧
----
-
 # Videos & Presenations
 
 ## Cultural Sensitivity & Diversity

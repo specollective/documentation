@@ -11,7 +11,7 @@ Engineering is the application of scientific principles and mathematics to solve
 
 **Books**
 
-* [Engineering Libretexts](https://eng.libretexts.org)
+* [Engineering Libretexts](https://eng.libretexts.org/)
 * [Open Textbook Library Engineering Textbooks](https://open.umn.edu/opentextbooks/subjects/engineering)
 * [Oklahoma University - Online Engineering EBooks](https://ecourses.ou.edu/home.htm)
 

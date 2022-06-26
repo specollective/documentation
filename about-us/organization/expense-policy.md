@@ -1,7 +1,3 @@
----
-description: 🚧This page is under construction and should be considered incomplete. 🚧
----
-
 # Expense Policy
 
 This page provides SPEC contributors with guidance on the proper and timely submission of billable expenses. All billable time must be approved by one of SPEC's Collective Administrators before starting work and tracking expenses. Expenses submitted for work that was not explicitly approved by a Collective Administrator will be rejected. SPEC reserves the right to reject any expenses submitted with insufficient information or that do not correspond to the pre-agreed on scope of work, time commitment, and pay rate. Through Open Collective SPEC is able to pay out expenses twice a week. Contributors who submit their expenses later in the week and miss the second pay run will receive their pay the following week.

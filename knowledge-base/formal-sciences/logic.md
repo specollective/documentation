@@ -4,7 +4,7 @@ Logic is the study of truth and reasoning. It is concerned with the nature and v
 
 **Books**
 
-* [Open Logic Project](https://openlogicproject.org)
+* [Open Logic Project](https://openlogicproject.org/)
 
 **Courses**
 

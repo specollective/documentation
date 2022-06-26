@@ -1,7 +1,3 @@
----
-description: 🚧 This page is under construction and is considered incomplete. 🚧
----
-
 # Project Management
 
 Project management is the process of leading the work of a team to achieve a set of goals within the given constraints. This information is usually described in documentation that is created at the beginning of the development process. Project documentation is updated continuously throughout a project's life cycle as changes are requested. The primary constraints are scope, time, and budget. The secondary challenge of project management is optimization of the allocation of required inputs and the application of them to meet pre-defined objectives. \[1]
