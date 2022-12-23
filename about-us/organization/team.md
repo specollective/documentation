@@ -16,63 +16,63 @@ We won't be able to create these jobs without funding. Please consider donating 
 
 ### Joe Torreggiani
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/joe (1).png>)
 
 **Co-founder & Collective Administrator**\
 San Francisco, California
 
 ### Nan Eileen Mead
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](../../.gitbook/assets/nan.png)
 
 **Research Lead**\
 New York City Metropolitan Area
 
 ### Marcus Steiner
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](../../.gitbook/assets/marcus.png)
 
 **Operations Lead**\
 Noblesville, Indiana
 
 ### Grant Newland
 
-![](<../../.gitbook/assets/12801336\_542142815954249\_6215724611391571345\_n (1).jpg>)
+![](../../.gitbook/assets/grant.jpeg)
 
 **Research Associate**\
 ****Arlington, TX
 
 ### Sam Miyamoto
 
-![](<../../.gitbook/assets/image (4).png>)
+![](../../.gitbook/assets/sam.png)
 
 **Research Associate (Engineering)**\
 ****Los Angeles, CA
 
 ### Victoria Lo
 
-![](<../../.gitbook/assets/self\_photo copy.jpeg>)
+![](../../.gitbook/assets/victoria.jpeg)
 
 **Research Associate (Engineering)**\
 ****San Francisco Bay Area
 
 ### Yoline Banerjee
 
-![](<../../.gitbook/assets/image (5) (2).png>)
+![](../../.gitbook/assets/yoline.png)
 
 **Research Associate (Engineering)**\
 ****Oakland, California
 
 ### Alicia Bong
 
-![](<../../.gitbook/assets/image (6) (2).png>)
+![](../../.gitbook/assets/alicia.png)
 
 **Research Associate**\
 ****Philadelphia, PA
 
 ### Lawrence Kincheloe
 
-![](<../../.gitbook/assets/image (7).png>)
+![](../../.gitbook/assets/lawrence.png)
 
 **Research Associate (Engineering)**\
 ****Norman, OK
@@ -86,21 +86,21 @@ Noblesville, Indiana
 
 ### Joe Golden
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/joeg copy.jpg>)
 
 **Research Associate** \
 ****New York City Metropolitan Area
 
 ### Najwana Nashmin
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/najwana copy.jpg>)
 
 **Research Associate (Engineering)**\
 ****Greater Seattle Area
 
 ### Crystal Shamsi
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/crystal copy.jpg>)
 
 **Research Associate (Engineering)**\
 ****Steamboat Springs, CO
