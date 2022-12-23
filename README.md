@@ -1,16 +1,12 @@
 # Introduction
 
-> #### Make the world work for 100% of humanity, in the shortest possible time, through spontaneous cooperation without ecological offense or disadvantage of anyone.
->
-> Richard Buckminster Fuller
-
 The Sustainable Progress and Equality Collective (SPEC) is an open learning organization that helps individuals and communities become catalysts for positive change. SPEC's mission is to empower people to become globally-minded change agents by helping them learn the essential skills required to build sustainable careers and make a positive impact in their communities.&#x20;
 
 We aim to uplift people from underrepresented backgrounds and communities by providing equitable opportunities through research, mentorship, training, work experience, service-learning, and events promoting professional growth, environmental sustainability, and social justice.
 
 ## Our Vision
 
-SPEC takes inspiration from the work of the renowned 20th-century inventor and visionary Richard Buckminster Fuller. Fuller dedicated his life to creating systems and technologies that would enable people to live healthy and productive lives. Fuller viewed problems from a global perspective. He argued that society can't tackle global challenges with piecemeal approaches to problem-solving. His contention was that only a systems approach that takes the whole world into account can address the complex problems facing humanity.&#x20;
+SPEC takes inspiration from the work of the renowned 20th-century inventor and visionary Richard Buckminster Fuller. Fuller dedicated his life to creating systems and technologies that would enable people to live healthy and productive lives. His contention was that only a systems approach that takes the whole world into account can address the complex problems facing humanity.&#x20;
 
 #### &#x20;Fuller envisioned the world game as a place where individuals or teams of people cooperated to:
 
@@ -18,7 +14,7 @@ SPEC takes inspiration from the work of the renowned 20th-century inventor and v
 
 At SPEC, we believe that the technologies needed to realize Fuller's vision exist today. Modern computers enable distributed collaboration, information processing, and data analysis capabilities that Fuller only could have dreamed of. We can use these technologies to build sustainable systems of living and working. However, advanced technologies alone won't make Fuller's vision for the world a reality.
 
-We will need to adopt a radically transparent and equitable approach to building organizations and communities. SPEC must foster participation and action by members of the communities affected by its work. By working alongside underserved communities and uplifting unheard voices, SPEC's collective intelligence and collaborative network will continue to grow. Only then will we be able to collaboratively innovate to create solutions that truly make the world work for all people and the planet.
+We will need to adopt a radically transparent and equitable approach to building organizations and communities. SPEC fosters participation and action by members of the communities affected by its work. By working alongside underserved communities and uplifting unheard voices, SPEC's collective intelligence and collaborative network will continue to grow. Only then will we be able to collaboratively innovate to create solutions that truly make the world work for all people and the planet.
 
 ## Core Values
 
