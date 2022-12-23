@@ -16,21 +16,21 @@ We won't be able to create these jobs without funding. Please consider donating 
 
 ### Joe Torreggiani
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 **Co-founder & Collective Administrator**\
 San Francisco, California
 
 ### Nan Eileen Mead
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 **Research Lead**\
 New York City Metropolitan Area
 
 ### Marcus Steiner
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 **Operations Lead**\
 Noblesville, Indiana
@@ -42,17 +42,48 @@ Noblesville, Indiana
 **Research Associate**\
 ****Arlington, TX
 
-### Matt Moore
-
-![](../../.gitbook/assets/matt-moore.png)
-
-**Research Associate (Engineering)**\
-****Raleigh-Durham-Chapel Hill Area
-
 ### Victoria Lo
 
-#### Research Associate (Engineering)
+![](<../../.gitbook/assets/self\_photo copy.jpeg>)
+
+**Research Associate (Engineering)**\
+****San Francisco Bay Area
+
+### Yoline Banerjee
+
+![](<../../.gitbook/assets/image (5).png>)
+
+**Research Associate (Engineering)**\
+****Oakland, California
+
+### Alicia Bong
+
+![](<../../.gitbook/assets/image (6).png>)
+
+**Research Associate**\
+****Philadelphia, PA
+
+### Lawrence Kincheloe
+
+![](<../../.gitbook/assets/image (7).png>)
+
+**Research Associate (Engineering)**\
+****Norman, OK
+
+### Ilia de Leon
+
+![](<../../.gitbook/assets/image (3).png>)
+
+**Research Associate (UX/UI Designer)**\
+****New York City Metropolitan Area
+
+### Joe Golden
+
+![](<../../.gitbook/assets/image (2).png>)
+
+**Research Associate** \
+****New York City Metropolitan Area
 
 ## Get Involved
 
-Interested in joining the team? SPEC is always looking for highly dedicated contributors who have an interest in and passion for sustainability, social justice, and community development. If you are interested in becoming a researcher or contributor at SPEC please email us at [info@specollective.org](mailto:info@specollective.org). The more information about your research interests, areas expertise, and learning objectives the better. Please attach or link any helpful information about you including your resume, CV, cover letter, and portfolio.
+Interested in joining the team? SPEC is always looking for highly dedicated contributors who have an interest in and passion for sustainability, social justice, and community development. If you are interested in becoming a researcher or contributor at SPEC please email us at [info@specollective.org](mailto:info@specollective.org). The more information about your research interests, areas of expertise, and learning objectives the better. Please attach or link any helpful information about you including your resume, CV, cover letter, and portfolio.
