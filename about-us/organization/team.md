@@ -16,7 +16,7 @@ We won't be able to create these jobs without funding. Please consider donating 
 
 ### Joe Torreggiani
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 **Co-founder & Collective Administrator**\
 San Francisco, California
@@ -44,7 +44,7 @@ Noblesville, Indiana
 
 ### Sam Miyamoto
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 **Research Associate (Engineering)**\
 ****Los Angeles, CA
@@ -65,7 +65,7 @@ Noblesville, Indiana
 
 ### Alicia Bong
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (2).png>)
 
 **Research Associate**\
 ****Philadelphia, PA
@@ -86,14 +86,14 @@ Noblesville, Indiana
 
 ### Joe Golden
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 **Research Associate** \
 ****New York City Metropolitan Area
 
 ### Najwana Nashmin
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 **Research Associate (Engineering)**\
 ****Greater Seattle Area
