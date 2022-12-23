@@ -16,7 +16,7 @@ We won't be able to create these jobs without funding. Please consider donating 
 
 ### Joe Torreggiani
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 **Co-founder & Collective Administrator**\
 San Francisco, California
@@ -42,6 +42,13 @@ Noblesville, Indiana
 **Research Associate**\
 ****Arlington, TX
 
+### Sam Miyamoto
+
+![](<../../.gitbook/assets/image (5).png>)
+
+**Research Associate (Engineering)**\
+****Los Angeles, CA
+
 ### Victoria Lo
 
 ![](<../../.gitbook/assets/self\_photo copy.jpeg>)
@@ -51,7 +58,7 @@ Noblesville, Indiana
 
 ### Yoline Banerjee
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (2).png>)
 
 **Research Associate (Engineering)**\
 ****Oakland, California
@@ -74,15 +81,29 @@ Noblesville, Indiana
 
 ![](<../../.gitbook/assets/image (3).png>)
 
-**Research Associate (UX/UI Designer)**\
+**Research Associate (UX/UI Research)**\
 ****New York City Metropolitan Area
 
 ### Joe Golden
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 **Research Associate** \
 ****New York City Metropolitan Area
+
+### Najwana Nashmin
+
+![](<../../.gitbook/assets/image (9).png>)
+
+**Research Associate (Engineering)**\
+****Greater Seattle Area
+
+### Crystal Shamsi
+
+![](../../.gitbook/assets/image.png)
+
+**Research Associate (Engineering)**\
+****Steamboat Springs, CO
 
 ## Get Involved
 
