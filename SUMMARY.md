@@ -6,6 +6,7 @@
 
 * [History](about-us/history.md)
 * [Mission](about-us/mission/README.md)
+  * [Our Vision](about-us/mission/our-vision.md)
   * [Core Values](about-us/mission/core-values.md)
   * [Operating Principles](about-us/mission/operating-principles.md)
 * [Organization](about-us/organization/README.md)
