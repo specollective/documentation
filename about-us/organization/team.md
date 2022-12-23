@@ -49,6 +49,10 @@ Noblesville, Indiana
 **Research Associate (Engineering)**\
 ****Raleigh-Durham-Chapel Hill Area
 
+### Victoria Lo
+
+#### Research Associate (Engineering)
+
 ## Get Involved
 
 Interested in joining the team? SPEC is always looking for highly dedicated contributors who have an interest in and passion for sustainability, social justice, and community development. If you are interested in becoming a researcher or contributor at SPEC please email us at [info@specollective.org](mailto:info@specollective.org). The more information about your research interests, areas expertise, and learning objectives the better. Please attach or link any helpful information about you including your resume, CV, cover letter, and portfolio.
