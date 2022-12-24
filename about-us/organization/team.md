@@ -16,7 +16,7 @@ We won't be able to create these jobs without funding. Please consider donating 
 
 ### Joe Torreggiani
 
-![](<../../.gitbook/assets/joe (1).png>)
+![](../../.gitbook/assets/joe.png)
 
 **Co-founder & Collective Administrator**\
 San Francisco, California

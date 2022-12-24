@@ -37,6 +37,7 @@
   * [Buffalo Project Papers](our-work/research-and-development/research-papers.md)
   * [Peer Review Process](our-work/research-and-development/peer-review-process.md)
   * [Citation Format](our-work/research-and-development/citation-format.md)
+* [Partnerships](our-work/partnerships.md)
 * [Testimonials](our-work/testimonials.md)
 
 ## Knowledge Base
