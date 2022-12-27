@@ -6,11 +6,7 @@ We aim to uplift people from underrepresented backgrounds and communities by pro
 
 ## Core Values
 
-SPEC's founders established the collective based on the core values of **sustainability, progress,** and **equality**. These values provide a recipe for building organizations that are radically transparent, sustainable, and equitable. The world is constantly changing and SPEC will continuously evolve to adapt, incorporating the voices and collective knowledge of its members. To learn more about SPEC's Core Values, click the link below.
-
-{% content-ref url="about-us/mission/core-values.md" %}
-[core-values.md](about-us/mission/core-values.md)
-{% endcontent-ref %}
+SPEC's founders established the collective based on the core values of **sustainability, progress,** and **equality**. These values provide a recipe for building organizations that are radically transparent, sustainable, and equitable. The world is constantly changing and SPEC will continuously evolve to adapt, incorporating the voices and collective knowledge of its members. To learn more about [SPEC's Core Values](./#core-values) click the link below.
 
 ## Our Work
 
@@ -18,7 +14,7 @@ SPEC's founders established the collective based on the core values of **sustain
 >
 > Richard Buckminster Fuller
 
-We are developing a model for building radically transparent, equitable, and sustainable organizations and communities. SPEC is only a year old, but we've already accomplished a lot!
+We are developing a model for building radically transparent, equitable, and sustainable organizations and communities. SPEC is just over two years old, but we've already accomplished a lot!
 
 * Provided **credit-bearing internships** or **paid work experiences**
 * **Incubated** and supported several **community partnerships** focused on addressing issues of **inequity in the US and abroad**
@@ -26,21 +22,11 @@ We are developing a model for building radically transparent, equitable, and sus
 * Launched the **Journal of Engaged Research**
 * Sponsored a virtual **LGBTQIA+ art gallery**
 * Developed the **SPEC Learning platform** and piloted a **free micro-credential course**
-* Contributed to **open source software** and **sustainability** **initiatives**
-
-Hear from some of our contributors about their experience working at SPEC.
-
-{% content-ref url="our-work/testimonials.md" %}
-[testimonials.md](our-work/testimonials.md)
-{% endcontent-ref %}
+* Contributed to **open-source software** and **sustainability** **initiatives**
 
 ## Our Team
 
-SPEC is run by a small and dedicated team of contributors and volunteers. We come from different social identities, backgrounds, and perspectives. SPEC's co-founders and steering committee work entirely on a volunteer basis, have no financial stake in the collective, and do not receive compensation in any form.
-
-{% content-ref url="about-us/organization/team.md" %}
-[team.md](about-us/organization/team.md)
-{% endcontent-ref %}
+SPEC is run by a small and dedicated team of contributors and volunteers. We come from different social identities, backgrounds, and perspectives. SPEC's co-founders and steering committee work entirely on a volunteer basis, have no financial stake in the collective and do not receive compensation in any form. See our [team page](./#our-team) to learn more.
 
 ## Our Collective
 
@@ -48,23 +34,10 @@ SPEC is organized as an open collective, a collaborative group that has a shared
 
 SPEC is fiscally sponsored by the [Open Collective Foundation 501(c)(3)](https://opencollective.foundation/) (OCF), which allows it to operate without legally incorporating, and accept tax deductible donations, and pay contributors. OCF's mission is to empower impact-focused groups working on increasing access to educational resources and training, creating a positive social impact, and fostering civic participation within cities and communities.
 
-OCF is creating a legal, financial, and technical commons for a solidarity economy, economic activities that prioritize social profitability instead of purely financial profits. A distinguishing characteristic of solidarity economy entities is the participatory and democratic nature of their governance in decision-making processes. Active participation of all people involved in decision-making contributes to community empowerment.
-
-{% content-ref url="about-us/organization/" %}
-[organization](about-us/organization/)
-{% endcontent-ref %}
+OCF is creating a legal, financial, and technical commons for a solidarity economy, economic activities that prioritize social profitability instead of purely financial profits. A distinguishing characteristic of solidarity economy entities is the participatory and democratic nature of their governance in decision-making processes. Active participation of all people involved in decision-making contributes to community empowerment. Learn more on our [organization page](about-us/organization/).
 
 ## Become a contributor!
 
 SPEC is always looking for highly dedicated contributors who have an interest in and passion for sustainability, social justice, and community development. Help us build a world that works for everyone and protect the planet! If you are interested in becoming a researcher or contributor at SPEC please email us at [info@specollective.org](mailto:info@specollective.org).&#x20;
 
-The more information about your research interests, areas expertise, and learning objectives the better. Please attach or link any helpful information about you including your resume or CV, cover letter, and portfolio. You can also review our onboarding documentation to familiarize yourself with SPEC processes and procedures.
-
-{% content-ref url="about-us/organization/onboarding/" %}
-[onboarding](about-us/organization/onboarding/)
-{% endcontent-ref %}
-
-## References
-
-1. [https://www.bfi.org/about-fuller/big-ideas/world-game](https://www.bfi.org/about-fuller/big-ideas/world-game)
-2. [https://blog.opencollective.com/solidarity-as-our-guiding-principle](https://blog.opencollective.com/solidarity-as-our-guiding-principle/)
+The more information about your research interests, areas expertise, and learning objectives the better. Please attach or link any helpful information about you including your resume or CV, cover letter, and portfolio. You can also review our [onboarding documentation](about-us/organization/onboarding/) to familiarize yourself with SPEC processes and procedures.
