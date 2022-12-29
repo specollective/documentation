@@ -6,7 +6,7 @@ We aim to uplift people from underrepresented backgrounds and communities by pro
 
 ## Core Values
 
-SPEC's founders established the collective based on the core values of **sustainability, progress,** and **equality**. These values provide a recipe for building organizations that are radically transparent, sustainable, and equitable. The world is constantly changing and SPEC will continuously evolve to adapt, incorporating the voices and collective knowledge of its members. To learn more about [SPEC's Core Values](./#core-values) click the link below.
+SPEC's founders established the collective based on the core values of **sustainability, progress,** and **equality**. These values provide a recipe for building organizations that are radically transparent, sustainable, and equitable. The world is constantly changing and SPEC will continuously evolve to adapt, incorporating the voices and collective knowledge of its members. To learn more about [SPEC's Core Values](about-us/mission/core-values.md) click the link below.
 
 ## Our Work
 
