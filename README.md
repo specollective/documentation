@@ -26,7 +26,7 @@ We are developing a model for building radically transparent, equitable, and sus
 
 ## Our Team
 
-SPEC is run by a small and dedicated team of contributors and volunteers. We come from different social identities, backgrounds, and perspectives. SPEC's co-founders and steering committee work entirely on a volunteer basis, have no financial stake in the collective and do not receive compensation in any form. See our [team page](./#our-team) to learn more.
+SPEC is run by a small and dedicated team of contributors and volunteers. We come from different social identities, backgrounds, and perspectives. SPEC's co-founders and steering committee work entirely on a volunteer basis, have no financial stake in the collective and do not receive compensation in any form. See our [team page](about-us/organization/team.md) to learn more.
 
 ## Our Collective
 
