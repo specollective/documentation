@@ -1,5 +1,5 @@
 ---
-description: 🚧This page is under construction and is considered incomplete. 🚧
+description: 🚧 This page is under construction and is considered incomplete. 🚧
 ---
 
 # Onboarding
@@ -46,13 +46,7 @@ Yay you are signed up for Slack! You should be able to login in on your phone or
 
 If your project lead or mentor hasn't already sent you an introduction email or message on Slack, feel free to look them up on Slack and send them a message. If you have any trouble connecting with your lead you can always reach out via [info@specollective.org](mailto:info@specollective.org).
 
-## 8. Request access to our Google Drive.
-
-Google Drive is a file storage and synchronization service developed by Google, that allows users to store files in the cloud (on Google's servers), synchronize files across devices, and share files. You can request to be added to SPEC's shared Google Drive.
-
-{% embed url="https://drive.google.com/drive/folders/0AHz8ukOC2rQdUk9PVA" %}
-
-## 9. Read SPEC's expense policy
+## 8. Read SPEC's expense policy
 
 Before you start working on a paid project for SPEC, make sure you read the collective's [expense policy](../expense-policy.md). You should know what times of work and activities are considered billable and non-billable. If you have any questions about whether a task is billable please reach our to your manager, mentor, or email us at [info@specollective.org](mailto:info@specollective.org).
 
@@ -60,19 +54,19 @@ Before you start working on a paid project for SPEC, make sure you read the coll
 [expense-policy.md](../expense-policy.md)
 {% endcontent-ref %}
 
-## 10. Sign up for Toggl Track
+## 9. Sign up for Toggl Track
 
 Toggl Track is a time tracking software company that offers online time tracking and reporting services. We recommend RAs and contributors use the tool to track their time and generate invoices. If you are a contractor and already have tool you use thats fine too! Just make sure whatever tool you use can generate invoices with the information required by our Expense Policy.
 
 {% embed url="https://www.youtube.com/watch?v=KBQfpJlM_sM" %}
 
-## 11. Register for Open Collective
+## 10. Register for Open Collective
 
 Open Collective is an online funding platform for open and transparent communities. It provides the tools to raise and share your finances in full transparency. If you are a paid research associate or contributor you will need to register to Open Collective to submit your expenses / reimbursements.
 
 {% embed url="https://opencollective.com/create-account?next=%2Fspec" %}
 
-## 12. Create a Github Account
+## 11. Create a Github Account
 
 If you will be contributing to SPEC's software projects, writing documentation, or conducting research, you will probably need to create a Github account.
 
