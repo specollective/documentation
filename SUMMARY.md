@@ -98,6 +98,7 @@
 
 ## Contributing
 
+* [Earth Tones - Call for Artists](contributing/earth-tones-call-for-artists.md)
 * [Donate](contributing/donate.md)
 * [Call for Researchers](contributing/call-for-researchers.md)
 * [Call for Researchers - RAND Partnership](contributing/call-for-researchers-rand-partnership.md)
