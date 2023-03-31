@@ -30,11 +30,9 @@ In addition to our code of conduct, we require all SPEC contributors to follow i
 
 {% embed url="https://docs.google.com/document/d/1atp6stjasN9S9Q_z-lXMlRSXBvjVnNYioOw8_4aHrmE/edit#heading=h.14ghw61a9hwe" %}
 
-## 4. Sign up for SPEC's Slack workspace.
+## 4. Sign up for SPEC's Mattermost workspace.
 
-Slack is business communication platform the provides persistent chat rooms (channels) organized by topic, private groups, and direct messaging. We use Slack as are primary means of communication and is the fastest we to get in touch with us.
-
-{% embed url="https://join.slack.com/t/sustainablepr-ijh4438/shared_invite/zt-u8el931i-bcP~drBHSOQXvAA049cRlQ" %}
+Mattermost is an open-source communication platform the provides persistent chat rooms (channels) organized by topic, private groups, and direct messaging. We use Mattermost as our primary means of communication and is the fastest we to get in touch with us. When you have completed your onboarding process, we will provide you with an invitation link.
 
 ## 5. Say hello to the team!
 
