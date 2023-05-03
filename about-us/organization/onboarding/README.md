@@ -4,7 +4,7 @@ description: 🚧 This page is under construction and is considered incomplete. 
 
 # Onboarding
 
-> #### Even the greatest was once a beginner. Don't be afraid to take that first step.
+> Even the greatest was once a beginner. Don't be afraid to take that first step.
 >
 > Muhammad Ali
 
@@ -37,8 +37,6 @@ Mattermost is an open-source communication platform the provides persistent chat
 ## 5. Say hello to the team!
 
 Yay you are signed up for Slack! You should be able to login in on your phone or computer. If you are new to Slack we recommend following Slack's quick start guide. Once you've successfully signed in, feel free to introduce yourself in our #general channel!
-
-{% embed url="https://www.youtube.com/watch?v=m2JuAa6-ors&feature=emb_title" %}
 
 ## 6. Touch base with your project lead or mentor.
 

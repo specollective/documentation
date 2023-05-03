@@ -1,78 +1,87 @@
 # Code of Conduct
 
-## Our Pledge
+Our code of conduct is adopted from the guidelines developed by the [NumFOCUS](https://numfocus.org/code-of-conduct) community. If you have any questions about SPEC's code of conduct please email us at info@specollective.org.
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+## THE SHORT VERSION
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+Be kind to others. Do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate. All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate. We are dedicated to providing a harassment-free community for everyone, regardless of gender, sexual orientation, gender identity and expression, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of community members in any form. Thank you for helping make this a welcoming, friendly community for all.
 
-## Our Standards <a id="our-standards"></a>
+## THE LONG VERSION
 
-Examples of behavior that contributes to a positive environment for our community include:
+Sustainable Progress and Equality Collective (SPEC) welcomes and encourages participation in our community by people of all backgrounds and identities. We are committed to promoting and sustaining a culture that values mutual respect, tolerance, and learning, and we work together as a community to help each other live out these values. We have created this diversity statement because we believe that a diverse community is stronger, more vibrant, and produces better software and better science. A diverse community where people treat each other with respect has more potential contributors, more sources for ideas, and fewer shared assumptions that might hinder development or research. Although we have phrased the formal diversity statement generically to make it all-inclusive, we recognize that there are specific identities that are impacted by systemic discrimination and marginalization. We welcome all people to participate in the SPEC community regardless of their identity or background.
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall community
+## Introduction and Scope
 
-Examples of unacceptable behavior include:
+This code of conduct should be honored by everyone who participates in the SPEC community. It should be honored in any SPEC-related activities, by anyone claiming affiliation with SPEC, and especially when someone is representing SPEC in any role (including as an event volunteer or speaker). This code of conduct applies to all spaces managed by SPEC, including all public and private mailing lists, issue trackers, wikis, forums, and any other communication channel used by our community. The code of conduct equally applies at SPEC events and governs standards of behavior for attendees, speakers, volunteers, booth staff, and event sponsors. This code is not exhaustive or complete. It serves to distill our understanding of a collaborative, inclusive community culture. Please try to follow this code in spirit as much as in letter, to create a friendly and productive environment that enriches the SPEC community. We require all SPEC sponsored and affiliated projects to adopt a code of conduct for their project that encourages a productive, respectful environment for all open source contributors and community members. The SPEC Code of Conduct follows below.
 
-* The use of sexualized language or imagery, and sexual attention or advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
+## Standards for Behavior
+
+SPEC is a worldwide community. All communication should be appropriate for a professional audience including people of many different backgrounds. Please always be kind and courteous. There’s never a need to be mean or rude or disrespectful. Thank you for helping make this a welcoming, friendly community for all.
+
+## We Strive to:
+
+### Be empathetic, welcoming, friendly, and patient.
+
+We remember that every SPEC project and program is crafted by human beings who deserve to be treated with kindness and empathy. We work together to resolve conflict and assume good intentions. We may all experience some frustration from time to time, but we do not allow frustration to turn into a personal attack. A community where people feel uncomfortable or threatened is not a productive one.
+
+### Be collaborative.
+
+Our work depends on the participation of many people, and in turn others depend on our work. Open source communities depend on effective and friendly collaboration to achieve their goals.
+
+### Be inquisitive.
+
+Nobody knows everything! Asking questions early avoids many problems later, so we encourage questions, although we may direct them to the appropriate forum. We will try hard to be responsive and helpful.
+
+### Be careful in the words that we choose.
+
+We are careful and respectful in our communication and we take responsibility for our own speech. Be kind to others. Do not insult or put down other members of the community.
+
+## Unacceptable Behavior
+
+We are committed to making participation in this community a harassment-free experience. We will not accept harassment or other exclusionary behaviors, such as:
+
+* The use of sexualized language or imagery
+* Excessive profanity (please avoid curse words; people differ greatly in their sensitivity to swearing)
+* Posting sexually explicit or violent material
+* Violent or intimidating threats or language directed against another person
+* Inappropriate physical contact and/or unwelcome sexual attention or sexual comments
+* Sexist, racist, or otherwise discriminatory jokes and language
+* Trolling or insulting and derogatory comments
+* Written or verbal comments which have the effect of excluding people on the basis of membership in a specific group, including level of experience, gender, gender identity and expression, sexual orientation, disability, neurotype, personal appearance, body size, race, ethnicity, age, religion, or nationality
 * Public or private harassment
-* Publishing others’ private information, such as a physical or email address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+* Sharing private content, such as emails sent privately or non-publicly, or direct message history, without the sender’s consent
+* Continuing to initiate interaction (such as photography, recording, messaging, or conversation) with someone after being asked to stop
+* Sustained disruption of talks, events, or communications, such as heckling of a speaker
+* Publishing (or threatening to post) other people’s personally identifying information (“doxing”), such as physical or electronic addresses, without explicit permission
+* Other unethical or unprofessional conduct
+* Advocating for, or encouraging, any of the above behaviors
 
-## Enforcement Responsibilities <a id="enforcement-responsibilities"></a>
+### Reporting Guidelines
 
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+If you believe someone is violating the code of conduct, please report this in a timely manner. Code of conduct violations reduce the value of the community for everyone. The team at SPEC takes reports of misconduct very seriously and is committed to preserving and maintaining the welcoming nature of our community.
 
-Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+**All reports will be kept confidential.**
 
-## Scope <a id="scope"></a>
+In some cases we may determine that a public statement will need to be made. If that’s the case, the identities of all involved parties and reporters will remain confidential unless those individuals instruct us otherwise.
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The SPEC team commits to maintaining confidentiality with regard to the reporter of an incident.
 
-## Enforcement <a id="enforcement"></a>
+For possibly unintentional breaches of the code of conduct, you may want to respond to the person and point out this code of conduct (either in public or in private, whatever is most appropriate). If you would prefer not to do that, please email SPEC at conduct@specollective.org.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [info@specollective.org](mailto:info@specollective.org). All complaints will be reviewed and investigated promptly and fairly.
+Take care of each other. Alert SPEC if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
 
-All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+#### How to Submit a Report
 
-## Enforcement Guidelines <a id="enforcement-guidelines"></a>
+**If you feel your safety is in jeopardy or the situation is an emergency, we urge you to contact local law enforcement before making a report to SPEC. (In the U.S., dial 911.)**
 
-Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+SPEC is committed to promptly addressing any reported issues. If you have experienced or witnessed behavior that violates the SPEC Code of Conduct, please email us at conduct@specollective.org and include your name, title/position, level of urgency, and details about where and when the incident occurred.
 
-### 1. Correction <a id="1-correction"></a>
+### Person(s) Responsible for Resolving Incidents&#x20;
 
-**Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
+All reports of breaches of the code of conduct will be investigated by the SPEC Code of Conduct Enforcement Team, who will handle intake procedures. Currently, the Code of Conduct Enforcement Team consists of SPEC's core leadership team and steering committee.
 
-**Consequence**: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
+If an incident takes place at an event or meetup or within the community channels of a SPEC project, the SPEC Code of Conduct Enforcement Team will reach out to the relevant organizers/community managers/project leaders as necessary to follow up on the incident.
 
-### 2. Warning <a id="2-warning"></a>
+**If the incident you are reporting involves a member of SPEC's core leadership team or steering committee and  you do not feel comfortable submitting your report to the code of conduct enforcement team you can reach out to SPEC's fiscal host Open Collective Foundation.**
 
-**Community Impact**: A violation through a single incident or series of actions.
-
-**Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
-
-### 3. Temporary Ban <a id="3-temporary-ban"></a>
-
-**Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.
-
-**Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
-
-### 4. Permanent Ban <a id="4-permanent-ban"></a>
-
-**Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
-
-**Consequence**: A permanent ban from any sort of public interaction within the community.
-
-## Attribution <a id="attribution"></a>
-
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1, available at [https://www.contributor-covenant.org/version/2/1/code\_of\_conduct.html](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
-
-Community Impact Guidelines were inspired by [Mozilla’s code of conduct enforcement ladder](https://github.com/mozilla/diversity).
-
-For answers to common questions about this code of conduct, see the FAQ at [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations are available at [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
-
+As a fiscally hosted collective, SPEC is required to operate in accordance with [OCF's sponsorship agreement](https://docs.google.com/document/u/1/d/e/2PACX-1vQ\_fs7IOojAHaMBKYtaJetlTXJZLnJ7flIWkwxUSQtTkWUMtwFYC2ssb-ooBnT-Ldl6wbVhNQiCkSms/pub) and [Open Collective's Community Guidelines](https://docs.opencollective.com/help/about/the-open-collective-way/community-guidelines). As such escalations concerning SPEC's leadership team should be escalated to OCF. You can email OCF at contact@opencollective.foundation.
