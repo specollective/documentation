@@ -26,7 +26,7 @@ An individual contributor (IC) is a professional without management responsibili
 
 **Expert**
 
-An expert is somebody who has a broad and deep competence in terms of knowledge, skill and experience through practice and education in a particular field. **** \[3]
+An expert is somebody who has a broad and deep competence in terms of knowledge, skill and experience through practice and education in a particular field. \[3]
 
 #### **Leader**
 
@@ -82,9 +82,9 @@ Contributor levels marked with the under construction emoji ( 🚧), are in deve
 
 **Leader** responsible for finding and launching a project, arranging financing, hiring contributors, coordinating with core team, and overseeing all elements of pre-production, production and post-production, right up to release of projects and services.
 
-&#x20;**** 🚧**L4 - Integrator** 🚧
+&#x20;🚧**L4 - Integrator** 🚧
 
-**Systems thinker** responsible **** for **** managing multiple technical programs and work streams simultaneously. Seeks to optimize processes, detect project risks, identify feedback loops, and develop systematic solutions that manage human and technical factors.
+**Systems thinker** responsible for managing multiple technical programs and work streams simultaneously. Seeks to optimize processes, detect project risks, identify feedback loops, and develop systematic solutions that manage human and technical factors.
 
 ## Management Track
 

@@ -10,4 +10,3 @@ Psychology is the study of mind and behavior. The subject matter of psychology i
 
 * [Open Yale Courses - Psychology](https://oyc.yale.edu/psychology)
 
-****

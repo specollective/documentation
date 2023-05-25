@@ -99,7 +99,7 @@
 ## Contributing
 
 * [Donate](contributing/donate.md)
-* [Earth Tones - Call for Artists](contributing/earth-tones-call-for-artists.md)
+* [Journal of Engaged Research - Equity](contributing/journal-of-engaged-research-equity.md)
 * [Call for Researchers](contributing/call-for-researchers.md)
 * [Call for Researchers - RAND Partnership](contributing/call-for-researchers-rand-partnership.md)
 * [Contributor Levels](contributing/contributor-levels.md)

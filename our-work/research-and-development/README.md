@@ -88,7 +88,7 @@ An agile approach to development is intended to improve the effectiveness of sof
 
 ## References
 
-1. Michael Goodman, [_Systems Thinking What, Why, When, and Where_](https://thesystemsthinker.com/systems-thinking-what-why-when-where-and-how/)_,_ The __ Systems Thinker
+1. Michael Goodman, [_Systems Thinking What, Why, When, and Where_](https://thesystemsthinker.com/systems-thinking-what-why-when-where-and-how/)_,_ The Systems Thinker
 2. Bammer, [Embedding Critical Systems Thinking in the Academy](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.737.5436\&rep=rep1\&type=pdf), National Centre for Epidemiology and Population Health, The Australian National University
 3. Wikipedia, [Action Research](https://en.wikipedia.org/wiki/Action\_research)
 4. Indeed Editorial Team, [_How To Demonstrate Collaboration in the Workplace_](https://www.indeed.com/career-advice/career-development/demonstrate-collaboration-in-the-workplace)_,_ Indeed.com (2021)

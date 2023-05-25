@@ -1,6 +1,6 @@
 # Electrical Engineering
 
-Electrical engineering **** is the study, design, and application of equipment, devices, and systems which use electricity and electromagnetism.&#x20;
+Electrical engineering is the study, design, and application of equipment, devices, and systems which use electricity and electromagnetism.&#x20;
 
 **Books**
 

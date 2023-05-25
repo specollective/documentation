@@ -16,7 +16,7 @@ We won't be able to create these jobs without funding. Please consider donating 
 
 ### Joe Torreggiani
 
-![](../../.gitbook/assets/joe.png)
+![](<../../.gitbook/assets/joe (1).png>)
 
 **Co-founder & Collective Administrator**\
 San Francisco, California
@@ -40,70 +40,70 @@ Noblesville, Indiana
 ![](../../.gitbook/assets/grant.jpeg)
 
 **Research Associate**\
-****Arlington, TX
+Arlington, TX
 
 ### Sam Miyamoto
 
 ![](../../.gitbook/assets/sam.png)
 
 **Research Associate (Engineering)**\
-****Los Angeles, CA
+Los Angeles, CA
 
 ### Victoria Lo
 
 ![](../../.gitbook/assets/victoria.jpeg)
 
 **Research Associate (Engineering)**\
-****San Francisco Bay Area
+San Francisco Bay Area
 
 ### Yoline Banerjee
 
 ![](../../.gitbook/assets/yoline.png)
 
 **Research Associate (Engineering)**\
-****Oakland, California
+Oakland, California
 
 ### Alicia Bong
 
 ![](../../.gitbook/assets/alicia.png)
 
 **Research Associate**\
-****Philadelphia, PA
+Philadelphia, PA
 
 ### Lawrence Kincheloe
 
 ![](../../.gitbook/assets/lawrence.png)
 
 **Research Associate (Engineering)**\
-****Norman, OK
+Norman, OK
 
 ### Ilia de Leon
 
 ![](<../../.gitbook/assets/image (3).png>)
 
 **Research Associate (UX/UI Research)**\
-****New York City Metropolitan Area
+New York City Metropolitan Area
 
 ### Joe Golden
 
 ![](<../../.gitbook/assets/joeg copy.jpg>)
 
 **Research Associate** \
-****New York City Metropolitan Area
+New York City Metropolitan Area
 
 ### Najwana Nashmin
 
 ![](<../../.gitbook/assets/najwana copy.jpg>)
 
 **Research Associate (Engineering)**\
-****Greater Seattle Area
+Greater Seattle Area
 
 ### Crystal Shamsi
 
 ![](<../../.gitbook/assets/crystal copy.jpg>)
 
 **Research Associate (Engineering)**\
-****Steamboat Springs, CO
+Steamboat Springs, CO
 
 ## Get Involved
 
