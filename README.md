@@ -30,11 +30,7 @@ SPEC is run by a small and dedicated team of contributors and volunteers. We com
 
 ## Our Collective
 
-SPEC is organized as an open collective, a collaborative group that has a shared mission, which raises and spends funds transparently to achieve goals. SPEC is hosted on [Open Collective](https://opencollective.com/), an online funding platform that provides groups with the tools for raising and sharing their finances in full transparency. The platform makes all contributions and expenses visible to the public. SPEC's budget and expenses can be found on its [Open Collective page](https://opencollective.com/spec).
-
-SPEC is fiscally sponsored by the [Open Collective Foundation 501(c)(3)](https://opencollective.foundation/) (OCF), which allows it to operate without legally incorporating, and accept tax deductible donations, and pay contributors. OCF's mission is to empower impact-focused groups working on increasing access to educational resources and training, creating a positive social impact, and fostering civic participation within cities and communities.
-
-OCF is creating a legal, financial, and technical commons for a solidarity economy, economic activities that prioritize social profitability instead of purely financial profits. A distinguishing characteristic of solidarity economy entities is the participatory and democratic nature of their governance in decision-making processes. Active participation of all people involved in decision-making contributes to community empowerment. Learn more on our [organization page](about-us/organization/).
+SPEC is organized as an open collective, a collaborative group that has a shared mission, which raises and spends funds transparently to achieve goals. SPEC is fiscally sponsored by the [Hack Club Bank 501(c)(3) ](https://hackclub.com/fiscal-sponsorship/)which allows it to operate without legally incorporating, and accept tax deductible donations, and pay contributors.
 
 ## Become a contributor!
 
